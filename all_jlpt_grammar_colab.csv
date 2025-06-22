@@ -1,0 +1,832 @@
+lesson_order,level,id,grammar,romaji,meaning_en
+1,5,N5-001,ちゃいけない・じゃいけない,cha ikenai / ja ikenai,must not do (spoken Japanese)
+2,5,N5-002,だ・です,da / desu,"to be (am, is, are, were, used to)"
+3,5,N5-003,だけ,dake,only; just; as much as
+4,5,N5-004,だろう,darou,I think; it seems; probably; right?
+5,5,N5-005,で,de,in; at; on; by; with; via
+6,5,N5-006,でも,demo,but; however
+7,5,N5-007,でしょう,deshou,I think; it seems; probably; right?
+8,5,N5-008,どんな,donna,what kind of; what sort of
+9,5,N5-009,どうして,doushite,why; for what reason; how
+10,5,N5-010,どうやって,douyatte,how; in what way; by what means
+11,5,N5-011,が,ga,subject marker; however; but
+12,5,N5-012,があります,ga arimasu,there is; is (non-living things)
+13,5,N5-013,がほしい,ga hoshii,to want something
+14,5,N5-014,がいます,ga imasu,there is; to be; is (living things)
+15,5,N5-015,ほうがいい,hou ga ii,had better; it'd be better to; should~
+16,5,N5-016,い-adjectives,i-adjectives,i-adjectives
+17,5,N5-017,一番,ichiban,the most; the best
+18,5,N5-018,一緒に,issho ni,together
+19,5,N5-019,いつも,itsumo,always; usually; habitually
+20,5,N5-020,じゃない・ではない,janai / dewa nai,to not be (am not; is not; are not)
+21,5,N5-021,か,ka,question particle
+22,5,N5-022,か〜か,ka~ka,or
+23,5,N5-023,から,kara,because; since; from
+24,5,N5-024,方,kata,the way of doing something; how to do
+25,5,N5-025,けど,kedo,but; however; although
+26,5,N5-026,けれども,keredo mo,but; however; although
+27,5,N5-027,まだ,mada,still; not yet
+28,5,N5-028,まだ〜ていません,mada ~te imasen,have not yet
+29,5,N5-029,まで,made,until ~; as far as ~; to (an extent); even ~
+30,5,N5-030,前に,mae ni,before ~; in front of ~
+31,5,N5-031,ませんか,masen ka,would you; do you want to; shall we~
+32,5,N5-032,ましょう,mashou,let's ~; shall we ~
+33,5,N5-033,ましょうか,mashouka,shall I ~; used to offer help to the listener
+34,5,N5-034,も,mo,too; also; as well
+35,5,N5-035,もう,mou,already; anymore; again; other
+36,5,N5-036,な-adjectives,na-adjectives,na-adjectives
+37,5,N5-037,なあ,naa,"sentence ending particle; confirmation; admiration, etc"
+38,5,N5-038,ないで,naide,without doing~ ; To do [B] without doing [A]
+39,5,N5-039,ないでください,naide kudasai,please don't do
+40,5,N5-040,なくてもいい,naku temo ii,don't have to
+41,5,N5-041,なくちゃ,nakucha,must do; need to; gotta do
+42,5,N5-042,なくてはいけない,nakute wa ikenai,must do; need to do
+43,5,N5-043,なくてはならない,nakute wa naranai,must do; need to do
+44,5,N5-044,なる,naru,to become
+45,5,N5-045,んです,ndesu,to explain something; show emphasis
+46,5,N5-046,ね,ne,isn't it? right? eh?
+47,5,N5-047,に,ni,destination particle; in; at; on; to
+48,5,N5-048,にいく,ni iku,go to do
+49,5,N5-049,にする,ni suru,to decide on
+50,5,N5-050,に/へ,ni/e,to (indicates direction / destination)
+51,5,N5-051,の,no,possessive particle
+52,5,N5-052,のです,no desu,to explain something; show emphasis
+53,5,N5-053,のが下手,no ga heta,to be bad at doing something
+54,5,N5-054,のが上手,no ga jouzu,to be good at
+55,5,N5-055,のが好き,no ga suki,to like doing something
+56,5,N5-056,の中で[A]が一番,no naka de [A] ga ichiban,"out of this group, [A] is best"
+57,5,N5-057,ので,node,because of; given that; since
+58,5,N5-058,を,o / wo,object marker particle
+59,5,N5-059,をください,o kudasai,please give me~
+60,5,N5-060,しかし,shikashi,but; however
+61,5,N5-061,すぎる,sugiru,too much
+62,5,N5-062,たことがある,ta koto ga aru,to have done something before
+63,5,N5-063,たい,tai,want to do something
+64,5,N5-064,たり〜たり,tari~tari,do such things as A and B
+65,5,N5-065,てある,te aru,is/has been done (resulting state)
+66,5,N5-066,ている,te iru,ongoing action or current state
+67,5,N5-067,てから,te kara,after doing~
+68,5,N5-068,てください,te kudasai,please do
+69,5,N5-069,てはいけない,te wa ikenai,must not; may not; cannot
+70,5,N5-070,てもいいです,temo ii desu,is OK to..; is alright to..; may I..?
+71,5,N5-071,と,to,and; with; as; connecting particle
+72,5,N5-072,とき,toki,when; at this time
+73,5,N5-073,とても,totemo,very; awfully; exceedingly
+74,5,N5-074,つもり,tsumori,plan to ~; intend to ~
+75,5,N5-075,は,wa - topic marker,topic marker
+76,5,N5-076,は〜より・・・です,wa ~yori... desu,[A] is more ~ than [B]
+77,5,N5-077,はどうですか,wa dou desu ka,how about; how is
+78,5,N5-078,や,ya,and; or; connecting particle
+79,5,N5-079,よ,yo,you know; emphasis (ending particle)
+80,5,N5-080,より〜ほうが,yori ~hou ga,[A] is more than [B]
+1,4,N4-001,間,aida,while; during; between
+2,4,N4-002,間に,aida ni,while/during~ something happened
+3,4,N4-003,あまり～ない,amari~nai,"not very, not much"
+4,4,N4-004,後で,ato de,after ~; later
+5,4,N4-005,ば,ba,conditional form; If [A] then [B]
+6,4,N4-006,場合は,baai wa,in the event of; in the case that
+7,4,N4-007,ばかり,bakari,only; nothing but
+8,4,N4-008,だけで,dake de,just by; just by doing
+9,4,N4-009,出す,dasu,to suddenly begin; to suddenly appear
+10,4,N4-010,でございます,de gozaimasu,to be (honorific)
+11,4,N4-011,でも,demo,... or something
+12,4,N4-012,ではないか,dewa nai ka,right?; isn't it?
+13,4,N4-013,が必要,ga hitsuyou,need; necessary
+14,4,N4-014,がする,ga suru,to smell; hear; taste
+15,4,N4-015,がり,gari,personality; tend to~; sensitivity towards~
+16,4,N4-016,がる・がっている,garu; gatteiru,to show signs of; to appear; to feel
+17,4,N4-017,ございます,gozaimasu,"to be, to exist (polite form of いる/ある)"
+18,4,N4-018,始める,hajimeru,to start; to begin to ~
+19,4,N4-019,はずだ,hazu da,it must be; it should be (expectation)
+20,4,N4-020,はずがない,hazu ga nai,cannot be (impossible)
+21,4,N4-021,必要がある,hitsuyou ga aru,need to; it is necessary to
+22,4,N4-022,意向形,ikou kei,volitional form; let's do ~
+23,4,N4-023,いらっしゃる,irassharu,to be; to come; to go (polite version)
+24,4,N4-024,いたします,itashimasu,to do (polite form of する)
+25,4,N4-025,じゃないか,janai ka,right? isn't it? let's~; confirmation
+26,4,N4-026,かどうか,ka dou ka,whether or not
+27,4,N4-027,かしら,ka shira,I wonder
+28,4,N4-028,かい,kai,turns a sentence into a yes/no question
+29,4,N4-029,かもしれない,kamo shirenai,might; perhaps; indicates possibility
+30,4,N4-030,かな,kana,I wonder; should I?
+31,4,N4-031,から作る,kara tsukuru,made from; made with
+32,4,N4-032,きっと,kitto,surely; undoubtedly; certainly; likely
+33,4,N4-033,頃,koro / goro,around; about; when
+34,4,N4-034,こと,koto,Verb nominalizer
+35,4,N4-035,ことがある,koto ga aru,there are times when
+36,4,N4-036,ことができる,koto ga dekiru,can; able to
+37,4,N4-037,ことになる,koto ni naru,It has been decided that..; it turns out ~
+38,4,N4-038,ことにする,koto ni suru,to decide on
+39,4,N4-039,くする,ku suru,to make something ~
+40,4,N4-040,急に,kyuu ni,suddenly
+41,4,N4-041,までに,made ni,by; by the time; indicates time limit
+42,4,N4-042,まま,mama,as it is; current state; without changing
+43,4,N4-043,または,matawa,both; or; otherwise; choice of [A] or [B]
+44,4,N4-044,みたいだ,mitai da,"like, similar to, resembling"
+45,4,N4-045,みたいな,mitai na,"like, similar to"
+46,4,N4-046,みたいに,mitai ni,"like, similar to"
+47,4,N4-047,も,mo,as many as; as much as; up to; nearly
+48,4,N4-048,な,na,don’t ~ (order somebody to not do ~)
+49,4,N4-049,など,nado,"such as, things like"
+50,4,N4-050,ながら,nagara,while; during; as; simultaneously
+51,4,N4-051,なかなか～ない,nakanaka~nai,not easy to; struggling to; not able to~
+52,4,N4-052,なければいけない,nakereba ikenai,must do something; have to do something
+53,4,N4-053,なければならない,nakereba naranai,must do something; have to do something
+54,4,N4-054,なら,nara,if; in the case that ~
+55,4,N4-055,なさい,nasai,do this (soft/firm command)
+56,4,N4-056,なさる,nasaru,to do (honorific)
+57,4,N4-057,に気がつく,ni ki ga tsuku,to notice; to realize
+58,4,N4-058,にみえる,ni mieru,to look; to seem; to appear
+59,4,N4-059,にする,ni suru,to make something ~
+60,4,N4-060,にくい,nikui,difficult to do
+61,4,N4-061,の中で,no naka de,"in, among"
+62,4,N4-062,のに,noni,"although, in spite of, even though"
+63,4,N4-063,のに,noni,to (do something); in order to
+64,4,N4-064,のは〜だ,nowa~da,[A] is [B]; the reason for [A] is [B]
+65,4,N4-065,お～ください,o~kudasai,please do (honorific)
+66,4,N4-066,お～になる,o~ni naru,to do (honorific)
+67,4,N4-067,おきに,oki ni,"repeated at intervals, every"
+68,4,N4-068,終わる,owaru,to finish; to end
+69,4,N4-069,られる,rareru,potential form; ability/inability to do ~
+70,4,N4-070,らしい,rashii,it seems like; I heard; apparently~
+71,4,N4-071,さ,sa,-ness ; nominalizer for adjective
+72,4,N4-072,さっき,sakki,some time ago; just now
+73,4,N4-073,させられる,saserareru,causative-passive; to be made to do ~
+74,4,N4-074,させる,saseru,causative form; to make/let somebody do
+75,4,N4-075,させてください,sasete kudasai,please let me do
+76,4,N4-076,さすが,sasuga,as one would expect; as is to be expected
+77,4,N4-077,し,shi,and; and what’s more; emphasis
+78,4,N4-078,そんなに,sonna ni,so much; so; like that
+79,4,N4-079,それでも,sore demo,but still; and yet; even so
+80,4,N4-080,そうだ,sou da [1],I heard that; it is said that
+81,4,N4-081,そうだ,sou da [2],looks like; appears like
+82,4,N4-082,そうに・そうな,sou ni / sou na,seems like; looks like
+83,4,N4-083,たばかり,ta bakari,just finished; something just occurred
+84,4,N4-084,たところ,ta tokoro,"just finished doing, was just doing"
+85,4,N4-085,他動詞 & 自動詞,tadoushi & jidoushi,Transitive & Intransitive Verbs
+86,4,N4-086,たがる,tagaru,wants to do~ (third person)
+87,4,N4-087,たら,tara,"if, after, when"
+88,4,N4-088,たらどう,tara dou,why don't you
+89,4,N4-089,たらいいですか,tara ii desu ka,what should I do?; seeking instruction
+90,4,N4-090,て / で,te / de,"conjunctive; so; because of [A], [B]..."
+91,4,N4-091,てあげる,te ageru,to do for; to do a favor
+92,4,N4-092,てほしい,te hoshii,I want you to; need you to~
+93,4,N4-093,ていく,te iku,to start; to continue; to go on
+94,4,N4-094,ていた,te ita,was doing something (past continuous)
+95,4,N4-095,ていただけませんか,te itadakemasen ka,could you please
+96,4,N4-096,てくれる,te kureru,to do a favor; do something for someone
+97,4,N4-097,てくる,te kuru,to do… and come back; to continue
+98,4,N4-098,てみる,te miru,try doing
+99,4,N4-099,てもらう,te morau,to get somebody to do something
+100,4,N4-100,ておく,te oku,to do something in advance
+101,4,N4-101,てしまう / ちゃう,te shimau / chau,"to do something by accident, to finish"
+102,4,N4-102,てすみません,te sumimasen,I’m sorry for
+103,4,N4-103,てやる,te yaru,to do for; to do a favor (casual)
+104,4,N4-104,てよかった,te yokatta,I’m glad that..
+105,4,N4-105,ているところ,teiru tokoro,in the process of doing
+106,4,N4-106,ても,temo,even; even if; even though
+107,4,N4-107,と,to,"whenever [A] happens, [B] also happens"
+108,4,N4-108,と言ってもいい,to ittemo ii,you could say; one might say; I'd say
+109,4,N4-109,という,to iu,called; named; that
+110,4,N4-110,ということ,to iu koto,convert phrase into noun
+111,4,N4-111,と言われている,to iwarete iru,it is said that...
+112,4,N4-112,と聞いた,to kiita,I heard...
+113,4,N4-113,と思う,to omou,to think…; I think…; you think…
+114,4,N4-114,とか～とか,toka~toka,among other things; such as; like
+115,4,N4-115,ところ,tokoro,just about to; on the verge of doing ~
+116,4,N4-116,続ける,tsuzukeru,continue to; keen on
+117,4,N4-117,って,tte,named; called
+118,4,N4-118,受身形,ukemi kei,passive form; passive voice
+119,4,N4-119,は〜が… は,wa~ga... wa,[A] but [B]; however; comparison
+120,4,N4-120,やすい,yasui,easy to; likely to; prone to; a tendency to~
+121,4,N4-121,やっと,yatto,at last; finally; barely; narrowly
+122,4,N4-122,より,yori,than; rather than; more than
+123,4,N4-123,予定だ,yotei da,"plan to, intend to"
+124,4,N4-124,ようだ,you da,appears; seems; looks as if
+125,4,N4-125,ように / ような,you ni / you na,like; as; similar to
+126,4,N4-126,ようになる,you ni naru,to reach the point that; to turn into
+127,4,N4-127,ようにする,you ni suru,to try to; to make sure that
+128,4,N4-128,ようと思う,you to omou,thinking of doing; planning to
+129,4,N4-129,ぜひ,zehi,by all means; certainly; definitely
+130,4,N4-130,全然～ない,zenzen~nai,(not) at all
+131,4,N4-131,づらい,zurai,difficult to do
+1,3,N3-001,上げる,ageru,to finish doing~
+2,3,N3-002,あまり,amari,so much… that
+3,3,N3-003,あまりにも,amari ni mo,too…; so much… that; excessively~
+4,3,N3-004,合う,au,do something together
+5,3,N3-005,ばいい,ba ii,"should, can, it’d be good if"
+6,3,N3-006,ばよかった,ba yokatta,"should have, would have been better if~"
+7,3,N3-007,ば～ほど,ba~hodo,the more… the more
+8,3,N3-008,ば～のに,ba~noni,would have; should have; if only~
+9,3,N3-009,ばかりで,bakari de,only; just (negative description)
+10,3,N3-010,ばかりでなく,bakari denaku,not only.. but also; as well as
+11,3,N3-011,べきだ,beki da,should do~; must do~
+12,3,N3-012,べきではない,beki dewa nai,should not do~; must not do~
+13,3,N3-013,別に～ない,betsu ni~nai,"not really, not particularly"
+14,3,N3-014,ぶりに,buri ni,for the first time in (period of time)
+15,3,N3-015,中,chuu / juu,currently; during; throughout
+16,3,N3-016,だけ,dake,as much as~
+17,3,N3-017,だけでなく,dake de naku,not only… but also
+18,3,N3-018,だけど,dakedo,however; but
+19,3,N3-019,だらけ,darake,full of; covered with; a lot of~
+20,3,N3-020,どんなに～ても,donna ni~temo,no matter how (much)
+21,3,N3-021,どうしても,doushitemo,no matter what; at any cost; after all
+22,3,N3-022,ふりをする,furi o suru,to pretend; to act as if~
+23,3,N3-023,ふと,futo,suddenly; accidentally; unexpectedly
+24,3,N3-024,がち,gachi,tend to; tendency to; frequently; often~
+25,3,N3-025,がたい,gatai,very difficult to; impossible to
+26,3,N3-026,気味,gimi,-like; -looking; -looked; tending to
+27,3,N3-027,ごとに,goto ni,each; every; at intervals of
+28,3,N3-028,ほど,hodo,degree; extent; bounds; upper limit
+29,3,N3-029,ほど～ない,hodo~nai,is not as… as
+30,3,N3-030,一度に,ichido ni,all at once
+31,3,N3-031,いくら～ても,ikura~temo,no matter how~
+32,3,N3-032,一方だ,ippou da,more and more; continue to
+33,3,N3-033,一体,ittai,emphasis; what on earth?
+34,3,N3-034,じゃない,janai,maybe; most likely; confirmation
+35,3,N3-035,か何か,ka nani ka,or something
+36,3,N3-036,かける,kakeru,half-; not yet finished; in the middle of~
+37,3,N3-037,から〜にかけて,kara~ni kakete,through; from [A] to [B]
+38,3,N3-038,代わりに,kawari ni,instead of; in exchange for~
+39,3,N3-039,結果,kekka,as a result of; after
+40,3,N3-040,結局,kekkyoku,after all; eventually; in the end
+41,3,N3-041,決して～ない,kesshite~nai,never; by no means
+42,3,N3-042,切れない,kirenai,unable to do; too much to finish
+43,3,N3-043,きり,kiri,only; just; since; after
+44,3,N3-044,切る,kiru,to do something completely to the end
+45,3,N3-045,っけ,kke,casual suffix to confirm something
+46,3,N3-046,込む,komu,Move inside; do a long time
+47,3,N3-047,こそ,koso,for sure; precisely; definitely
+48,3,N3-048,こと,koto,(must) do
+49,3,N3-049,ことから,koto kara,from the fact that~
+50,3,N3-050,ことになっている,koto ni natteiru,to be expected to; it has been decided~
+51,3,N3-051,ことはない,koto wa nai,there is no need to; no possibility that~
+52,3,N3-052,ことは～が,koto wa~ga,although; but
+53,3,N3-053,くらい・ぐらい,kurai / gurai,approximately; about; to the extent
+54,3,N3-054,くせに,kuse ni,although~; despite the fact that~
+55,3,N3-055,まるで,maru de,as if; as though; just like
+56,3,N3-056,まさか,masaka,there's no way; that's impossible
+57,3,N3-057,めったに～ない,metta ni~nai,hardly; rarely; seldom
+58,3,N3-058,も～ば～も,mo~ba~mo,and; also; as well; either/or; neither
+59,3,N3-059,もしかしたら,moshika shitara,perhaps; maybe; perchance; by chance
+60,3,N3-060,もしも〜たら,moshimo~tara,if; in the case; supposing~
+61,3,N3-061,向け,muke,intended for; aimed at~
+62,3,N3-062,向き,muki,suitable for~
+63,3,N3-063,むしろ,mushiro,rather; instead; better
+64,3,N3-064,ながらも,nagara mo,but; although; despite
+65,3,N3-065,ないことはない,nai koto wa nai,can do~; is not impossible to~
+66,3,N3-066,ないと,naito,must do; unless/if you don't~
+67,3,N3-067,なかなか,nakanaka,quite~; pretty~; rather~; just not ~
+68,3,N3-068,なんか / なんて,nanka / nante,examples; modesty; make light of~
+69,3,N3-069,直す,naosu,to do something again; to do over
+70,3,N3-070,なるべく,naru beku,as much as possible
+71,3,N3-071,なぜなら,nazenara,because; the reason is
+72,3,N3-072,んだって,ndatte,I hear that; heard that~
+73,3,N3-073,に違いない,ni chigai nai,I’m sure/ certain; no doubt that
+74,3,N3-074,に反して,ni hanshite,against; contrary to; in contrast to
+75,3,N3-075,にかけて,ni kakete,over (a period); concerning; regarding~
+76,3,N3-076,に関する,ni kan suru,about; regarding; related to
+77,3,N3-077,にかわって,ni kawatte,instead of~; replacing~; on behalf of~
+78,3,N3-078,に比べて,ni kurabete,compared to~; in comparison to~
+79,3,N3-079,に慣れる,ni nareru,to be used to something
+80,3,N3-080,において,ni oite,in; at (place); regarding~; as for~
+81,3,N3-081,にしたがって,ni shitagatte,as; therefore; in accordance with
+82,3,N3-082,にしても,ni shite mo,even if; even though; regardless of
+83,3,N3-083,にしては,ni shite wa,for; considering it’s
+84,3,N3-084,に対して,ni taishite,towards; against; regarding~
+85,3,N3-085,にとって,ni totte,to; for; concerning; regarding~
+86,3,N3-086,について,ni tsuite,concerning; regarding; about; on
+87,3,N3-087,につれて,ni tsurete,as; in proportion to; with; as… then…
+88,3,N3-088,には,ni wa,for the purpose of; in order to~
+89,3,N3-089,によると /によれば,ni yoru to/ni yoreba,according to~
+90,3,N3-090,によって / による,ni yotte / ni yoru,by means of; due to; because of~
+91,3,N3-091,のでしょうか,no deshou ka,ask a question in a polite way
+92,3,N3-092,を中心に,o chuushin ni,focused on; centered on
+93,3,N3-093,をはじめ,o hajime,for example; starting with
+94,3,N3-094,を込めて,o komete,filled with; full of
+95,3,N3-095,を通じて /を通して,o tsuujite /o tooshite,through; via; throughout; by
+96,3,N3-096,おかげで,okage de,thanks to ...; owing to ...; because of ...
+97,3,N3-097,っぱなし,ppanashi,leaving (something) on / still in use
+98,3,N3-098,っぽい,ppoi,seems; somewhat; -ish; easily does~;
+99,3,N3-099,さえ,sae,even; so much as; not even
+100,3,N3-100,さえ～ば,sae~ba,if only; as long as
+101,3,N3-101,際に,sai ni,when; at the time of; in the case of
+102,3,N3-102,最中に,saichuu ni,while; during; in the middle of
+103,3,N3-103,さらに,sara ni,furthermore; again; more and more
+104,3,N3-104,さて,sate,conjunction: well; now; then
+105,3,N3-105,せいで,sei de,because of; due to; as a result of~
+106,3,N3-106,せいぜい,seizei,at the most; at best; to the utmost
+107,3,N3-107,しばらく,shibaraku,for a moment; for a while
+108,3,N3-108,しかない,shikanai,have no choice but~
+109,3,N3-109,そのために,sono tame ni,hence; for that reason; because of~
+110,3,N3-110,それとも,soretomo,or; or else
+111,3,N3-111,そうもない,sou mo nai,very unlikely to~; showing no signs of~
+112,3,N3-112,すでに,sude ni,something has already been done
+113,3,N3-113,すなわち,sunawachi,in other words; namely
+114,3,N3-114,数量 + は,suuryou + wa,at least
+115,3,N3-115,たものだ,ta mono da,used to do; would often do
+116,3,N3-116,たとたん,ta totan,as soon as; just as
+117,3,N3-117,たびに,tabi ni,whenever; every time
+118,3,N3-118,ために,tame ni,for; in order to; for the benefit of
+119,3,N3-119,確かに,tashika ni,"surely, certainly"
+120,3,N3-120,たて,tate,just done; freshly done; newly done
+121,3,N3-121,たとえ～ても,tatoe~temo,even if… is the case
+122,3,N3-122,例えば,tatoeba,for example
+123,3,N3-123,たって,tatte,even if; even though; no matter how
+124,3,N3-124,てばかりいる,te bakari iru,only; nothing but~
+125,3,N3-125,てごらん,te goran,(please) try to; (please) look
+126,3,N3-126,てはじめて,te hajimete,not until; only after [x] did I
+127,3,N3-127,てからでないと,te kara de nai to,must first do; cannot do without~
+128,3,N3-128,てしょうがない,te shou ga nai,can't help but~; very; extremely
+129,3,N3-129,て済む,te sumu,sufficient by; resolve by~
+130,3,N3-130,てはいけないから,te wa ikenai kara,in order to not~
+131,3,N3-131,ている場合じゃない,teiru baai janai,this is no time to be doing~
+132,3,N3-132,的,teki,change noun into na-adjective
+133,3,N3-133,ても始まらない,temo hajimaranai,even if you... it’s no use;
+134,3,N3-134,てもかまわない,temo kamawanai,it doesn't matter if ~
+135,3,N3-135,てもしょうがない,temo shou ga nai,there's no point to~; it's no use to~
+136,3,N3-136,と言えば,to ieba,speaking of; when you talk of~
+137,3,N3-137,といい / たらいい,to ii / tara ii,it would be nice if; should; I hope~
+138,3,N3-138,といっても,to ittemo,although I say; although one might say~
+139,3,N3-139,ということだ,to iu koto da,I heard; it means~; in other words~
+140,3,N3-140,というのは,to iu nowa,this means~; because~; that is to say
+141,3,N3-141,と言うと,to iu to,speaking of; when you say~
+142,3,N3-142,というより,to iu yori,rather than~
+143,3,N3-143,とみえる / とみえて,to mieru / to miete,it seems that~
+144,3,N3-144,とすれば,to sureba,in the case of~; assuming~; if A then B
+145,3,N3-145,と共に,to tomo ni,together with; at the same time as
+146,3,N3-146,途中で,tochuu de,on the way; in the middle of~
+147,3,N3-147,ところで,tokoro de,by the way~
+148,3,N3-148,ところが,tokoro ga,even so; however; even though~
+149,3,N3-149,とおりに,toori ni,in the same way as; in the way; as~
+150,3,N3-150,通す,toosu,to do until the end; to continually do
+151,3,N3-151,として,toshite,as~; in the role of~
+152,3,N3-152,とても～ない,totemo~nai,cannot possibly be; hardly~
+153,3,N3-153,とは限らない,towa kagiranai,not necessarily so; is not always true
+154,3,N3-154,つい,tsui,accidentally; unintentionally
+155,3,N3-155,ついに,tsui ni,finally ~; at last ~; in the end
+156,3,N3-156,ついでに,tsuide ni,"while, incidentally, at the same time"
+157,3,N3-157,つまり,tsumari,in other words; in summary; in short
+158,3,N3-158,つもりだった,tsumori datta,I thought I~; I believe I did~
+159,3,N3-159,つもりで,tsumori de,with the intention of doing~
+160,3,N3-160,うちに,uchi ni,while; before~
+161,3,N3-161,上で,ue de,upon; after; when; for; in order to
+162,3,N3-162,上に,ue ni,as well; not only… but also
+163,3,N3-163,は別として,wa betsu toshite,aside from; whether or not~
+164,3,N3-164,はもちろん,wa mochiron,not to mention; not only; but also~
+165,3,N3-165,は～で有名,wa~de yuumei,famous for~
+166,3,N3-166,わけだ,wake da,for that reason; no wonder
+167,3,N3-167,わけではない,wake dewa nai,it doesn’t mean that~
+168,3,N3-168,わけがない,wake ga nai,there is no way that~
+169,3,N3-169,わけにはいかない,wake niwa ikanai,must not; cannot afford to; must~
+170,3,N3-170,割に,wari ni,considering; relatively; unexpectedly
+171,3,N3-171,わざと,wazato,on purpose; intentionally~
+172,3,N3-172,わざわざ,wazawaza,to go to the trouble of
+173,3,N3-173,よりも,yorimo,rather than~; more than~
+174,3,N3-174,ようがない,you ga nai,there is no way to; it’s impossible to~
+175,3,N3-175,ような気がする,you na ki ga suru,have a feeling that; feels like; seems like
+176,3,N3-176,ように,you ni,"in order to, so that~"
+177,3,N3-177,ように見える,you ni mieru,to look; to seem; to appear~
+178,3,N3-178,ようとしない,you to shinai,not try to; not make an effort to~
+179,3,N3-179,ようとする,you to suru,try to; attempt to; be about to~
+180,3,N3-180,ずに,zuni,without doing~
+181,3,N3-181,ずにはいられない,zuni wa irarenai,can’t help but feel; can’t help but do
+182,3,N3-182,ずつ,zutsu,apiece; each; at a time
+1,2,N2-001,あげく,ageku,to end up; in the end; finally; after all
+2,2,N2-002,あるいは,aruiwa,or; either; maybe; perhaps; possibly
+3,2,N2-003,ばかり,bakari,"about, approximately"
+4,2,N2-004,ばかりだ,bakari da,continue to (go in negative direction)
+5,2,N2-005,ばかりか,bakari ka,not only.. but also; as well as
+6,2,N2-006,ばかりに,bakari ni,simply because; on account of
+7,2,N2-007,ちなみに,chinamini,by the way; incidentally
+8,2,N2-008,ちっとも～ない,chitto mo~nai,(not) at all; (not) in the least
+9,2,N2-009,だけあって,dake atte,being the case; precisely because
+10,2,N2-010,だけましだ,dake mashi da,it’s better than; should feel grateful for
+11,2,N2-011,だけに,dake ni,being the case; precisely because
+12,2,N2-012,だけのことはある,dake no koto wa aru,as expected of; not for nothing
+13,2,N2-013,だけは,dake wa,to do all that one can
+14,2,N2-014,だって,datte,because; but; after all; even; too
+15,2,N2-015,でしかない,de shika nai,merely; nothing but; no more than
+16,2,N2-016,どころではない,dokoro dewa nai,not the time for; far from
+17,2,N2-017,どころか,dokoro ka,far from; anything but; let alone
+18,2,N2-018,どうやら,dou yara,apparently; seems like; somehow
+19,2,N2-019,どうせ,douse,anyhow; in any case; at any rate
+20,2,N2-020,得ない,enai,unable to; cannot; it is not possible to~
+21,2,N2-021,得る,eru / uru,can; to be able to; is possible to~
+22,2,N2-022,再び,futatabi,again; once more
+23,2,N2-023,ふうに,fuu ni,this way; that way; in such a way; how
+24,2,N2-024,がきっかけで,ga kikkake de,as a result of; taking advantage of
+25,2,N2-025,げ,ge,looks like; seems like; appears to
+26,2,N2-026,逆に,gyaku ni,conversely; on the contrary
+27,2,N2-027,反面,hanmen,"while, although; on the other hand"
+28,2,N2-028,果たして,hatashite,as was expected; sure enough; really
+29,2,N2-029,一応,ichiou,more or less; pretty much; roughly
+30,2,N2-030,以外,igai,with the exception of; excepting
+31,2,N2-031,以上に,ijou ni,more than; not less than; beyond
+32,2,N2-032,以上は,ijou wa,because; since; seeing that
+33,2,N2-033,いきなり,ikinari,abruptly; suddenly; all of a sudden
+34,2,N2-034,一気に,ikki ni,in one go; without stopping; all at once
+35,2,N2-035,一方で,ippou de,"on one hand, on the other hand"
+36,2,N2-036,いわゆる,iwayuru,what is called; as it is called; so-called
+37,2,N2-037,いよいよ,iyoiyo,at last; finally; beyond doubt
+38,2,N2-038,上,jou,for the sake of; from the standpoint of
+39,2,N2-039,かのように,ka no you ni,as if; just like
+40,2,N2-040,かと思ったら,ka to omottara,just when; no sooner than
+41,2,N2-041,か～ないかのうちに,ka~nai ka no uchi ni,just as; right after; as soon as
+42,2,N2-042,かえって,kaette,on the contrary; rather; all the more
+43,2,N2-043,限り,kagiri,as long as; while… is the case; as far as
+44,2,N2-044,甲斐がある,kai ga aru,it’s worth one’s efforts to do something
+45,2,N2-045,かねない,kanenai,(someone) might do something
+46,2,N2-046,かねる,kaneru,unable to do something; can’t do~
+47,2,N2-047,から言うと,kara iu to,in terms of; from the point of view of
+48,2,N2-048,からこそ,kara koso,precisely because
+49,2,N2-049,から見ると,kara miru to,from the point of view of; judging from
+50,2,N2-050,からには,kara niwa,now that; since; so long as; because
+51,2,N2-051,からして,kara shite,judging from; based on; since; from
+52,2,N2-052,からすると,kara suru to,judging from; considering
+53,2,N2-053,からと言って,kara to itte,just because; even if; even though~
+54,2,N2-054,っこない,kkonai,no chance of; definitely not possible
+55,2,N2-055,ことだ,koto da,should do~ (suggestions or advice)
+56,2,N2-056,ことだから,koto dakara,because; since~
+57,2,N2-057,ことか,koto ka,how…!; what…!
+58,2,N2-058,ことなく,koto naku,without doing something even once
+59,2,N2-059,ことに,koto ni,emphasize speaker's feelings
+60,2,N2-060,ことにはならない,koto niwa naranai,just because… doesn’t mean~
+61,2,N2-061,くせして,kuse shite,although~; despite the fact that~
+62,2,N2-062,まだしも,madashimo,rather; better
+63,2,N2-063,まい,mai,will not; intend not to
+64,2,N2-064,ままに,mama ni,"as, to do as~"
+65,2,N2-065,全く～ない,mattaku~nai,not at all~
+66,2,N2-066,もかまわず,mo kamawazu,without caring; without worrying
+67,2,N2-067,も当然だ,mo touzen da,it’s only natural; no wonder
+68,2,N2-068,もの / もん,mono / mon,because; reason/ excuse/dissatisfaction
+69,2,N2-069,ものだ,mono da,describe feeling; express memories
+70,2,N2-070,ものだから,mono dakara,so; therefore; the reason for something
+71,2,N2-071,ものではない,mono dewa nai,shouldn’t do something; it’s impossible
+72,2,N2-072,ものがある,mono ga aru,there is such a thing; to be the case
+73,2,N2-073,ものか / もんか,mono ka / mon ka,as if; there's no way~
+74,2,N2-074,ものなら,mono nara,"if [A] is possible, then [B]"
+75,2,N2-075,ものの,monono,but; although; even though~
+76,2,N2-076,もっとも,motto mo,but then; although; though~
+77,2,N2-077,もう少しで,mou sukoshi de,"almost; nearly, close to~"
+78,2,N2-078,ないではいられない,nai dewa irarenai,can’t help but feel; can’t help but do
+79,2,N2-079,ないことには～ない,nai koto niwa~nai,unless you~
+80,2,N2-080,中を /中では,naka o /naka dewa,in; on; in the midst of; when; while~
+81,2,N2-081,なくはない,naku wa nai,it’s not that; I may (double negative)
+82,2,N2-082,なくて済む,nakute sumu,get by without doing~
+83,2,N2-083,何も～ない,nani mo~nai,nothing; (not) ~ at all
+84,2,N2-084,なお,nao,still; yet; furthermore; in addition~
+85,2,N2-085,ねばならない,neba naranai,have to do; must; should~
+86,2,N2-086,にあたって,ni atatte,at the time; on the occasion of~
+87,2,N2-087,にほかならない,ni hoka naranai,nothing but; none other than~
+88,2,N2-088,に限らず,ni kagirazu,not just; not only.. but also~
+89,2,N2-089,に限る,ni kagiru,is best; nothing is better than~
+90,2,N2-090,に限って,ni kagitte,only; in particular~
+91,2,N2-091,に関わらず,ni kakawarazu,in spite of; regardless of~
+92,2,N2-092,に関わる,ni kakawaru,to relate to; to have to do with
+93,2,N2-093,に決まっている,ni kimatte iru,certainly; I’m sure/certain that
+94,2,N2-094,に越したことはない,ni koshita koto wa nai,"it’s best that, nothing better than"
+95,2,N2-095,に応えて,ni kotaete,in response to
+96,2,N2-096,に加えて,ni kuwaete,in addition
+97,2,N2-097,に基づいて,ni motozuite,based on; on the basis of
+98,2,N2-098,に向かって,ni mukatte,to face; to go towards; to head to
+99,2,N2-099,に応じて,ni oujite,depending on; in accordance with
+100,2,N2-100,に際して,ni saishite,on the occasion of; at the time of
+101,2,N2-101,に先立ち,ni sakidachi,before; prior to
+102,2,N2-102,にせよ/ にしろ,ni seyo/ ni shiro,even if; regardless; whether... or
+103,2,N2-103,にしろ～にしろ,ni shiro~ni shiro,whether… or~
+104,2,N2-104,にしたら,ni shitara,from one’s perspective
+105,2,N2-105,にしても,ni shitemo,regardless of whether
+106,2,N2-106,に沿って,ni sotte,along with; in accordance with
+107,2,N2-107,に相違ない,ni soui nai,without a doubt; certain; sure
+108,2,N2-108,に過ぎない,ni suginai,no more than; just; merely; only~
+109,2,N2-109,に伴って,ni tomonatte,as; due to; with; along with; following
+110,2,N2-110,につけ,ni tsuke,every time; whenever; as; whether
+111,2,N2-111,につき,ni tsuki,due to; because of; per; each
+112,2,N2-112,にわたって,ni watatte,throughout; over a period of
+113,2,N2-113,にも関わらず,nimo kakawarazu,despite; in spite of; nevertheless
+114,2,N2-114,にて,nite,"in, at, with, by (formal particle)"
+115,2,N2-115,のももっともだ,no mo motto mo da,no wonder; …is only natural
+116,2,N2-116,の下で,no moto de,under; with~
+117,2,N2-117,の上では,no ue de wa,according to; from the viewpoint of~
+118,2,N2-118,のみならず,nominarazu,not only; besides; as well as~
+119,2,N2-119,ぬ,nu,negative verb conjugation (traditional)
+120,2,N2-120,抜きにして,nuki ni shite,without; leaving out; cutting out~
+121,2,N2-121,抜く,nuku,from beginning to end; completely
+122,2,N2-122,を契機に,o keiki ni,as a good opportunity/chance to
+123,2,N2-123,をめぐって,o megutte,concerning; in regard to~
+124,2,N2-124,をもとに,o moto ni,based on; derived from; building on
+125,2,N2-125,を除いて,o nozoite,except; with the exception of
+126,2,N2-126,を問わず,o towazu,regardless of; irrespective of; no matter
+127,2,N2-127,お～願う,o~negau,please do; could you please~
+128,2,N2-128,おまけに,omake ni,to make matters worse; what's more
+129,2,N2-129,恐らく,osoraku,perhaps; likely; probably; I dare say~
+130,2,N2-130,恐れがある,osore ga aru,it is feared that; to be in danger of
+131,2,N2-131,及び,oyobi,and; as well as~
+132,2,N2-132,ろくに～ない,roku ni~nai,not well; not enough; improperly
+133,2,N2-133,幸いなことに,saiwai na koto ni,fortunately; luckily; thankfully~
+134,2,N2-134,せいか,sei ka,perhaps because~
+135,2,N2-135,せっかく,sekkaku,especially; (thank you for) troubling to
+136,2,N2-136,せめて,semete,at least; at most~
+137,2,N2-137,次第,shidai,"as soon as, dependent upon"
+138,2,N2-138,次第で,shidai de,depending on; so~
+139,2,N2-139,次第に,shidai ni,gradually; in sequence; in order
+140,2,N2-140,しかも,shikamo,moreover; furthermore; what’s more~
+141,2,N2-141,その上,sono ue,besides; in addition; furthermore~
+142,2,N2-142,それなのに,sore na noni,and yet; despite this; but even so~
+143,2,N2-143,それなら,sore nara,if that’s the case; if so~
+144,2,N2-144,それにしても,sore ni shitemo,nevertheless; at any rate; even so
+145,2,N2-145,そう言えば,sou ieba,come to think of it~
+146,2,N2-146,そうすると,sou suru to,having done that; if that is done
+147,2,N2-147,末に,sue ni,finally; after; following; at the end
+148,2,N2-148,少しも～ない,sukoshi mo~nai,not one bit; not even a little~
+149,2,N2-149,少なくとも,sukunaku tomo,at least~
+150,2,N2-150,直ちに,tadachi ni,at once; immediately; directly
+151,2,N2-151,たまえ,tamae,do~; order somebody to do something
+152,2,N2-152,てばかりはいられない,te bakari wa irarenai,can’t keep doing~
+153,2,N2-153,てでも,te demo,even if I have to; by all means~
+154,2,N2-154,て以来,te irai,since; henceforth~
+155,2,N2-155,ていては,te ite wa,if one keeps doing~
+156,2,N2-156,てこそ,te koso,now that; since (something happened)
+157,2,N2-157,てまで,te made,even; will go far so as to~
+158,2,N2-158,てならない,te naranai,can't help but; dying to; extremely~
+159,2,N2-159,てたまらない,te tamaranai,can't help but; dying to; extremely~
+160,2,N2-160,て当然だ,te touzen da,natural; as a matter of course
+161,2,N2-161,ては / では,tewa / dewa,whenever; if; when~; repetitive action
+162,2,N2-162,てはいられない,tewa irarenai,can’t afford to; unable to~
+163,2,N2-163,てはならない,tewa naranai,must not; cannot; should not~
+164,2,N2-164,ては～ては,tewa~tewa,repetitive situations/actions
+165,2,N2-165,と同時に,to douji ni,at the same time as; while
+166,2,N2-166,といった,to itta,like; such as~
+167,2,N2-167,というふうに,to iu fuu ni,in such a way that~
+168,2,N2-168,ということは,to iu koto wa,that is to say; in other words~
+169,2,N2-169,というものだ,to iu mono da,something like; something called~
+170,2,N2-170,というものではない,to iu mono dewa nai,there is no guarantee that~
+171,2,N2-171,と考えられる,to kangaerareru,one can think that; it is conceivable that
+172,2,N2-172,とか（で）,toka (de),I heard that~
+173,2,N2-173,とっくに,tokku ni,long ago; already; a long time ago
+174,2,N2-174,ところだった,tokoro datta,was just about to do something
+175,2,N2-175,ところに,tokoro ni,at the time; just as I was~
+176,2,N2-176,ところを見ると,tokoro o miru to,judging from; seeing that~
+177,2,N2-177,とも,tomo,even if; no matter; though~
+178,2,N2-178,としても,toshitemo,assuming; even if~
+179,2,N2-179,つつ,tsutsu,while; even though; despite~
+180,2,N2-180,つつある,tsutsu aru,to be doing; in the process of doing~
+181,2,N2-181,上は,ue wa,now that; since; as long as~
+182,2,N2-182,はもとより,wa moto yori,also; let alone; from the beginning
+183,2,N2-183,はともかく,wa tomokaku,anyhow; anyway; regardless
+184,2,N2-184,わずかに,wazuka ni,slightly; only; barely; narrowly~
+185,2,N2-185,やがて,yagate,before long; soon; almost; eventually~
+186,2,N2-186,やら～やら,yara~yara,such things as A and B; and so on~
+187,2,N2-187,よほど / よっぽど,yohodo / yoppodo,very; greatly; much; to a large extent
+188,2,N2-188,より [2],yori,"from~ (a time, place, or person)"
+189,2,N2-189,よりほかない,yori hoka nai,to have no choice but~
+190,2,N2-190,ようでは,you dewa,if~ (bad result)
+191,2,N2-191,ようではないか,you dewa nai ka,let’s do (something); why don’t we~
+192,2,N2-192,ようか～まいか,you ka~mai ka,whether or not; considering options
+193,2,N2-193,要するに,you suru ni,in short; in a word; to sum up
+194,2,N2-194,ざるを得ない,zaru o enai,cannot help (doing); have no choice but
+195,2,N2-195,ずに済む,zu ni sumu,get by without doing~
+1,1,N1-001,敢えて,aete,dare to; deliberately; purposely ~
+2,1,N1-002,あくまでも,akumade mo,to the end; persistently; is still very ~
+3,1,N1-003,案の定,an no jou,just as one thought; sure enough
+4,1,N1-004,あらかじめ,arakajime,beforehand; in advance; previously
+5,1,N1-005,あっての,atte no,which can exist solely due to
+6,1,N1-006,ばこそ,ba koso,only because ~
+7,1,N1-007,ばそれまでだ /たらそれまでだ,ba sore made da / tara sore made da,if… then it’s over
+8,1,N1-008,べからず / べからざる,bekarazu/ bekarazaru,must not; should not; do not ~
+9,1,N1-009,べく,beku,in order to; for the purpose of ~
+10,1,N1-010,べくもない,beku mo nai,cannot possibly be ~
+11,1,N1-011,べくして,beku shite,as it is bound to (happen)
+12,1,N1-012,びる / びて / びた,biru / bite / bita,to seem to be; to appear; to behave as ~
+13,1,N1-013,ぶり / っぷり,buri / ppuri,style; manner; way
+14,1,N1-014,ぶる / ぶって / ぶった,buru / butte / butta,behaving like; to pretend / act like ~
+15,1,N1-015,だに / だにしない,dani / dani shinai,even; not even ~
+16,1,N1-016,だの〜だの,dano~dano,and; and the like; and so forth ~
+17,1,N1-017,だろうに,darou ni,"(1) surely..., but ~ (2) should have ~"
+18,1,N1-018,であれ / であろうと,de are / de arou to,whoever; whatever; however; even ~
+19,1,N1-019,であれ〜であれ,de are~de are,whether [A] or [B]
+20,1,N1-020,でもあり〜でもある,demo ari~demo aru,to also be; both… and ~
+21,1,N1-021,でも何でもない /くも何ともない,demo nan demo nai / kumo nan tomo nai,not in the least; nothing like that
+22,1,N1-022,でなくてなんだろう,denakute nan darou,must be; is definitely ~
+23,1,N1-023,ではあるまいか,dewa arumai ka,isn't it; I wonder if it’s not ~
+24,1,N1-024,ではあるまいし,dewa arumai shi,it’s not like; it isn’t as if ~
+25,1,N1-025,では済まない,dewa sumanai,it doesn’t end with just ~
+26,1,N1-026,どうにも〜ない,dou nimo~nai,not … by any means
+27,1,N1-027,が早いか,ga hayai ka,no sooner than; as soon as ~
+28,1,N1-028,が/も〜なら、〜も〜だ,"ga/mo~nara, ~mo~da",negative connection/comparison
+29,1,N1-029,がましい,gamashii,look like; sound like; somewhat like ~
+30,1,N1-030,がてら,gatera,while; at the same time; coincidentally
+31,1,N1-031,ごとき/ごとく/ごとし,gotoki/gotoku/gotoshi,like; as if; the same as ~
+32,1,N1-032,ぐるみ,gurumi,together (with); -wide
+33,1,N1-033,羽目になる,hame ni naru,to get stuck with (unpleasant)
+34,1,N1-034,ほどのことではない,hodo no koto dewa nai,it's not worth; no need to ~
+35,1,N1-035,ほうがましだ,hou ga mashi da,better than; would rather ~
+36,1,N1-036,放題,houdai,doing as one pleases; uncontrolled
+37,1,N1-037,いかんだ / いかんでは/ いかんによっては,ikan da / ikan dewa / ikan ni yotte wa,in accordance with; depending on ~
+38,1,N1-038,いかんにかかわらず /いかんによらず /いかんをとわず,ikan ni kakawarazu / ikan ni yorazu /ikan o towazu,regardless of; whether or not ~
+39,1,N1-039,いかなる,ikanaru,any kind of; every; whatever
+40,1,N1-040,いかに,ikani,how; in what way; to what extent
+41,1,N1-041,いかにも,ikani mo,indeed; really; just (like); very ~
+42,1,N1-042,いずれにしても / いずれにしろ / いずれにせよ,izure ni shitemo / izure ni shiro / izure ni seyo,anyhow; anyway; in any case ~
+43,1,N1-043,じみた,jimita,to become; to appear like; to look like ~
+44,1,N1-044,か否か,ka ina ka,whether or not ~
+45,1,N1-045,かと思いきや,ka to omoikiya,contrary to expectations
+46,1,N1-046,限りだ,kagiri da,to feel strongly
+47,1,N1-047,甲斐もなく,kai mo naku,despite; even though ~
+48,1,N1-048,可能性がある,kanousei ga aru,may/might; there’s a possibility that ~
+49,1,N1-049,からある / からする/ からの,kara aru / kara suru / kara no,at least; as much as; as many as ~
+50,1,N1-050,かれ〜かれ,kare~kare,sooner or later; more or less
+51,1,N1-051,かたがた,katagata,while; at the same time; incidentally ~
+52,1,N1-052,かたわら,katawara,while; at the same time; in addition
+53,1,N1-053,かつて,katsute,once; before; formerly; former; ex-
+54,1,N1-054,嫌いがある,kirai ga aru,bad habit; to have a tendency to ~
+55,1,N1-055,切りがない,kiri ga nai,endless; boundless; there’s no end to ~
+56,1,N1-056,きっての,kitte no,the most / greatest … of all
+57,1,N1-057,極まる / 極まりない,kiwamaru/ kiwamarinai,extremely; very ~
+58,1,N1-058,こそあれ,koso are,although; even though ~
+59,1,N1-059,こそすれ,koso sure,and; although; but ~
+60,1,N1-060,こそ「〜が・けれど」,koso~ga/keredo,but; although (emphasis)
+61,1,N1-061,ことごとく,koto gotoku,altogether; entirely; completely ~
+62,1,N1-062,ことこの上ない / この上ない / この上なく,koto kono ue nai / kono ue nai / kono ue naku,the most of all; the best; nothing is more ... than ~
+63,1,N1-063,こともあって,koto mo atte,partly because; also because of ~
+64,1,N1-064,ことなしに,koto nashi ni,without doing something
+65,1,N1-065,ことのないように,koto no nai you ni,so as not to; to not ~
+66,1,N1-066,こととて,koto tote,because; since ~
+67,1,N1-067,くらいなら,kurai nara,rather than (do ...)
+68,1,N1-068,くらいのものだ,kurai no mono da,only (emphasis)
+69,1,N1-069,までだ / までのことだ,made da/no koto da,only; just; nothing else
+70,1,N1-070,までもない / までもなく,made mo nai/naku,there's no need to; not necessary to ~
+71,1,N1-071,まじき,majiki,should not; must not ~
+72,1,N1-072,まくる,makuru,to do over and over again
+73,1,N1-073,まみれ,mamire,covered with; stained; smeared with ~
+74,1,N1-074,まるっきり,marukkiri,completely; totally; (not) at all ~
+75,1,N1-075,めく,meku,seems; show signs of ~
+76,1,N1-076,も同然だ,mo douzen da,just like; same as~
+77,1,N1-077,もさることながら,mo saru koto nagara,not only... but also ~
+78,1,N1-078,もしないで,mo shinai de,without even doing ~
+79,1,N1-079,もはや,mohaya,already; now; no longer; not anymore
+80,1,N1-080,もので,mono de,because; for that reason
+81,1,N1-081,ものを,mono o,if only (regret)
+82,1,N1-082,ものと思われる /ものと見られる,mono to omowareru/ mirareru,to think; to suppose; it is believed/expected that ~
+83,1,N1-083,ものとする,mono to suru,shall; to assume; understood as ~
+84,1,N1-084,ものとして,mono toshite,to assume; to suppose ~
+85,1,N1-085,もしくは,moshikuwa,or; otherwise
+86,1,N1-086,んばかりに,n bakari ni,as if; as though ~
+87,1,N1-087,んがために,n ga tame ni,in order to ~
+88,1,N1-088,ながらに / ながらの,nagara ni/no,while; without change
+89,1,N1-089,ないまでも,nai made mo,not to say; does not reach the level of~
+90,1,N1-090,ないものでもない,nai mono demo nai,is not entirely impossible
+91,1,N1-091,ないものか /ないものだろうか,nai mono ka / nai mono darou ka,isn't there; can’t we…?; can’t I…?
+92,1,N1-092,ないとも限らない,nai tomo kagiranai,not necessarily; maybe; might ~
+93,1,N1-093,なくしては,nakushite wa,cannot do without ~
+94,1,N1-094,並み,nami,average; equal to; on par with ~
+95,1,N1-095,なんという / なんと/ なんて,nan to iu / nanto / nante,"how (beautiful, etc.); what a ~"
+96,1,N1-096,何しろ,nani shiro,anyway; because; as you know ~
+97,1,N1-097,ならでは,nara dewa,distinctive of; uniquely applying to ~
+98,1,N1-098,ならいざしらず /はいざしらず,nara iza shirazu / wa iza shirazu,I don't know about ... but ~
+99,1,N1-099,なり,nari,as soon as; right after ~
+100,1,N1-100,なりに / なりの,nari ni / nari no,suitable; in one's own way/style
+101,1,N1-101,なりとも,nari tomo,at least; even just a little
+102,1,N1-102,なり〜なり,nari~nari,[A] or [B] or something; for instance ~
+103,1,N1-103,なしに / なしで,nashi ni / nashi de,without; without doing ~
+104,1,N1-104,に,ni,and; in addition to
+105,1,N1-105,に値する,ni atai suru,to be worth; to be worthy of ~
+106,1,N1-106,にあって,ni atte,at; on; during; in the condition of ~
+107,1,N1-107,に引き換え,ni hikikae,compared to; in contrast to; unlike ~
+108,1,N1-108,に至る / に至った,ni itaru / ni itatta,leads to; come to a conclusion
+109,1,N1-109,に至るまで,ni itaru made,as far as; everything from ... to ~
+110,1,N1-110,に至っても,ni itattemo,even if; although something ~
+111,1,N1-111,に至っては,ni ittate wa,when it comes to; as for ~
+112,1,N1-112,に言わせれば,ni iwasereba,if you ask; if one may say ~
+113,1,N1-113,に限ったことではない,ni kagitta koto dewa nai,not limited to only ~
+114,1,N1-114,にかかっては /にかかったら / にかかると / かかれば,ni kakatte wa / ni kakattara / ni kakaru to / kakareba,"when handled by (N), becomes a different result"
+115,1,N1-115,にかかっている,ni kakatteiru,depending on ~
+116,1,N1-116,にかこつけて,ni kako tsukete,to use as a pretext; to use as an excuse
+117,1,N1-117,にかまけて,ni kamakete,to be too busy; to focus only on ~
+118,1,N1-118,に難くない,ni katakunai,easy to do; it’s not hard to ~
+119,1,N1-119,にまつわる,ni matsuwaru,to be related to; to concern with ~
+120,1,N1-120,に則って,ni nottotte,based on; according to ~
+121,1,N1-121,に先駆けて,ni sakigakete,prior to; being ahead of ~
+122,1,N1-122,に忍びない,ni shinobinai,cannot bring oneself (to do)
+123,1,N1-123,にしたところで /としたところで,ni shita tokoro de / to shita tokoro de,even if; even supposing that ~
+124,1,N1-124,にして,ni shite,"at/on/under conditions (time, position)"
+125,1,N1-125,に即して,ni sokushite,according to; to be based on ~
+126,1,N1-126,に耐える / に耐えない,ni taeru / ni taenai,worth doing; cannot bear doing ~
+127,1,N1-127,に足らない/に足りない,ni taranai/tarinai,cannot; not worthy; not worth doing ~
+128,1,N1-128,に足る / に足りる,ni taru/tariru,can do; worthy; worth doing
+129,1,N1-129,に照らして,ni terashite,according to; in view of; in light of ~
+130,1,N1-130,にとどまらず,ni todomarazu,not limited to; not only… but also ~
+131,1,N1-131,には無理がある,ni wa muri ga aru,difficult to do; is unreasonable
+132,1,N1-132,によらず,ni yorazu,regardless of ~
+133,1,N1-133,に〜を重ねて,ni~o kasanete,success after continuous (effort)
+134,1,N1-134,にもほどがある,nimo hodo ga aru,to go too far
+135,1,N1-135,にも増して,nimo mashite,more than…; above ~
+136,1,N1-136,には当たらない,niwa ataranai,it’s not worth; there’s no need to ~
+137,1,N1-137,には及ばない,niwa oyobanai,there is no need to; no match for ~
+138,1,N1-138,の至り,no itari,utmost; extremely ~
+139,1,N1-139,の極み,no kiwami,utmost; extremely ~
+140,1,N1-140,のなんのって,no nan notte,extremely ~ (cannot express in words)
+141,1,N1-141,のやら / ものやら /ことやら,no yara / mono yara/ koto yara,I wonder..; unsure; I don’t know ~
+142,1,N1-142,のやら〜のやら,no yara~no yara,or ~ (I don't know)
+143,1,N1-143,を踏まえて,o fumaete,to be based on; to take into account ~
+144,1,N1-144,を経て,o hete,through; by way of; after; via ~
+145,1,N1-145,を控えて,o hikaete,to be soon; the time has come to ~
+146,1,N1-146,をいいことに,o ii koto ni,to take advantage of ~
+147,1,N1-147,を顧みず / も顧みず,o/mo kaerimizu,despite; regardless of ~
+148,1,N1-148,を限りに,o kagiri ni,starting from; the last time
+149,1,N1-149,を兼ねて,o kanete,also for the purpose of ~
+150,1,N1-150,を皮切りに,o kawakiri ni,one after another; starting with ~
+151,1,N1-151,を機に,o ki ni,as an opportunity/chance to ~
+152,1,N1-152,を禁じ得ない,o kinji enai,can’t help but; can’t refrain from ~
+153,1,N1-153,をものともせずに,o mono tomo sezuni,in defiance; not losing to/worrying about ~
+154,1,N1-154,をもって /をもちまして,o motte /o mochimashite,by means of; with; on / at / as of (time)
+155,1,N1-155,をおいて〜ない,o oite~nai,"can only be; no alternative, only ~"
+156,1,N1-156,を押して /を押し切って,o oshite /o oshikitte,to overcome (opposition)
+157,1,N1-157,を境に,o sakai ni,since ~ (indicates large change)
+158,1,N1-158,を余儀なくされる,o yogi naku sareru,forced to do something (no choice)
+159,1,N1-159,をよそに,o yoso ni,despite; without regards to ~
+160,1,N1-160,を前提として,o zentei toshite,with the intention to; on the condition
+161,1,N1-161,思いをする,omoi o suru,to think; to feel ~
+162,1,N1-162,折に,ori ni,when; at the time; on the occasion ~
+163,1,N1-163,およそ,oyoso,about; roughly; generally; completely ~
+164,1,N1-164,さ,sa,ending particle; indicates assertion
+165,1,N1-165,さも,samo,"really (seem, appear, etc.); truly; as if ~"
+166,1,N1-166,さもないと,samonaito,otherwise; or else; if not ~
+167,1,N1-167,さぞ,sazo,surely; certainly; no doubt; indeed ~
+168,1,N1-168,始末だ,shimatsu da,in the end; as a result (negative)
+169,1,N1-169,そばから,soba kara,as soon as; right after ~
+170,1,N1-170,そびれる,sobireru,to miss a chance; to fail to do ~
+171,1,N1-171,損なう / 損ねる /損じる,sokonau / sokoneru/ sonjiru,to fail to; miss a chance
+172,1,N1-172,術がない,sube ga nai,there is no way / means; cannot do ~
+173,1,N1-173,すら / ですら,sura / de sura,even ~ (with emphasis)
+174,1,N1-174,た弾みに /た拍子に,ta hazumi ni / ta hyoushi ni,"the moment [A], unintentionally caused something to happen"
+175,1,N1-175,たことにする /たことになる,ta koto ni suru / ta koto ni naru,pretend to; contrary to the truth ~
+176,1,N1-176,たところで,ta tokoro de,"even if; no matter (who, what, when...)"
+177,1,N1-177,たつもりはない,ta tsumori wa nai,have no intention to / didn't mean to ~
+178,1,N1-178,ただ〜のみだ,tada~nomi da,can do nothing but; only ~
+179,1,N1-179,ためしがない,tameshi ga nai,is never the case; have never heard of ~
+180,1,N1-180,たら最後 / たが最後,tara saigo / taga saigo,if you do... negative result
+181,1,N1-181,たら〜たで,tara~tade,if / in the case... of course / should ~
+182,1,N1-182,たら〜ところだ,tara~tokoro da,"if... (counterfactual), then would be ~"
+183,1,N1-183,たりとも,tari tomo,not even; not any ~
+184,1,N1-184,たるもの / たる,taru mono / taru,(that) which is; in capacity of ... should
+185,1,N1-185,て敵わない,te kanawanai,can't bear to; unable to; troublesome to
+186,1,N1-186,てからというもの,te kara to iu mono,ever since ~
+187,1,N1-187,てみせる,te miseru,I’ll do my best; I'll show you ~
+188,1,N1-188,てしかるべきだ,te shikaru beki da,should; appropriate; natural to do ~
+189,1,N1-189,て済むことではない,te sumu koto dewa nai,~ is not enough to solve the problem
+190,1,N1-190,てやまない,te yamanai,always; never stop; can’t help but ~
+191,1,N1-191,手前,temae,considering; before; one’s standpoint
+192,1,N1-192,てもどうにもならない,temo dou ni mo naranai,it's no use; can't do anything
+193,1,N1-193,ても差し支えない,temo sashitsukaenai,can ~; it’s okay if ~ (compromise)
+194,1,N1-194,ても知らない,temo shiranai,if continue... you'll end up / I don't care
+195,1,N1-195,と相まって,to aimatte,"together with..., more ~"
+196,1,N1-196,とあれば,to areba,if it is the case that; if ~
+197,1,N1-197,とあって,to atte,due to the fact that; because of ~
+198,1,N1-198,とばかりに,to bakari ni,as if to say; as though~
+199,1,N1-199,といえども,to ie domo,even if; even though; despite ~
+200,1,N1-200,と言えなくもない,to ienaku mo nai,it can also be said that ~
+201,1,N1-201,といい〜といい,to ii~to ii,both ... and; whether it be ... or ~
+202,1,N1-202,といったらない,to ittara nai,extremely; nothing more ... than this
+203,1,N1-203,という,to iu,all; every single ~ (no exceptions)
+204,1,N1-204,というか〜というか,to iu ka~to iu ka,or rather; I mean ~
+205,1,N1-205,というもの,to iu mono,during; for; since; over a period of time
+206,1,N1-206,というところだ /といったところだ,to iu tokoro da / to itta tokoro da,at the most; no more than; roughly ~
+207,1,N1-207,というわけだ,to iu wake da,that's why; no wonder ~
+208,1,N1-208,というわけではない,to iu wake dewa nai,it’s not that; it doesn’t mean that ~
+209,1,N1-209,といわず〜といわず,to iwazu~to iwazu,"both; not only A or B, but (overall) ~"
+210,1,N1-210,ときている,to kiteiru,because of ~
+211,1,N1-211,とみると,to miru to,"as soon as one realizes ..., then ~"
+212,1,N1-212,と見るや,to miru ya,at the sight of; after confirming ~
+213,1,N1-213,となると / となれば,to naru to / to nareba,when it comes to; in such a case
+214,1,N1-214,とされる,to sareru,is considered to; it is said that ~
+215,1,N1-215,ときたら,tokitara,when it comes to; concerning ~
+216,1,N1-216,ところを,tokoro o,although (it is a certain time/condition)
+217,1,N1-217,ともあろうものが,tomo arou mono ga,of all people... (surprise)
+218,1,N1-218,ともなく / ともなしに,tomo naku/nashi ni,somehow; without knowing/thinking
+219,1,N1-219,ともすれば,tomo sureba,apt to (do); tend to; liable to; prone to ~
+220,1,N1-220,とも〜とも,tomo~tomo,unable to draw a conclusion/ judge
+221,1,N1-221,とりわけ,toriwake,especially; above all ~
+222,1,N1-222,としたことが,toshita koto ga,"of all people, who would have thought?"
+223,1,N1-223,とっさに,tossa ni,at once; right away; promptly
+224,1,N1-224,とて,tote,even; even if/though ~
+225,1,N1-225,とは,towa,I was surprised that; the fact that ~
+226,1,N1-226,とはいえ,towa ie,though; although; nonetheless
+227,1,N1-227,とは比べものにならない,towa kurabemono ni naranai,can't compare with ~
+228,1,N1-228,とは打って変わって/ とは打って変わり,towa utte kawatte / to wa utte kawari,unlike; very different from ~
+229,1,N1-229,つ〜つ,tsu~tsu,and ~ (indicates 2 contrasting actions)
+230,1,N1-230,尽くす,tsukusu,to use up (completely)
+231,1,N1-231,ってば / ったら,tteba / ttara,speaking of; I told you already
+232,1,N1-232,うちに入らない,uchi ni hairanai,not really; can't be regarded as ~
+233,1,N1-233,わ,wa,feminine sentence ending particle
+234,1,N1-234,はどうであれ,wa dou de are,however; whatever ~
+235,1,N1-235,はおろか,wa oroka,let alone; needless to say ~
+236,1,N1-236,はさておき,wa sateoki,setting aside ~
+237,1,N1-237,はそっちのけで /をそっちのけで,wa socchinoke de / o socchinoke de,ignoring (one thing) for (another)
+238,1,N1-238,わ〜わで,wa~wade,and (list neg. things happening at same time)
+239,1,N1-239,や否や,ya ina ya,as soon as; the moment ~
+240,1,N1-240,やしない,ya shinai,"should do, but don't; there's no way ~"
+241,1,N1-241,やれ〜やれ,yare~yare,give 2 representative examples (negative)
+242,1,N1-242,ようが / ようと,you ga / you to,even if; no matter how/what ~
+243,1,N1-243,ようが〜ようが /ようと〜ようと,you ga~you ga / you to~you to,no matter; whether; even if [A] or [B]
