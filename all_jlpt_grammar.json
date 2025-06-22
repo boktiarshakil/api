@@ -1,0 +1,7481 @@
+[
+ {
+   "id": "N5-001",
+   "grammar": "ちゃいけない・じゃいけない",
+   "romaji": "cha ikenai / ja ikenai",
+   "meaning_en": "must not do (spoken Japanese)",
+   "meaning_bn": "অবশ্যই করা উচিত নয় (কথ্য রূপ)",
+   "level": 5,
+   "lesson_order": 1
+ },
+ {
+   "id": "N5-002",
+   "grammar": "だ・です",
+   "romaji": "da / desu",
+   "meaning_en": "to be (am, is, are, were, used to)",
+   "meaning_bn": "হওয়া (am, is, are)",
+   "level": 5,
+   "lesson_order": 2
+ },
+ {
+   "id": "N5-003",
+   "grammar": "だけ",
+   "romaji": "dake",
+   "meaning_en": "only; just; as much as",
+   "meaning_bn": "শুধুমাত্র; শুধু; পরিমাণে",
+   "level": 5,
+   "lesson_order": 3
+ },
+ {
+   "id": "N5-004",
+   "grammar": "だろう",
+   "romaji": "darou",
+   "meaning_en": "I think; it seems; probably; right?",
+   "meaning_bn": "সম্ভবত; তাই না? (সাধারণ রূপ)",
+   "level": 5,
+   "lesson_order": 4
+ },
+ {
+   "id": "N5-005",
+   "grammar": "で",
+   "romaji": "de",
+   "meaning_en": "in; at; on; by; with; via",
+   "meaning_bn": "-তে; -এ; দ্বারা; দিয়ে (স্থান, মাধ্যম নির্দেশক)",
+   "level": 5,
+   "lesson_order": 5
+ },
+ {
+   "id": "N5-006",
+   "grammar": "でも",
+   "romaji": "demo",
+   "meaning_en": "but; however",
+   "meaning_bn": "কিন্তু; তবে",
+   "level": 5,
+   "lesson_order": 6
+ },
+ {
+   "id": "N5-007",
+   "grammar": "でしょう",
+   "romaji": "deshou",
+   "meaning_en": "I think; it seems; probably; right?",
+   "meaning_bn": "সম্ভবত; তাই না? (ভদ্র রূপ)",
+   "level": 5,
+   "lesson_order": 7
+ },
+ {
+   "id": "N5-008",
+   "grammar": "どんな",
+   "romaji": "donna",
+   "meaning_en": "what kind of; what sort of",
+   "meaning_bn": "কোন ধরণের; কি রকম",
+   "level": 5,
+   "lesson_order": 8
+ },
+ {
+   "id": "N5-009",
+   "grammar": "どうして",
+   "romaji": "doushite",
+   "meaning_en": "why; for what reason; how",
+   "meaning_bn": "কেন; কি কারণে",
+   "level": 5,
+   "lesson_order": 9
+ },
+ {
+   "id": "N5-010",
+   "grammar": "どうやって",
+   "romaji": "douyatte",
+   "meaning_en": "how; in what way; by what means",
+   "meaning_bn": "কিভাবে; কোন উপায়ে",
+   "level": 5,
+   "lesson_order": 10
+ },
+ {
+   "id": "N5-011",
+   "grammar": "が",
+   "romaji": "ga",
+   "meaning_en": "subject marker; however; but",
+   "meaning_bn": "কর্তা নির্দেশক; কিন্তু; তবে",
+   "level": 5,
+   "lesson_order": 11
+ },
+ {
+   "id": "N5-012",
+   "grammar": "があります",
+   "romaji": "ga arimasu",
+   "meaning_en": "there is; is (non-living things)",
+   "meaning_bn": "আছে (জড় বস্তুর ক্ষেত্রে)",
+   "level": 5,
+   "lesson_order": 12
+ },
+ {
+   "id": "N5-013",
+   "grammar": "がほしい",
+   "romaji": "ga hoshii",
+   "meaning_en": "to want something",
+   "meaning_bn": "কোনো কিছু চাওয়া",
+   "level": 5,
+   "lesson_order": 13
+ },
+ {
+   "id": "N5-014",
+   "grammar": "がいます",
+   "romaji": "ga imasu",
+   "meaning_en": "there is; to be; is (living things)",
+   "meaning_bn": "আছে (জীবন্ত কিছুর ক্ষেত্রে)",
+   "level": 5,
+   "lesson_order": 14
+ },
+ {
+   "id": "N5-015",
+   "grammar": "ほうがいい",
+   "romaji": "hou ga ii",
+   "meaning_en": "had better; it'd be better to; should~",
+   "meaning_bn": "করাই ভালো; করা উচিত",
+   "level": 5,
+   "lesson_order": 15
+ },
+ {
+   "id": "N5-016",
+   "grammar": "い-adjectives",
+   "romaji": "i-adjectives",
+   "meaning_en": "i-adjectives",
+   "meaning_bn": "ই-বিশেষণ",
+   "level": 5,
+   "lesson_order": 16
+ },
+ {
+   "id": "N5-017",
+   "grammar": "一番",
+   "romaji": "ichiban",
+   "meaning_en": "the most; the best",
+   "meaning_bn": "সবচেয়ে; সেরা",
+   "level": 5,
+   "lesson_order": 17
+ },
+ {
+   "id": "N5-018",
+   "grammar": "一緒に",
+   "romaji": "issho ni",
+   "meaning_en": "together",
+   "meaning_bn": "একসাথে",
+   "level": 5,
+   "lesson_order": 18
+ },
+ {
+   "id": "N5-019",
+   "grammar": "いつも",
+   "romaji": "itsumo",
+   "meaning_en": "always; usually; habitually",
+   "meaning_bn": "সবসময়; সাধারণত",
+   "level": 5,
+   "lesson_order": 19
+ },
+ {
+   "id": "N5-020",
+   "grammar": "じゃない・ではない",
+   "romaji": "janai / dewa nai",
+   "meaning_en": "to not be (am not; is not; are not)",
+   "meaning_bn": "না হওয়া (am not, is not)",
+   "level": 5,
+   "lesson_order": 20
+ },
+ {
+   "id": "N5-021",
+   "grammar": "か",
+   "romaji": "ka",
+   "meaning_en": "question particle",
+   "meaning_bn": "কি (প্রশ্নবোধক কণা)",
+   "level": 5,
+   "lesson_order": 21
+ },
+ {
+   "id": "N5-022",
+   "grammar": "か〜か",
+   "romaji": "ka~ka",
+   "meaning_en": "or",
+   "meaning_bn": "অথবা (দুটির মধ্যে একটি)",
+   "level": 5,
+   "lesson_order": 22
+ },
+ {
+   "id": "N5-023",
+   "grammar": "から",
+   "romaji": "kara",
+   "meaning_en": "because; since; from",
+   "meaning_bn": "কারণ; থেকে",
+   "level": 5,
+   "lesson_order": 23
+ },
+ {
+   "id": "N5-024",
+   "grammar": "方",
+   "romaji": "kata",
+   "meaning_en": "the way of doing something; how to do",
+   "meaning_bn": "করার পদ্ধতি; কিভাবে করতে হয়",
+   "level": 5,
+   "lesson_order": 24
+ },
+ {
+   "id": "N5-025",
+   "grammar": "けど",
+   "romaji": "kedo",
+   "meaning_en": "but; however; although",
+   "meaning_bn": "কিন্তু; যদিও (সাধারণ রূপ)",
+   "level": 5,
+   "lesson_order": 25
+ },
+ {
+   "id": "N5-026",
+   "grammar": "けれども",
+   "romaji": "keredo mo",
+   "meaning_en": "but; however; although",
+   "meaning_bn": "কিন্তু; যদিও (ভদ্র রূপ)",
+   "level": 5,
+   "lesson_order": 26
+ },
+ {
+   "id": "N5-027",
+   "grammar": "まだ",
+   "romaji": "mada",
+   "meaning_en": "still; not yet",
+   "meaning_bn": "এখনো; এখনো না",
+   "level": 5,
+   "lesson_order": 27
+ },
+ {
+   "id": "N5-028",
+   "grammar": "まだ〜ていません",
+   "romaji": "mada ~te imasen",
+   "meaning_en": "have not yet",
+   "meaning_bn": "এখনো করিনি",
+   "level": 5,
+   "lesson_order": 28
+ },
+ {
+   "id": "N5-029",
+   "grammar": "まで",
+   "romaji": "made",
+   "meaning_en": "until ~; as far as ~; to (an extent); even ~",
+   "meaning_bn": "পর্যন্ত; অবধি",
+   "level": 5,
+   "lesson_order": 29
+ },
+ {
+   "id": "N5-030",
+   "grammar": "前に",
+   "romaji": "mae ni",
+   "meaning_en": "before ~; in front of ~",
+   "meaning_bn": "আগে; সামনে",
+   "level": 5,
+   "lesson_order": 30
+ },
+ {
+   "id": "N5-031",
+   "grammar": "ませんか",
+   "romaji": "masen ka",
+   "meaning_en": "would you; do you want to; shall we~",
+   "meaning_bn": "করবেন না কি? (আমন্ত্রণ জানানো)",
+   "level": 5,
+   "lesson_order": 31
+ },
+ {
+   "id": "N5-032",
+   "grammar": "ましょう",
+   "romaji": "mashou",
+   "meaning_en": "let's ~; shall we ~",
+   "meaning_bn": "চলুন করি",
+   "level": 5,
+   "lesson_order": 32
+ },
+ {
+   "id": "N5-033",
+   "grammar": "ましょうか",
+   "romaji": "mashouka",
+   "meaning_en": "shall I ~; used to offer help to the listener",
+   "meaning_bn": "আমি কি করব? (সাহায্যের প্রস্তাব)",
+   "level": 5,
+   "lesson_order": 33
+ },
+ {
+   "id": "N5-034",
+   "grammar": "も",
+   "romaji": "mo",
+   "meaning_en": "too; also; as well",
+   "meaning_bn": "ও; এছাড়াও",
+   "level": 5,
+   "lesson_order": 34
+ },
+ {
+   "id": "N5-035",
+   "grammar": "もう",
+   "romaji": "mou",
+   "meaning_en": "already; anymore; again; other",
+   "meaning_bn": "ইতিমধ্যে; আর",
+   "level": 5,
+   "lesson_order": 35
+ },
+ {
+   "id": "N5-036",
+   "grammar": "な-adjectives",
+   "romaji": "na-adjectives",
+   "meaning_en": "na-adjectives",
+   "meaning_bn": "না-বিশেষণ",
+   "level": 5,
+   "lesson_order": 36
+ },
+ {
+   "id": "N5-037",
+   "grammar": "なあ",
+   "romaji": "naa",
+   "meaning_en": "sentence ending particle; confirmation; admiration, etc",
+   "meaning_bn": "না (ভাব প্রকাশ বা নিশ্চয়তার জন্য)",
+   "level": 5,
+   "lesson_order": 37
+ },
+ {
+   "id": "N5-038",
+   "grammar": "ないで",
+   "romaji": "naide",
+   "meaning_en": "without doing~ ; To do [B] without doing [A]",
+   "meaning_bn": "না করে",
+   "level": 5,
+   "lesson_order": 38
+ },
+ {
+   "id": "N5-039",
+   "grammar": "ないでください",
+   "romaji": "naide kudasai",
+   "meaning_en": "please don't do",
+   "meaning_bn": "দয়া করে করবেন না",
+   "level": 5,
+   "lesson_order": 39
+ },
+ {
+   "id": "N5-040",
+   "grammar": "なくてもいい",
+   "romaji": "naku temo ii",
+   "meaning_en": "don't have to",
+   "meaning_bn": "না করলেও চলবে",
+   "level": 5,
+   "lesson_order": 40
+ },
+ {
+   "id": "N5-041",
+   "grammar": "なくちゃ",
+   "romaji": "nakucha",
+   "meaning_en": "must do; need to; gotta do",
+   "meaning_bn": "অবশ্যই করতে হবে (কথ্য রূপ)",
+   "level": 5,
+   "lesson_order": 41
+ },
+ {
+   "id": "N5-042",
+   "grammar": "なくてはいけない",
+   "romaji": "nakute wa ikenai",
+   "meaning_en": "must do; need to do",
+   "meaning_bn": "অবশ্যই করতে হবে",
+   "level": 5,
+   "lesson_order": 42
+ },
+ {
+   "id": "N5-043",
+   "grammar": "なくてはならない",
+   "romaji": "nakute wa naranai",
+   "meaning_en": "must do; need to do",
+   "meaning_bn": "অবশ্যই করতে হবে; না করলেই নয়",
+   "level": 5,
+   "lesson_order": 43
+ },
+ {
+   "id": "N5-044",
+   "grammar": "なる",
+   "romaji": "naru",
+   "meaning_en": "to become",
+   "meaning_bn": "হওয়া; পরিণত হওয়া",
+   "level": 5,
+   "lesson_order": 44
+ },
+ {
+   "id": "N5-045",
+   "grammar": "んです",
+   "romaji": "ndesu",
+   "meaning_en": "to explain something; show emphasis",
+   "meaning_bn": "ব্যাখ্যা করা বা জোর দেওয়া বোঝাতে",
+   "level": 5,
+   "lesson_order": 45
+ },
+ {
+   "id": "N5-046",
+   "grammar": "ね",
+   "romaji": "ne",
+   "meaning_en": "isn't it? right? eh?",
+   "meaning_bn": "তাই না?; ঠিক? (নিশ্চিত করার জন্য)",
+   "level": 5,
+   "lesson_order": 46
+ },
+ {
+   "id": "N5-047",
+   "grammar": "に",
+   "romaji": "ni",
+   "meaning_en": "destination particle; in; at; on; to",
+   "meaning_bn": "-তে; -এ; প্রতি (গন্তব্য/সময় নির্দেশক)",
+   "level": 5,
+   "lesson_order": 47
+ },
+ {
+   "id": "N5-048",
+   "grammar": "にいく",
+   "romaji": "ni iku",
+   "meaning_en": "go to do",
+   "meaning_bn": "করতে যাওয়া",
+   "level": 5,
+   "lesson_order": 48
+ },
+ {
+   "id": "N5-049",
+   "grammar": "にする",
+   "romaji": "ni suru",
+   "meaning_en": "to decide on",
+   "meaning_bn": "সিদ্ধান্ত নেওয়া",
+   "level": 5,
+   "lesson_order": 49
+ },
+ {
+   "id": "N5-050",
+   "grammar": "に/へ",
+   "romaji": "ni/e",
+   "meaning_en": "to (indicates direction / destination)",
+   "meaning_bn": "দিকে (গন্তব্য নির্দেশক)",
+   "level": 5,
+   "lesson_order": 50
+ },
+ {
+   "id": "N5-051",
+   "grammar": "の",
+   "romaji": "no",
+   "meaning_en": "possessive particle",
+   "meaning_bn": "এর (অধিকার বোঝাতে)",
+   "level": 5,
+   "lesson_order": 51
+ },
+ {
+   "id": "N5-052",
+   "grammar": "のです",
+   "romaji": "no desu",
+   "meaning_en": "to explain something; show emphasis",
+   "meaning_bn": "ব্যাখ্যা করা বা জোর দেওয়া (ভদ্র রূপ)",
+   "level": 5,
+   "lesson_order": 52
+ },
+ {
+   "id": "N5-053",
+   "grammar": "のが下手",
+   "romaji": "no ga heta",
+   "meaning_en": "to be bad at doing something",
+   "meaning_bn": "কোনো কিছু করতে অদক্ষ",
+   "level": 5,
+   "lesson_order": 53
+ },
+ {
+   "id": "N5-054",
+   "grammar": "のが上手",
+   "romaji": "no ga jouzu",
+   "meaning_en": "to be good at",
+   "meaning_bn": "কোনো কিছু করতে দক্ষ",
+   "level": 5,
+   "lesson_order": 54
+ },
+ {
+   "id": "N5-055",
+   "grammar": "のが好き",
+   "romaji": "no ga suki",
+   "meaning_en": "to like doing something",
+   "meaning_bn": "কোনো কিছু করতে পছন্দ করা",
+   "level": 5,
+   "lesson_order": 55
+ },
+ {
+   "id": "N5-056",
+   "grammar": "の中で[A]が一番",
+   "romaji": "no naka de [A] ga ichiban",
+   "meaning_en": "out of this group, [A] is best",
+   "meaning_bn": "এর মধ্যে [A] সবচেয়ে সেরা",
+   "level": 5,
+   "lesson_order": 56
+ },
+ {
+   "id": "N5-057",
+   "grammar": "ので",
+   "romaji": "node",
+   "meaning_en": "because of; given that; since",
+   "meaning_bn": "যেহেতু; একারণে",
+   "level": 5,
+   "lesson_order": 57
+ },
+ {
+   "id": "N5-058",
+   "grammar": "を",
+   "romaji": "o / wo",
+   "meaning_en": "object marker particle",
+   "meaning_bn": "কর্ম নির্দেশক কণা",
+   "level": 5,
+   "lesson_order": 58
+ },
+ {
+   "id": "N5-059",
+   "grammar": "をください",
+   "romaji": "o kudasai",
+   "meaning_en": "please give me~",
+   "meaning_bn": "দয়া করে দিন",
+   "level": 5,
+   "lesson_order": 59
+ },
+ {
+   "id": "N5-060",
+   "grammar": "しかし",
+   "romaji": "shikashi",
+   "meaning_en": "but; however",
+   "meaning_bn": "কিন্তু; তবে",
+   "level": 5,
+   "lesson_order": 60
+ },
+ {
+   "id": "N5-061",
+   "grammar": "すぎる",
+   "romaji": "sugiru",
+   "meaning_en": "too much",
+   "meaning_bn": "অতিরিক্ত; বেশি",
+   "level": 5,
+   "lesson_order": 61
+ },
+ {
+   "id": "N5-062",
+   "grammar": "たことがある",
+   "romaji": "ta koto ga aru",
+   "meaning_en": "to have done something before",
+   "meaning_bn": "আগে করার অভিজ্ঞতা আছে",
+   "level": 5,
+   "lesson_order": 62
+ },
+ {
+   "id": "N5-063",
+   "grammar": "たい",
+   "romaji": "tai",
+   "meaning_en": "want to do something",
+   "meaning_bn": "করতে চাওয়া",
+   "level": 5,
+   "lesson_order": 63
+ },
+ {
+   "id": "N5-064",
+   "grammar": "たり〜たり",
+   "romaji": "tari~tari",
+   "meaning_en": "do such things as A and B",
+   "meaning_bn": "কখনো এটা করা, কখনো ওটা করা (তালিকা)",
+   "level": 5,
+   "lesson_order": 64
+ },
+ {
+   "id": "N5-065",
+   "grammar": "てある",
+   "romaji": "te aru",
+   "meaning_en": "is/has been done (resulting state)",
+   "meaning_bn": "করে রাখা হয়েছে (ফলাফল অবস্থা)",
+   "level": 5,
+   "lesson_order": 65
+ },
+ {
+   "id": "N5-066",
+   "grammar": "ている",
+   "romaji": "te iru",
+   "meaning_en": "ongoing action or current state",
+   "meaning_bn": "করছি; করতে থাকা (চলমান অবস্থা)",
+   "level": 5,
+   "lesson_order": 66
+ },
+ {
+   "id": "N5-067",
+   "grammar": "てから",
+   "romaji": "te kara",
+   "meaning_en": "after doing~",
+   "meaning_bn": "করার পর",
+   "level": 5,
+   "lesson_order": 67
+ },
+ {
+   "id": "N5-068",
+   "grammar": "てください",
+   "romaji": "te kudasai",
+   "meaning_en": "please do",
+   "meaning_bn": "দয়া করে করুন",
+   "level": 5,
+   "lesson_order": 68
+ },
+ {
+   "id": "N5-069",
+   "grammar": "てはいけない",
+   "romaji": "te wa ikenai",
+   "meaning_en": "must not; may not; cannot",
+   "meaning_bn": "করা নিষেধ; করা যাবে না",
+   "level": 5,
+   "lesson_order": 69
+ },
+ {
+   "id": "N5-070",
+   "grammar": "てもいいです",
+   "romaji": "temo ii desu",
+   "meaning_en": "is OK to..; is alright to..; may I..?",
+   "meaning_bn": "করলেও চলবে; করতে পারেন",
+   "level": 5,
+   "lesson_order": 70
+ },
+ {
+   "id": "N5-071",
+   "grammar": "と",
+   "romaji": "to",
+   "meaning_en": "and; with; as; connecting particle",
+   "meaning_bn": "এবং; সাথে",
+   "level": 5,
+   "lesson_order": 71
+ },
+ {
+   "id": "N5-072",
+   "grammar": "とき",
+   "romaji": "toki",
+   "meaning_en": "when; at this time",
+   "meaning_bn": "যখন; সময়",
+   "level": 5,
+   "lesson_order": 72
+ },
+ {
+   "id": "N5-073",
+   "grammar": "とても",
+   "romaji": "totemo",
+   "meaning_en": "very; awfully; exceedingly",
+   "meaning_bn": "খুব; অত্যন্ত",
+   "level": 5,
+   "lesson_order": 73
+ },
+ {
+   "id": "N5-074",
+   "grammar": "つもり",
+   "romaji": "tsumori",
+   "meaning_en": "plan to ~; intend to ~",
+   "meaning_bn": "পরিকল্পনা করা; ইচ্ছা থাকা",
+   "level": 5,
+   "lesson_order": 74
+ },
+ {
+   "id": "N5-075",
+   "grammar": "は",
+   "romaji": "wa - topic marker",
+   "meaning_en": "topic marker",
+   "meaning_bn": "বিষয় নির্দেশক কণা",
+   "level": 5,
+   "lesson_order": 75
+ },
+ {
+   "id": "N5-076",
+   "grammar": "は〜より・・・です",
+   "romaji": "wa ~yori... desu",
+   "meaning_en": "[A] is more ~ than [B]",
+   "meaning_bn": "[B]-এর চেয়ে [A] বেশি ~",
+   "level": 5,
+   "lesson_order": 76
+ },
+ {
+   "id": "N5-077",
+   "grammar": "はどうですか",
+   "romaji": "wa dou desu ka",
+   "meaning_en": "how about; how is",
+   "meaning_bn": "কেমন হয়?",
+   "level": 5,
+   "lesson_order": 77
+ },
+ {
+   "id": "N5-078",
+   "grammar": "や",
+   "romaji": "ya",
+   "meaning_en": "and; or; connecting particle",
+   "meaning_bn": "এবং; আর (অসম্পূর্ণ তালিকা)",
+   "level": 5,
+   "lesson_order": 78
+ },
+ {
+   "id": "N5-079",
+   "grammar": "よ",
+   "romaji": "yo",
+   "meaning_en": "you know; emphasis (ending particle)",
+   "meaning_bn": "জানো; (জোর দিতে ব্যবহৃত হয়)",
+   "level": 5,
+   "lesson_order": 79
+ },
+ {
+   "id": "N5-080",
+   "grammar": "より〜ほうが",
+   "romaji": "yori ~hou ga",
+   "meaning_en": "[A] is more than [B]",
+   "meaning_bn": "[B]-এর চেয়ে [A] ভালো",
+   "level": 5,
+   "lesson_order": 80
+ },
+ {
+   "id": "N4-001",
+   "grammar": "間",
+   "romaji": "aida",
+   "meaning_en": "while; during; between",
+   "meaning_bn": "সময়; মাঝে; মধ্যে",
+   "level": 4,
+   "lesson_order": 1
+ },
+ {
+   "id": "N4-002",
+   "grammar": "間に",
+   "romaji": "aida ni",
+   "meaning_en": "while/during~ something happened",
+   "meaning_bn": "মাঝে; কোনো সময়ের মধ্যে",
+   "level": 4,
+   "lesson_order": 2
+ },
+ {
+   "id": "N4-003",
+   "grammar": "あまり～ない",
+   "romaji": "amari~nai",
+   "meaning_en": "not very, not much",
+   "meaning_bn": "খুব একটা না; তেমন না (নেতিবাচক বাক্যে)",
+   "level": 4,
+   "lesson_order": 3
+ },
+ {
+   "id": "N4-004",
+   "grammar": "後で",
+   "romaji": "ato de",
+   "meaning_en": "after ~; later",
+   "meaning_bn": "পরে; করার পর",
+   "level": 4,
+   "lesson_order": 4
+ },
+ {
+   "id": "N4-005",
+   "grammar": "ば",
+   "romaji": "ba",
+   "meaning_en": "conditional form; If [A] then [B]",
+   "meaning_bn": "যদি; করলে (শর্ত বোঝাতে)",
+   "level": 4,
+   "lesson_order": 5
+ },
+ {
+   "id": "N4-006",
+   "grammar": "場合は",
+   "romaji": "baai wa",
+   "meaning_en": "in the event of; in the case that",
+   "meaning_bn": "ক্ষেত্রে; পরিস্থিতিতে",
+   "level": 4,
+   "lesson_order": 6
+ },
+ {
+   "id": "N4-007",
+   "grammar": "ばかり",
+   "romaji": "bakari",
+   "meaning_en": "only; nothing but",
+   "meaning_bn": "শুধু; কেবলই; ছাড়া আর কিছুই না",
+   "level": 4,
+   "lesson_order": 7
+ },
+ {
+   "id": "N4-008",
+   "grammar": "だけで",
+   "romaji": "dake de",
+   "meaning_en": "just by; just by doing",
+   "meaning_bn": "শুধুমাত্র... দিয়েই; শুধু এটা করেই",
+   "level": 4,
+   "lesson_order": 8
+ },
+ {
+   "id": "N4-009",
+   "grammar": "出す",
+   "romaji": "dasu",
+   "meaning_en": "to suddenly begin; to suddenly appear",
+   "meaning_bn": "হঠাৎ শুরু করা; হঠাৎ করে ওঠা",
+   "level": 4,
+   "lesson_order": 9
+ },
+ {
+   "id": "N4-010",
+   "grammar": "でございます",
+   "romaji": "de gozaimasu",
+   "meaning_en": "to be (honorific)",
+   "meaning_bn": "হওয়া (অতিরিক্ত সম্মানসূচক)",
+   "level": 4,
+   "lesson_order": 10
+ },
+ {
+   "id": "N4-011",
+   "grammar": "でも",
+   "romaji": "demo",
+   "meaning_en": "... or something",
+   "meaning_bn": "...বা ওই জাতীয় কিছু",
+   "level": 4,
+   "lesson_order": 11
+ },
+ {
+   "id": "N4-012",
+   "grammar": "ではないか",
+   "romaji": "dewa nai ka",
+   "meaning_en": "right?; isn't it?",
+   "meaning_bn": "তাই না?; নয় কি? (আনুষ্ঠানিক)",
+   "level": 4,
+   "lesson_order": 12
+ },
+ {
+   "id": "N4-013",
+   "grammar": "が必要",
+   "romaji": "ga hitsuyou",
+   "meaning_en": "need; necessary",
+   "meaning_bn": "প্রয়োজন; দরকার",
+   "level": 4,
+   "lesson_order": 13
+ },
+ {
+   "id": "N4-014",
+   "grammar": "がする",
+   "romaji": "ga suru",
+   "meaning_en": "to smell; hear; taste",
+   "meaning_bn": "গন্ধ/শব্দ/স্বাদ পাওয়া",
+   "level": 4,
+   "lesson_order": 14
+ },
+ {
+   "id": "N4-015",
+   "grammar": "がり",
+   "romaji": "gari",
+   "meaning_en": "personality; tend to~; sensitivity towards~",
+   "meaning_bn": "প্রবণতা; সহজেই কোনো কিছু অনুভব করা",
+   "level": 4,
+   "lesson_order": 15
+ },
+ {
+   "id": "N4-016",
+   "grammar": "がる・がっている",
+   "romaji": "garu; gatteiru",
+   "meaning_en": "to show signs of; to appear; to feel",
+   "meaning_bn": "(অন্যের) অনুভূতি প্রকাশ করা; লক্ষণ দেখানো",
+   "level": 4,
+   "lesson_order": 16
+ },
+ {
+   "id": "N4-017",
+   "grammar": "ございます",
+   "romaji": "gozaimasu",
+   "meaning_en": "to be, to exist (polite form of いる/ある)",
+   "meaning_bn": "আছে; রয়েছে (ভদ্র রূপ)",
+   "level": 4,
+   "lesson_order": 17
+ },
+ {
+   "id": "N4-018",
+   "grammar": "始める",
+   "romaji": "hajimeru",
+   "meaning_en": "to start; to begin to ~",
+   "meaning_bn": "শুরু করা",
+   "level": 4,
+   "lesson_order": 18
+ },
+ {
+   "id": "N4-019",
+   "grammar": "はずだ",
+   "romaji": "hazu da",
+   "meaning_en": "it must be; it should be (expectation)",
+   "meaning_bn": "অবশ্যই হওয়ার কথা; হওয়া উচিত",
+   "level": 4,
+   "lesson_order": 19
+ },
+ {
+   "id": "N4-020",
+   "grammar": "はずがない",
+   "romaji": "hazu ga nai",
+   "meaning_en": "cannot be (impossible)",
+   "meaning_bn": "হতেই পারে না; অসম্ভব",
+   "level": 4,
+   "lesson_order": 20
+ },
+ {
+   "id": "N4-021",
+   "grammar": "必要がある",
+   "romaji": "hitsuyou ga aru",
+   "meaning_en": "need to; it is necessary to",
+   "meaning_bn": "করার দরকার আছে; প্রয়োজন আছে",
+   "level": 4,
+   "lesson_order": 21
+ },
+ {
+   "id": "N4-022",
+   "grammar": "意向形",
+   "romaji": "ikou kei",
+   "meaning_en": "volitional form; let's do ~",
+   "meaning_bn": "ইচ্ছাসূচক রূপ; চলো করি",
+   "level": 4,
+   "lesson_order": 22
+ },
+ {
+   "id": "N4-023",
+   "grammar": "いらっしゃる",
+   "romaji": "irassharu",
+   "meaning_en": "to be; to come; to go (polite version)",
+   "meaning_bn": "থাকা; আসা; যাওয়া (সম্মানসূচক)",
+   "level": 4,
+   "lesson_order": 23
+ },
+ {
+   "id": "N4-024",
+   "grammar": "いたします",
+   "romaji": "itashimasu",
+   "meaning_en": "to do (polite form of する)",
+   "meaning_bn": "করা (নম্র রূপ)",
+   "level": 4,
+   "lesson_order": 24
+ },
+ {
+   "id": "N4-025",
+   "grammar": "じゃないか",
+   "romaji": "janai ka",
+   "meaning_en": "right? isn't it? let's~; confirmation",
+   "meaning_bn": "তাই না?; নয় কি? (সাধারণ/পুরুষালী)",
+   "level": 4,
+   "lesson_order": 25
+ },
+ {
+   "id": "N4-026",
+   "grammar": "かどうか",
+   "romaji": "ka dou ka",
+   "meaning_en": "whether or not",
+   "meaning_bn": "...কি না",
+   "level": 4,
+   "lesson_order": 26
+ },
+ {
+   "id": "N4-027",
+   "grammar": "かしら",
+   "romaji": "ka shira",
+   "meaning_en": "I wonder",
+   "meaning_bn": "কী জানি; হবে হয়তো (মহিলাদের ব্যবহৃত)",
+   "level": 4,
+   "lesson_order": 27
+ },
+ {
+   "id": "N4-028",
+   "grammar": "かい",
+   "romaji": "kai",
+   "meaning_en": "turns a sentence into a yes/no question",
+   "meaning_bn": "...কি? (পুরুষালী প্রশ্নবোধক)",
+   "level": 4,
+   "lesson_order": 28
+ },
+ {
+   "id": "N4-029",
+   "grammar": "かもしれない",
+   "romaji": "kamo shirenai",
+   "meaning_en": "might; perhaps; indicates possibility",
+   "meaning_bn": "হয়তো হতে পারে; সম্ভাবনা আছে",
+   "level": 4,
+   "lesson_order": 29
+ },
+ {
+   "id": "N4-030",
+   "grammar": "かな",
+   "romaji": "kana",
+   "meaning_en": "I wonder; should I?",
+   "meaning_bn": "...কি না; হবে নাকি (নিজেকে প্রশ্ন করা)",
+   "level": 4,
+   "lesson_order": 30
+ },
+ {
+   "id": "N4-031",
+   "grammar": "から作る",
+   "romaji": "kara tsukuru",
+   "meaning_en": "made from; made with",
+   "meaning_bn": "...দিয়ে তৈরি",
+   "level": 4,
+   "lesson_order": 31
+ },
+ {
+   "id": "N4-032",
+   "grammar": "きっと",
+   "romaji": "kitto",
+   "meaning_en": "surely; undoubtedly; certainly; likely",
+   "meaning_bn": "নিশ্চয়ই; অবশ্যই",
+   "level": 4,
+   "lesson_order": 32
+ },
+ {
+   "id": "N4-033",
+   "grammar": "頃",
+   "romaji": "koro / goro",
+   "meaning_en": "around; about; when",
+   "meaning_bn": "নাগাদ; দিকে; সময়",
+   "level": 4,
+   "lesson_order": 33
+ },
+ {
+   "id": "N4-034",
+   "grammar": "こと",
+   "romaji": "koto",
+   "meaning_en": "Verb nominalizer",
+   "meaning_bn": "ক্রিয়াকে বিশেষ্যে রূপান্তর",
+   "level": 4,
+   "lesson_order": 34
+ },
+ {
+   "id": "N4-035",
+   "grammar": "ことがある",
+   "romaji": "koto ga aru",
+   "meaning_en": "there are times when",
+   "meaning_bn": "এমন সময়ও আসে যখন...",
+   "level": 4,
+   "lesson_order": 35
+ },
+ {
+   "id": "N4-036",
+   "grammar": "ことができる",
+   "romaji": "koto ga dekiru",
+   "meaning_en": "can; able to",
+   "meaning_bn": "করতে পারা; সক্ষম",
+   "level": 4,
+   "lesson_order": 36
+ },
+ {
+   "id": "N4-037",
+   "grammar": "ことになる",
+   "romaji": "koto ni naru",
+   "meaning_en": "It has been decided that..; it turns out ~",
+   "meaning_bn": "সিদ্ধান্ত হয়েছে যে...; এমন হয় যে...",
+   "level": 4,
+   "lesson_order": 37
+ },
+ {
+   "id": "N4-038",
+   "grammar": "ことにする",
+   "romaji": "koto ni suru",
+   "meaning_en": "to decide on",
+   "meaning_bn": "করার সিদ্ধান্ত নেওয়া",
+   "level": 4,
+   "lesson_order": 38
+ },
+ {
+   "id": "N4-039",
+   "grammar": "くする",
+   "romaji": "ku suru",
+   "meaning_en": "to make something ~",
+   "meaning_bn": "কোনো কিছুকে ... করা (বিশেষণ)",
+   "level": 4,
+   "lesson_order": 39
+ },
+ {
+   "id": "N4-040",
+   "grammar": "急に",
+   "romaji": "kyuu ni",
+   "meaning_en": "suddenly",
+   "meaning_bn": "হঠাৎ",
+   "level": 4,
+   "lesson_order": 40
+ },
+ {
+   "id": "N4-041",
+   "grammar": "までに",
+   "romaji": "made ni",
+   "meaning_en": "by; by the time; indicates time limit",
+   "meaning_bn": "সময়ের মধ্যে",
+   "level": 4,
+   "lesson_order": 41
+ },
+ {
+   "id": "N4-042",
+   "grammar": "まま",
+   "romaji": "mama",
+   "meaning_en": "as it is; current state; without changing",
+   "meaning_bn": "ঐ অবস্থাতেই; না পরিবর্তন করে",
+   "level": 4,
+   "lesson_order": 42
+ },
+ {
+   "id": "N4-043",
+   "grammar": "または",
+   "romaji": "matawa",
+   "meaning_en": "both; or; otherwise; choice of [A] or [B]",
+   "meaning_bn": "অথবা; কিংবা (আনুষ্ঠানিক)",
+   "level": 4,
+   "lesson_order": 43
+ },
+ {
+   "id": "N4-044",
+   "grammar": "みたいだ",
+   "romaji": "mitai da",
+   "meaning_en": "like, similar to, resembling",
+   "meaning_bn": "মতো; দেখতে ...এর মতো",
+   "level": 4,
+   "lesson_order": 44
+ },
+ {
+   "id": "N4-045",
+   "grammar": "みたいな",
+   "romaji": "mitai na",
+   "meaning_en": "like, similar to",
+   "meaning_bn": "...এর মতো (বিশেষণ)",
+   "level": 4,
+   "lesson_order": 45
+ },
+ {
+   "id": "N4-046",
+   "grammar": "みたいに",
+   "romaji": "mitai ni",
+   "meaning_en": "like, similar to",
+   "meaning_bn": "...এর মতো করে (ক্রিয়া-বিশেষণ)",
+   "level": 4,
+   "lesson_order": 46
+ },
+ {
+   "id": "N4-047",
+   "grammar": "も",
+   "romaji": "mo",
+   "meaning_en": "as many as; as much as; up to; nearly",
+   "meaning_bn": "-ও; এমনকি; পর্যন্তও",
+   "level": 4,
+   "lesson_order": 47
+ },
+ {
+   "id": "N4-048",
+   "grammar": "な",
+   "romaji": "na",
+   "meaning_en": "don’t ~ (order somebody to not do ~)",
+   "meaning_bn": "কোরো না (নিষেধাজ্ঞা)",
+   "level": 4,
+   "lesson_order": 48
+ },
+ {
+   "id": "N4-049",
+   "grammar": "など",
+   "romaji": "nado",
+   "meaning_en": "such as, things like",
+   "meaning_bn": "ইত্যাদি; প্রভৃতি",
+   "level": 4,
+   "lesson_order": 49
+ },
+ {
+   "id": "N4-050",
+   "grammar": "ながら",
+   "romaji": "nagara",
+   "meaning_en": "while; during; as; simultaneously",
+   "meaning_bn": "করতে করতে; একই সাথে",
+   "level": 4,
+   "lesson_order": 50
+ },
+ {
+   "id": "N4-051",
+   "grammar": "なかなか～ない",
+   "romaji": "nakanaka~nai",
+   "meaning_en": "not easy to; struggling to; not able to~",
+   "meaning_bn": "সহজে...না; কিছুতেই না",
+   "level": 4,
+   "lesson_order": 51
+ },
+ {
+   "id": "N4-052",
+   "grammar": "なければいけない",
+   "romaji": "nakereba ikenai",
+   "meaning_en": "must do something; have to do something",
+   "meaning_bn": "অবশ্যই করতে হবে",
+   "level": 4,
+   "lesson_order": 52
+ },
+ {
+   "id": "N4-053",
+   "grammar": "なければならない",
+   "romaji": "nakereba naranai",
+   "meaning_en": "must do something; have to do something",
+   "meaning_bn": "অবশ্যই করতে হবে; না করলেই নয়",
+   "level": 4,
+   "lesson_order": 53
+ },
+ {
+   "id": "N4-054",
+   "grammar": "なら",
+   "romaji": "nara",
+   "meaning_en": "if; in the case that ~",
+   "meaning_bn": "যদি... হয়; এর ক্ষেত্রে",
+   "level": 4,
+   "lesson_order": 54
+ },
+ {
+   "id": "N4-055",
+   "grammar": "なさい",
+   "romaji": "nasai",
+   "meaning_en": "do this (soft/firm command)",
+   "meaning_bn": "করো (মৃদু আদেশ)",
+   "level": 4,
+   "lesson_order": 55
+ },
+ {
+   "id": "N4-056",
+   "grammar": "なさる",
+   "romaji": "nasaru",
+   "meaning_en": "to do (honorific)",
+   "meaning_bn": "করা (সম্মানসূচব)",
+   "level": 4,
+   "lesson_order": 56
+ },
+ {
+   "id": "N4-057",
+   "grammar": "に気がつく",
+   "romaji": "ni ki ga tsuku",
+   "meaning_en": "to notice; to realize",
+   "meaning_bn": "খেয়াল করা; বুঝতে পারা",
+   "level": 4,
+   "lesson_order": 57
+ },
+ {
+   "id": "N4-058",
+   "grammar": "にみえる",
+   "romaji": "ni mieru",
+   "meaning_en": "to look; to seem; to appear",
+   "meaning_bn": "দেখতে... মনে হওয়া; মনে হওয়া",
+   "level": 4,
+   "lesson_order": 58
+ },
+ {
+   "id": "N4-059",
+   "grammar": "にする",
+   "romaji": "ni suru",
+   "meaning_en": "to make something ~",
+   "meaning_bn": "(কোনো কিছুতে) পরিণত করা",
+   "level": 4,
+   "lesson_order": 59
+ },
+ {
+   "id": "N4-060",
+   "grammar": "にくい",
+   "romaji": "nikui",
+   "meaning_en": "difficult to do",
+   "meaning_bn": "করতে কঠিন; করতে কষ্টকর",
+   "level": 4,
+   "lesson_order": 60
+ },
+ {
+   "id": "N4-061",
+   "grammar": "の中で",
+   "romaji": "no naka de",
+   "meaning_en": "in, among",
+   "meaning_bn": "এর মধ্যে",
+   "level": 4,
+   "lesson_order": 61
+ },
+ {
+   "id": "N4-062",
+   "grammar": "のに",
+   "romaji": "noni",
+   "meaning_en": "although, in spite of, even though",
+   "meaning_bn": "যদিও; তা সত্ত্বেও",
+   "level": 4,
+   "lesson_order": 62
+ },
+ {
+   "id": "N4-063",
+   "grammar": "のに",
+   "romaji": "noni",
+   "meaning_en": "to (do something); in order to",
+   "meaning_bn": "করার জন্য (উদ্দেশ্য)",
+   "level": 4,
+   "lesson_order": 63
+ },
+ {
+   "id": "N4-064",
+   "grammar": "のは〜だ",
+   "romaji": "nowa~da",
+   "meaning_en": "[A] is [B]; the reason for [A] is [B]",
+   "meaning_bn": "[A] হলো [B]; [A]-এর কারণ হলো [B]",
+   "level": 4,
+   "lesson_order": 64
+ },
+ {
+   "id": "N4-065",
+   "grammar": "お～ください",
+   "romaji": "o~kudasai",
+   "meaning_en": "please do (honorific)",
+   "meaning_bn": "দয়া করে করুন (সম্মানসূচক)",
+   "level": 4,
+   "lesson_order": 65
+ },
+ {
+   "id": "N4-066",
+   "grammar": "お～になる",
+   "romaji": "o~ni naru",
+   "meaning_en": "to do (honorific)",
+   "meaning_bn": "করা (সম্মানসূচব)",
+   "level": 4,
+   "lesson_order": 66
+ },
+ {
+   "id": "N4-067",
+   "grammar": "おきに",
+   "romaji": "oki ni",
+   "meaning_en": "repeated at intervals, every",
+   "meaning_bn": "পর পর; প্রত্যেক... অন্তর",
+   "level": 4,
+   "lesson_order": 67
+ },
+ {
+   "id": "N4-068",
+   "grammar": "終わる",
+   "romaji": "owaru",
+   "meaning_en": "to finish; to end",
+   "meaning_bn": "শেষ করা; শেষ হওয়া",
+   "level": 4,
+   "lesson_order": 68
+ },
+ {
+   "id": "N4-069",
+   "grammar": "られる",
+   "romaji": "rareru",
+   "meaning_en": "potential form; ability/inability to do ~",
+   "meaning_bn": "সম্ভাব্য রূপ; করতে পারা",
+   "level": 4,
+   "lesson_order": 69
+ },
+ {
+   "id": "N4-070",
+   "grammar": "らしい",
+   "romaji": "rashii",
+   "meaning_en": "it seems like; I heard; apparently~",
+   "meaning_bn": "মনে হচ্ছে; শুনেছি; ...এর মতো",
+   "level": 4,
+   "lesson_order": 70
+ },
+ {
+   "id": "N4-071",
+   "grammar": "さ",
+   "romaji": "sa",
+   "meaning_en": "-ness ; nominalizer for adjective",
+   "meaning_bn": "-ত্ব; বিশেষণকে বিশেষ্যে রূপান্তর",
+   "level": 4,
+   "lesson_order": 71
+ },
+ {
+   "id": "N4-072",
+   "grammar": "さっき",
+   "romaji": "sakki",
+   "meaning_en": "some time ago; just now",
+   "meaning_bn": "কিছুক্ষণ আগে; এইমাত্র",
+   "level": 4,
+   "lesson_order": 72
+ },
+ {
+   "id": "N4-073",
+   "grammar": "させられる",
+   "romaji": "saserareru",
+   "meaning_en": "causative-passive; to be made to do ~",
+   "meaning_bn": "কাউকে দিয়ে জোর করে করানো",
+   "level": 4,
+   "lesson_order": 73
+ },
+ {
+   "id": "N4-074",
+   "grammar": "させる",
+   "romaji": "saseru",
+   "meaning_en": "causative form; to make/let somebody do",
+   "meaning_bn": "কাউকে দিয়ে কিছু করানো",
+   "level": 4,
+   "lesson_order": 74
+ },
+ {
+   "id": "N4-075",
+   "grammar": "させてください",
+   "romaji": "sasete kudasai",
+   "meaning_en": "please let me do",
+   "meaning_bn": "দয়া করে আমাকে করতে দিন",
+   "level": 4,
+   "lesson_order": 75
+ },
+ {
+   "id": "N4-076",
+   "grammar": "さすが",
+   "romaji": "sasuga",
+   "meaning_en": "as one would expect; as is to be expected",
+   "meaning_bn": "যেমনটা আশা করা যায়;さすが",
+   "level": 4,
+   "lesson_order": 76
+ },
+ {
+   "id": "N4-077",
+   "grammar": "し",
+   "romaji": "shi",
+   "meaning_en": "and; and what’s more; emphasis",
+   "meaning_bn": "এবং; আরও; (একাধিক কারণ উল্লেখ)",
+   "level": 4,
+   "lesson_order": 77
+ },
+ {
+   "id": "N4-078",
+   "grammar": "そんなに",
+   "romaji": "sonna ni",
+   "meaning_en": "so much; so; like that",
+   "meaning_bn": "তেমন; অতটা",
+   "level": 4,
+   "lesson_order": 78
+ },
+ {
+   "id": "N4-079",
+   "grammar": "それでも",
+   "romaji": "sore demo",
+   "meaning_en": "but still; and yet; even so",
+   "meaning_bn": "তবুও; তা সত্ত্বেও",
+   "level": 4,
+   "lesson_order": 79
+ },
+ {
+   "id": "N4-080",
+   "grammar": "そうだ",
+   "romaji": "sou da [1]",
+   "meaning_en": "I heard that; it is said that",
+   "meaning_bn": "শোনা যায় যে; বলা হয়ে থাকে",
+   "level": 4,
+   "lesson_order": 80
+ },
+ {
+   "id": "N4-081",
+   "grammar": "そうだ",
+   "romaji": "sou da [2]",
+   "meaning_en": "looks like; appears like",
+   "meaning_bn": "দেখে মনে হচ্ছে; মনে হয়",
+   "level": 4,
+   "lesson_order": 81
+ },
+ {
+   "id": "N4-082",
+   "grammar": "そうに・そうな",
+   "romaji": "sou ni / sou na",
+   "meaning_en": "seems like; looks like",
+   "meaning_bn": "...এর মতো করে; ...এর মতো দেখতে",
+   "level": 4,
+   "lesson_order": 82
+ },
+ {
+   "id": "N4-083",
+   "grammar": "たばかり",
+   "romaji": "ta bakari",
+   "meaning_en": "just finished; something just occurred",
+   "meaning_bn": "এইমাত্র শেষ করেছি",
+   "level": 4,
+   "lesson_order": 83
+ },
+ {
+   "id": "N4-084",
+   "grammar": "たところ",
+   "romaji": "ta tokoro",
+   "meaning_en": "just finished doing, was just doing",
+   "meaning_bn": "এইমাত্র করছিলাম/করলাম",
+   "level": 4,
+   "lesson_order": 84
+ },
+ {
+   "id": "N4-085",
+   "grammar": "他動詞 & 自動詞",
+   "romaji": "tadoushi & jidoushi",
+   "meaning_en": "Transitive & Intransitive Verbs",
+   "meaning_bn": "সকর্মক এবং অকর্মক ক্রিয়া",
+   "level": 4,
+   "lesson_order": 85
+ },
+ {
+   "id": "N4-086",
+   "grammar": "たがる",
+   "romaji": "tagaru",
+   "meaning_en": "wants to do~ (third person)",
+   "meaning_bn": "(অন্য কেউ) করতে চায়",
+   "level": 4,
+   "lesson_order": 86
+ },
+ {
+   "id": "N4-087",
+   "grammar": "たら",
+   "romaji": "tara",
+   "meaning_en": "if, after, when",
+   "meaning_bn": "যদি; করলে; পর",
+   "level": 4,
+   "lesson_order": 87
+ },
+ {
+   "id": "N4-088",
+   "grammar": "たらどう",
+   "romaji": "tara dou",
+   "meaning_en": "why don't you",
+   "meaning_bn": "করলে কেমন হয়?",
+   "level": 4,
+   "lesson_order": 88
+ },
+ {
+   "id": "N4-089",
+   "grammar": "たらいいですか",
+   "romaji": "tara ii desu ka",
+   "meaning_en": "what should I do?; seeking instruction",
+   "meaning_bn": "কি করলে ভালো হবে?",
+   "level": 4,
+   "lesson_order": 89
+ },
+ {
+   "id": "N4-090",
+   "grammar": "て / で",
+   "romaji": "te / de",
+   "meaning_en": "conjunctive; so; because of [A], [B]...",
+   "meaning_bn": "...করে; ...হয়ে; একারণে",
+   "level": 4,
+   "lesson_order": 90
+ },
+ {
+   "id": "N4-091",
+   "grammar": "てあげる",
+   "romaji": "te ageru",
+   "meaning_en": "to do for; to do a favor",
+   "meaning_bn": "(কারো জন্য) করে দেওয়া",
+   "level": 4,
+   "lesson_order": 91
+ },
+ {
+   "id": "N4-092",
+   "grammar": "てほしい",
+   "romaji": "te hoshii",
+   "meaning_en": "I want you to; need you to~",
+   "meaning_bn": "আমি চাই তুমি... করো",
+   "level": 4,
+   "lesson_order": 92
+ },
+ {
+   "id": "N4-093",
+   "grammar": "ていく",
+   "romaji": "te iku",
+   "meaning_en": "to start; to continue; to go on",
+   "meaning_bn": "করে যাওয়া; চলে যাওয়া",
+   "level": 4,
+   "lesson_order": 93
+ },
+ {
+   "id": "N4-094",
+   "grammar": "ていた",
+   "romaji": "te ita",
+   "meaning_en": "was doing something (past continuous)",
+   "meaning_bn": "করছিলাম; করতেছিলাম",
+   "level": 4,
+   "lesson_order": 94
+ },
+ {
+   "id": "N4-095",
+   "grammar": "ていただけませんか",
+   "romaji": "te itadakemasen ka",
+   "meaning_en": "could you please",
+   "meaning_bn": "দয়া করে করে দেবেন কি? (খুব নম্র)",
+   "level": 4,
+   "lesson_order": 95
+ },
+ {
+   "id": "N4-096",
+   "grammar": "てくれる",
+   "romaji": "te kureru",
+   "meaning_en": "to do a favor; do something for someone",
+   "meaning_bn": "(আমাকে/আমার জন্য) করে দেওয়া",
+   "level": 4,
+   "lesson_order": 96
+ },
+ {
+   "id": "N4-097",
+   "grammar": "てくる",
+   "romaji": "te kuru",
+   "meaning_en": "to do… and come back; to continue",
+   "meaning_bn": "করে আসা; করে ফেলা",
+   "level": 4,
+   "lesson_order": 97
+ },
+ {
+   "id": "N4-098",
+   "grammar": "てみる",
+   "romaji": "te miru",
+   "meaning_en": "try doing",
+   "meaning_bn": "করে দেখা; চেষ্টা করা",
+   "level": 4,
+   "lesson_order": 98
+ },
+ {
+   "id": "N4-099",
+   "grammar": "てもらう",
+   "romaji": "te morau",
+   "meaning_en": "to get somebody to do something",
+   "meaning_bn": "(কারো কাছ থেকে) কিছু করিয়ে নেওয়া",
+   "level": 4,
+   "lesson_order": 99
+ },
+ {
+   "id": "N4-100",
+   "grammar": "ておく",
+   "romaji": "te oku",
+   "meaning_en": "to do something in advance",
+   "meaning_bn": "আগে থেকে করে রাখা",
+   "level": 4,
+   "lesson_order": 100
+ },
+ {
+   "id": "N4-101",
+   "grammar": "てしまう / ちゃう",
+   "romaji": "te shimau / chau",
+   "meaning_en": "to do something by accident, to finish",
+   "meaning_bn": "করে ফেলা (ভুলবশত বা সম্পূর্ণভাবে)",
+   "level": 4,
+   "lesson_order": 101
+ },
+ {
+   "id": "N4-102",
+   "grammar": "てすみません",
+   "romaji": "te sumimasen",
+   "meaning_en": "I’m sorry for",
+   "meaning_bn": "করার জন্য দুঃখিত",
+   "level": 4,
+   "lesson_order": 102
+ },
+ {
+   "id": "N4-103",
+   "grammar": "てやる",
+   "romaji": "te yaru",
+   "meaning_en": "to do for; to do a favor (casual)",
+   "meaning_bn": "(কাউকে) করে দেওয়া (সাধারণ)",
+   "level": 4,
+   "lesson_order": 103
+ },
+ {
+   "id": "N4-104",
+   "grammar": "てよかった",
+   "romaji": "te yokatta",
+   "meaning_en": "I’m glad that..",
+   "meaning_bn": "করে ভালো হয়েছে",
+   "level": 4,
+   "lesson_order": 104
+ },
+ {
+   "id": "N4-105",
+   "grammar": "ているところ",
+   "romaji": "teiru tokoro",
+   "meaning_en": "in the process of doing",
+   "meaning_bn": "এখন করছি; করার প্রক্রিয়ায় আছি",
+   "level": 4,
+   "lesson_order": 105
+ },
+ {
+   "id": "N4-106",
+   "grammar": "ても",
+   "romaji": "temo",
+   "meaning_en": "even; even if; even though",
+   "meaning_bn": "করলেও; যদিও",
+   "level": 4,
+   "lesson_order": 106
+ },
+ {
+   "id": "N4-107",
+   "grammar": "と",
+   "romaji": "to",
+   "meaning_en": "whenever [A] happens, [B] also happens",
+   "meaning_bn": "যখনই... হয়, তখনই... হয়",
+   "level": 4,
+   "lesson_order": 107
+ },
+ {
+   "id": "N4-108",
+   "grammar": "と言ってもいい",
+   "romaji": "to ittemo ii",
+   "meaning_en": "you could say; one might say; I'd say",
+   "meaning_bn": "বলা যেতে পারে",
+   "level": 4,
+   "lesson_order": 108
+ },
+ {
+   "id": "N4-109",
+   "grammar": "という",
+   "romaji": "to iu",
+   "meaning_en": "called; named; that",
+   "meaning_bn": "...নামে; ...বলে",
+   "level": 4,
+   "lesson_order": 109
+ },
+ {
+   "id": "N4-110",
+   "grammar": "ということ",
+   "romaji": "to iu koto",
+   "meaning_en": "convert phrase into noun",
+   "meaning_bn": "...এই বিষয়টি",
+   "level": 4,
+   "lesson_order": 110
+ },
+ {
+   "id": "N4-111",
+   "grammar": "と言われている",
+   "romaji": "to iwarete iru",
+   "meaning_en": "it is said that...",
+   "meaning_bn": "বলা হয়ে থাকে যে...",
+   "level": 4,
+   "lesson_order": 111
+ },
+ {
+   "id": "N4-112",
+   "grammar": "と聞いた",
+   "romaji": "to kiita",
+   "meaning_en": "I heard...",
+   "meaning_bn": "আমি শুনেছি...",
+   "level": 4,
+   "lesson_order": 112
+ },
+ {
+   "id": "N4-113",
+   "grammar": "と思う",
+   "romaji": "to omou",
+   "meaning_en": "to think…; I think…; you think…",
+   "meaning_bn": "মনে করা; ভাবা",
+   "level": 4,
+   "lesson_order": 113
+ },
+ {
+   "id": "N4-114",
+   "grammar": "とか～とか",
+   "romaji": "toka~toka",
+   "meaning_en": "among other things; such as; like",
+   "meaning_bn": "...ইত্যাদি; ...এইসব",
+   "level": 4,
+   "lesson_order": 114
+ },
+ {
+   "id": "N4-115",
+   "grammar": "ところ",
+   "romaji": "tokoro",
+   "meaning_en": "just about to; on the verge of doing ~",
+   "meaning_bn": "এইমাত্র করতে যাচ্ছি",
+   "level": 4,
+   "lesson_order": 115
+ },
+ {
+   "id": "N4-116",
+   "grammar": "続ける",
+   "romaji": "tsuzukeru",
+   "meaning_en": "continue to; keen on",
+   "meaning_bn": "চালিয়ে যাওয়া",
+   "level": 4,
+   "lesson_order": 116
+ },
+ {
+   "id": "N4-117",
+   "grammar": "って",
+   "romaji": "tte",
+   "meaning_en": "named; called",
+   "meaning_bn": "...নামে; ...বলে (কথ্য রূপ)",
+   "level": 4,
+   "lesson_order": 117
+ },
+ {
+   "id": "N4-118",
+   "grammar": "受身形",
+   "romaji": "ukemi kei",
+   "meaning_en": "passive form; passive voice",
+   "meaning_bn": "কর্মবাচ্য রূপ",
+   "level": 4,
+   "lesson_order": 118
+ },
+ {
+   "id": "N4-119",
+   "grammar": "は〜が… は",
+   "romaji": "wa~ga... wa",
+   "meaning_en": "[A] but [B]; however; comparison",
+   "meaning_bn": "[A] কিন্তু [B]; তুলনা করা",
+   "level": 4,
+   "lesson_order": 119
+ },
+ {
+   "id": "N4-120",
+   "grammar": "やすい",
+   "romaji": "yasui",
+   "meaning_en": "easy to; likely to; prone to; a tendency to~",
+   "meaning_bn": "করতে সহজ; প্রবণতা",
+   "level": 4,
+   "lesson_order": 120
+ },
+ {
+   "id": "N4-121",
+   "grammar": "やっと",
+   "romaji": "yatto",
+   "meaning_en": "at last; finally; barely; narrowly",
+   "meaning_bn": "অবশেষে; শেষ পর্যন্ত",
+   "level": 4,
+   "lesson_order": 121
+ },
+ {
+   "id": "N4-122",
+   "grammar": "より",
+   "romaji": "yori",
+   "meaning_en": "than; rather than; more than",
+   "meaning_bn": "চেয়ে; থেকে",
+   "level": 4,
+   "lesson_order": 122
+ },
+ {
+   "id": "N4-123",
+   "grammar": "予定だ",
+   "romaji": "yotei da",
+   "meaning_en": "plan to, intend to",
+   "meaning_bn": "পরিকল্পনা আছে",
+   "level": 4,
+   "lesson_order": 123
+ },
+ {
+   "id": "N4-124",
+   "grammar": "ようだ",
+   "romaji": "you da",
+   "meaning_en": "appears; seems; looks as if",
+   "meaning_bn": "মনে হয়; দেখতে...এর মতো",
+   "level": 4,
+   "lesson_order": 124
+ },
+ {
+   "id": "N4-125",
+   "grammar": "ように / ような",
+   "romaji": "you ni / you na",
+   "meaning_en": "like; as; similar to",
+   "meaning_bn": "...এর মতো করে / ...এর মতো",
+   "level": 4,
+   "lesson_order": 125
+ },
+ {
+   "id": "N4-126",
+   "grammar": "ようになる",
+   "romaji": "you ni naru",
+   "meaning_en": "to reach the point that; to turn into",
+   "meaning_bn": "এমন পর্যায়ে পৌঁছানো যে...; করতে পারা",
+   "level": 4,
+   "lesson_order": 126
+ },
+ {
+   "id": "N4-127",
+   "grammar": "ようにする",
+   "romaji": "you ni suru",
+   "meaning_en": "to try to; to make sure that",
+   "meaning_bn": "করার চেষ্টা করা; নিশ্চিত করা",
+   "level": 4,
+   "lesson_order": 127
+ },
+ {
+   "id": "N4-128",
+   "grammar": "ようと思う",
+   "romaji": "you to omou",
+   "meaning_en": "thinking of doing; planning to",
+   "meaning_bn": "করার কথা ভাবছি",
+   "level": 4,
+   "lesson_order": 128
+ },
+ {
+   "id": "N4-129",
+   "grammar": "ぜひ",
+   "romaji": "zehi",
+   "meaning_en": "by all means; certainly; definitely",
+   "meaning_bn": "অবশ্যই",
+   "level": 4,
+   "lesson_order": 129
+ },
+ {
+   "id": "N4-130",
+   "grammar": "全然～ない",
+   "romaji": "zenzen~nai",
+   "meaning_en": "(not) at all",
+   "meaning_bn": "একদমই না",
+   "level": 4,
+   "lesson_order": 130
+ },
+ {
+   "id": "N4-131",
+   "grammar": "づらい",
+   "romaji": "zurai",
+   "meaning_en": "difficult to do",
+   "meaning_bn": "করতে কষ্টকর (মানসিকভাবে)",
+   "level": 4,
+   "lesson_order": 131
+ },
+ {
+   "id": "N3-001",
+   "grammar": "上げる",
+   "romaji": "ageru",
+   "meaning_en": "to finish doing~",
+   "meaning_bn": "শেষ করা",
+   "level": 3,
+   "lesson_order": 1
+ },
+ {
+   "id": "N3-002",
+   "grammar": "あまり",
+   "romaji": "amari",
+   "meaning_en": "so much… that",
+   "meaning_bn": "এতটাই... যে",
+   "level": 3,
+   "lesson_order": 2
+ },
+ {
+   "id": "N3-003",
+   "grammar": "あまりにも",
+   "romaji": "amari ni mo",
+   "meaning_en": "too…; so much… that; excessively~",
+   "meaning_bn": "অতিরিক্ত; এতটাই যে",
+   "level": 3,
+   "lesson_order": 3
+ },
+ {
+   "id": "N3-004",
+   "grammar": "合う",
+   "romaji": "au",
+   "meaning_en": "do something together",
+   "meaning_bn": "একসাথে করা",
+   "level": 3,
+   "lesson_order": 4
+ },
+ {
+   "id": "N3-005",
+   "grammar": "ばいい",
+   "romaji": "ba ii",
+   "meaning_en": "should, can, it’d be good if",
+   "meaning_bn": "করলেই ভালো",
+   "level": 3,
+   "lesson_order": 5
+ },
+ {
+   "id": "N3-006",
+   "grammar": "ばよかった",
+   "romaji": "ba yokatta",
+   "meaning_en": "should have, would have been better if~",
+   "meaning_bn": "করলেই ভালো হতো",
+   "level": 3,
+   "lesson_order": 6
+ },
+ {
+   "id": "N3-007",
+   "grammar": "ば～ほど",
+   "romaji": "ba~hodo",
+   "meaning_en": "the more… the more",
+   "meaning_bn": "যতই... ততই",
+   "level": 3,
+   "lesson_order": 7
+ },
+ {
+   "id": "N3-008",
+   "grammar": "ば～のに",
+   "romaji": "ba~noni",
+   "meaning_en": "would have; should have; if only~",
+   "meaning_bn": "করলেই পারতাম/পারতে",
+   "level": 3,
+   "lesson_order": 8
+ },
+ {
+   "id": "N3-009",
+   "grammar": "ばかりで",
+   "romaji": "bakari de",
+   "meaning_en": "only; just (negative description)",
+   "meaning_bn": "কেবলই (নেতিবাচক অর্থে)",
+   "level": 3,
+   "lesson_order": 9
+ },
+ {
+   "id": "N3-010",
+   "grammar": "ばかりでなく",
+   "romaji": "bakari denaku",
+   "meaning_en": "not only.. but also; as well as",
+   "meaning_bn": "শুধু... নয়, ...ও",
+   "level": 3,
+   "lesson_order": 10
+ },
+ {
+   "id": "N3-011",
+   "grammar": "べきだ",
+   "romaji": "beki da",
+   "meaning_en": "should do~; must do~",
+   "meaning_bn": "করা উচিত",
+   "level": 3,
+   "lesson_order": 11
+ },
+ {
+   "id": "N3-012",
+   "grammar": "べきではない",
+   "romaji": "beki dewa nai",
+   "meaning_en": "should not do~; must not do~",
+   "meaning_bn": "করা উচিত নয়",
+   "level": 3,
+   "lesson_order": 12
+ },
+ {
+   "id": "N3-013",
+   "grammar": "別に～ない",
+   "romaji": "betsu ni~nai",
+   "meaning_en": "not really, not particularly",
+   "meaning_bn": "তেমন কিছু না",
+   "level": 3,
+   "lesson_order": 13
+ },
+ {
+   "id": "N3-014",
+   "grammar": "ぶりに",
+   "romaji": "buri ni",
+   "meaning_en": "for the first time in (period of time)",
+   "meaning_bn": "...সময় পর (প্রথমবার)",
+   "level": 3,
+   "lesson_order": 14
+ },
+ {
+   "id": "N3-015",
+   "grammar": "中",
+   "romaji": "chuu / juu",
+   "meaning_en": "currently; during; throughout",
+   "meaning_bn": "মধ্যে; জুড়ে; সময়ে",
+   "level": 3,
+   "lesson_order": 15
+ },
+ {
+   "id": "N3-016",
+   "grammar": "だけ",
+   "romaji": "dake",
+   "meaning_en": "as much as~",
+   "meaning_bn": "পরিমাণে; পর্যন্ত",
+   "level": 3,
+   "lesson_order": 16
+ },
+ {
+   "id": "N3-017",
+   "grammar": "だけでなく",
+   "romaji": "dake de naku",
+   "meaning_en": "not only… but also",
+   "meaning_bn": "শুধু... নয়, ...ও",
+   "level": 3,
+   "lesson_order": 17
+ },
+ {
+   "id": "N3-018",
+   "grammar": "だけど",
+   "romaji": "dakedo",
+   "meaning_en": "however; but",
+   "meaning_bn": "কিন্তু; তবে (কথ্য)",
+   "level": 3,
+   "lesson_order": 18
+ },
+ {
+   "id": "N3-019",
+   "grammar": "だらけ",
+   "romaji": "darake",
+   "meaning_en": "full of; covered with; a lot of~",
+   "meaning_bn": "ভরা; পরিপূর্ণ",
+   "level": 3,
+   "lesson_order": 19
+ },
+ {
+   "id": "N3-020",
+   "grammar": "どんなに～ても",
+   "romaji": "donna ni~temo",
+   "meaning_en": "no matter how (much)",
+   "meaning_bn": "যত...ই হোক না কেন",
+   "level": 3,
+   "lesson_order": 20
+ },
+ {
+   "id": "N3-021",
+   "grammar": "どうしても",
+   "romaji": "doushitemo",
+   "meaning_en": "no matter what; at any cost; after all",
+   "meaning_bn": "যাই হোক না কেন; যে কোনো মূল্যে",
+   "level": 3,
+   "lesson_order": 21
+ },
+ {
+   "id": "N3-022",
+   "grammar": "ふりをする",
+   "romaji": "furi o suru",
+   "meaning_en": "to pretend; to act as if~",
+   "meaning_bn": "ভান করা; এমন ভাব করা যে...",
+   "level": 3,
+   "lesson_order": 22
+ },
+ {
+   "id": "N3-023",
+   "grammar": "ふと",
+   "romaji": "futo",
+   "meaning_en": "suddenly; accidentally; unexpectedly",
+   "meaning_bn": "হঠাৎ; অপ্রত্যাশিতভাবে",
+   "level": 3,
+   "lesson_order": 23
+ },
+ {
+   "id": "N3-024",
+   "grammar": "がち",
+   "romaji": "gachi",
+   "meaning_en": "tend to; tendency to; frequently; often~",
+   "meaning_bn": "প্রবণতা; প্রায়শই ঘটে",
+   "level": 3,
+   "lesson_order": 24
+ },
+ {
+   "id": "N3-025",
+   "grammar": "がたい",
+   "romaji": "gatai",
+   "meaning_en": "very difficult to; impossible to",
+   "meaning_bn": "করতে খুব কঠিন; করা প্রায় অসম্ভব",
+   "level": 3,
+   "lesson_order": 25
+ },
+ {
+   "id": "N3-026",
+   "grammar": "気味",
+   "romaji": "gimi",
+   "meaning_en": "-like; -looking; -looked; tending to",
+   "meaning_bn": "একটু; ভাব; প্রবণতা",
+   "level": 3,
+   "lesson_order": 26
+ },
+ {
+   "id": "N3-027",
+   "grammar": "ごとに",
+   "romaji": "goto ni",
+   "meaning_en": "each; every; at intervals of",
+   "meaning_bn": "প্রতি; প্রত্যেক",
+   "level": 3,
+   "lesson_order": 27
+ },
+ {
+   "id": "N3-028",
+   "grammar": "ほど",
+   "romaji": "hodo",
+   "meaning_en": "degree; extent; bounds; upper limit",
+   "meaning_bn": "সীমা; পর্যন্ত; পরিমাণ",
+   "level": 3,
+   "lesson_order": 28
+ },
+ {
+   "id": "N3-029",
+   "grammar": "ほど～ない",
+   "romaji": "hodo~nai",
+   "meaning_en": "is not as… as",
+   "meaning_bn": "ততটা... নয়",
+   "level": 3,
+   "lesson_order": 29
+ },
+ {
+   "id": "N3-030",
+   "grammar": "一度に",
+   "romaji": "ichido ni",
+   "meaning_en": "all at once",
+   "meaning_bn": "একবারে; একসাথে",
+   "level": 3,
+   "lesson_order": 30
+ },
+ {
+   "id": "N3-031",
+   "grammar": "いくら～ても",
+   "romaji": "ikura~temo",
+   "meaning_en": "no matter how~",
+   "meaning_bn": "যত...ই হোক",
+   "level": 3,
+   "lesson_order": 31
+ },
+ {
+   "id": "N3-032",
+   "grammar": "一方だ",
+   "romaji": "ippou da",
+   "meaning_en": "more and more; continue to",
+   "meaning_bn": "ক্রমশই; দিন দিন",
+   "level": 3,
+   "lesson_order": 32
+ },
+ {
+   "id": "N3-033",
+   "grammar": "一体",
+   "romaji": "ittai",
+   "meaning_en": "emphasis; what on earth?",
+   "meaning_bn": "কী যে...;究竟 (জোর দিতে)",
+   "level": 3,
+   "lesson_order": 33
+ },
+ {
+   "id": "N3-034",
+   "grammar": "じゃない",
+   "romaji": "janai",
+   "meaning_en": "maybe; most likely; confirmation",
+   "meaning_bn": "হয়তো; সম্ভবত (নিশ্চয়তার সাথে)",
+   "level": 3,
+   "lesson_order": 34
+ },
+ {
+   "id": "N3-035",
+   "grammar": "か何か",
+   "romaji": "ka nani ka",
+   "meaning_en": "or something",
+   "meaning_bn": "বা অন্য কিছু",
+   "level": 3,
+   "lesson_order": 35
+ },
+ {
+   "id": "N3-036",
+   "grammar": "かける",
+   "romaji": "kakeru",
+   "meaning_en": "half-; not yet finished; in the middle of~",
+   "meaning_bn": "অর্ধেক করা; শুরু করে শেষ না করা",
+   "level": 3,
+   "lesson_order": 36
+ },
+ {
+   "id": "N3-037",
+   "grammar": "から〜にかけて",
+   "romaji": "kara~ni kakete",
+   "meaning_en": "through; from [A] to [B]",
+   "meaning_bn": "থেকে... পর্যন্ত (একটি সময়সীমা)",
+   "level": 3,
+   "lesson_order": 37
+ },
+ {
+   "id": "N3-038",
+   "grammar": "代わりに",
+   "romaji": "kawari ni",
+   "meaning_en": "instead of; in exchange for~",
+   "meaning_bn": "পরিবর্তে; বিনিময়ে",
+   "level": 3,
+   "lesson_order": 38
+ },
+ {
+   "id": "N3-039",
+   "grammar": "結果",
+   "romaji": "kekka",
+   "meaning_en": "as a result of; after",
+   "meaning_bn": "ফলে; ফলস্বরূপ",
+   "level": 3,
+   "lesson_order": 39
+ },
+ {
+   "id": "N3-040",
+   "grammar": "結局",
+   "romaji": "kekkyoku",
+   "meaning_en": "after all; eventually; in the end",
+   "meaning_bn": "শেষ পর্যন্ত; অবশেষে",
+   "level": 3,
+   "lesson_order": 40
+ },
+ {
+   "id": "N3-041",
+   "grammar": "決して～ない",
+   "romaji": "kesshite~nai",
+   "meaning_en": "never; by no means",
+   "meaning_bn": "কখনোই না; কোনোভাবেই না",
+   "level": 3,
+   "lesson_order": 41
+ },
+ {
+   "id": "N3-042",
+   "grammar": "切れない",
+   "romaji": "kirenai",
+   "meaning_en": "unable to do; too much to finish",
+   "meaning_bn": "শেষ করতে না পারা; খুব বেশি হওয়া",
+   "level": 3,
+   "lesson_order": 42
+ },
+ {
+   "id": "N3-043",
+   "grammar": "きり",
+   "romaji": "kiri",
+   "meaning_en": "only; just; since; after",
+   "meaning_bn": "শুধু; মাত্র; এরপর থেকে",
+   "level": 3,
+   "lesson_order": 43
+ },
+ {
+   "id": "N3-044",
+   "grammar": "切る",
+   "romaji": "kiru",
+   "meaning_en": "to do something completely to the end",
+   "meaning_bn": "সম্পূর্ণরূপে শেষ করা",
+   "level": 3,
+   "lesson_order": 44
+ },
+ {
+   "id": "N3-045",
+   "grammar": "っけ",
+   "romaji": "kke",
+   "meaning_en": "casual suffix to confirm something",
+   "meaning_bn": "...ছিল কি? (স্মৃতিচারণ বা নিশ্চিতকরণ)",
+   "level": 3,
+   "lesson_order": 45
+ },
+ {
+   "id": "N3-046",
+   "grammar": "込む",
+   "romaji": "komu",
+   "meaning_en": "Move inside; do a long time",
+   "meaning_bn": "ভেতরে যাওয়া; গভীরভাবে করা",
+   "level": 3,
+   "lesson_order": 46
+ },
+ {
+   "id": "N3-047",
+   "grammar": "こそ",
+   "romaji": "koso",
+   "meaning_en": "for sure; precisely; definitely",
+   "meaning_bn": "-ই; নিশ্চিতভাবে (জোর দিতে)",
+   "level": 3,
+   "lesson_order": 47
+ },
+ {
+   "id": "N3-048",
+   "grammar": "こと",
+   "romaji": "koto",
+   "meaning_en": "(must) do",
+   "meaning_bn": "করা উচিত (কর্তব্য)",
+   "level": 3,
+   "lesson_order": 48
+ },
+ {
+   "id": "N3-049",
+   "grammar": "ことから",
+   "romaji": "koto kara",
+   "meaning_en": "from the fact that~",
+   "meaning_bn": "এই ঘটনা থেকে; এই কারণে",
+   "level": 3,
+   "lesson_order": 49
+ },
+ {
+   "id": "N3-050",
+   "grammar": "ことになっている",
+   "romaji": "koto ni natteiru",
+   "meaning_en": "to be expected to; it has been decided~",
+   "meaning_bn": "নিয়ম আছে যে...; আশা করা যায়",
+   "level": 3,
+   "lesson_order": 50
+ },
+ {
+   "id": "N3-051",
+   "grammar": "ことはない",
+   "romaji": "koto wa nai",
+   "meaning_en": "there is no need to; no possibility that~",
+   "meaning_bn": "করার দরকার নেই; সম্ভাবনা নেই",
+   "level": 3,
+   "lesson_order": 51
+ },
+ {
+   "id": "N3-052",
+   "grammar": "ことは～が",
+   "romaji": "koto wa~ga",
+   "meaning_en": "although; but",
+   "meaning_bn": "যদিও... কিন্তু",
+   "level": 3,
+   "lesson_order": 52
+ },
+ {
+   "id": "N3-053",
+   "grammar": "くらい・ぐらい",
+   "romaji": "kurai / gurai",
+   "meaning_en": "approximately; about; to the extent",
+   "meaning_bn": "প্রায়; কাছাকাছি; মত",
+   "level": 3,
+   "lesson_order": 53
+ },
+ {
+   "id": "N3-054",
+   "grammar": "くせに",
+   "romaji": "kuse ni",
+   "meaning_en": "although~; despite the fact that~",
+   "meaning_bn": "অভ্যাস থাকা সত্ত্বেও; যদিও",
+   "level": 3,
+   "lesson_order": 54
+ },
+ {
+   "id": "N3-055",
+   "grammar": "まるで",
+   "romaji": "maru de",
+   "meaning_en": "as if; as though; just like",
+   "meaning_bn": "যেন; ঠিক যেন",
+   "level": 3,
+   "lesson_order": 55
+ },
+ {
+   "id": "N3-056",
+   "grammar": "まさか",
+   "romaji": "masaka",
+   "meaning_en": "there's no way; that's impossible",
+   "meaning_bn": "কোনোভাবেই না; অসম্ভব",
+   "level": 3,
+   "lesson_order": 56
+ },
+ {
+   "id": "N3-057",
+   "grammar": "めったに～ない",
+   "romaji": "metta ni~nai",
+   "meaning_en": "hardly; rarely; seldom",
+   "meaning_bn": "খুব কমই; কদাচিৎ",
+   "level": 3,
+   "lesson_order": 57
+ },
+ {
+   "id": "N3-058",
+   "grammar": "も～ば～も",
+   "romaji": "mo~ba~mo",
+   "meaning_en": "and; also; as well; either/or; neither",
+   "meaning_bn": "...ও এবং ...ও",
+   "level": 3,
+   "lesson_order": 58
+ },
+ {
+   "id": "N3-059",
+   "grammar": "もしかしたら",
+   "romaji": "moshika shitara",
+   "meaning_en": "perhaps; maybe; perchance; by chance",
+   "meaning_bn": "হয়তো; সম্ভবত",
+   "level": 3,
+   "lesson_order": 59
+ },
+ {
+   "id": "N3-060",
+   "grammar": "もしも〜たら",
+   "romaji": "moshimo~tara",
+   "meaning_en": "if; in the case; supposing~",
+   "meaning_bn": "যদি; যদি এমন হয়",
+   "level": 3,
+   "lesson_order": 60
+ },
+ {
+   "id": "N3-061",
+   "grammar": "向け",
+   "romaji": "muke",
+   "meaning_en": "intended for; aimed at~",
+   "meaning_bn": "...এর জন্য; ...এর উদ্দেশ্যে",
+   "level": 3,
+   "lesson_order": 61
+ },
+ {
+   "id": "N3-062",
+   "grammar": "向き",
+   "romaji": "muki",
+   "meaning_en": "suitable for~",
+   "meaning_bn": "উপযুক্ত",
+   "level": 3,
+   "lesson_order": 62
+ },
+ {
+   "id": "N3-063",
+   "grammar": "むしろ",
+   "romaji": "mushiro",
+   "meaning_en": "rather; instead; better",
+   "meaning_bn": "বরং; তার চেয়ে",
+   "level": 3,
+   "lesson_order": 63
+ },
+ {
+   "id": "N3-064",
+   "grammar": "ながらも",
+   "romaji": "nagara mo",
+   "meaning_en": "but; although; despite",
+   "meaning_bn": "করার সত্ত্বেও; যদিও",
+   "level": 3,
+   "lesson_order": 64
+ },
+ {
+   "id": "N3-065",
+   "grammar": "ないことはない",
+   "romaji": "nai koto wa nai",
+   "meaning_en": "can do~; is not impossible to~",
+   "meaning_bn": "করতে পারি; এমন না যে করা যায় না",
+   "level": 3,
+   "lesson_order": 65
+ },
+ {
+   "id": "N3-066",
+   "grammar": "ないと",
+   "romaji": "naito",
+   "meaning_en": "must do; unless/if you don't~",
+   "meaning_bn": "অবশ্যই করতে হবে; না করলে নয়",
+   "level": 3,
+   "lesson_order": 66
+ },
+ {
+   "id": "N3-067",
+   "grammar": "なかなか",
+   "romaji": "nakanaka",
+   "meaning_en": "quite~; pretty~; rather~; just not ~",
+   "meaning_bn": "বেশ; যথেষ্ট",
+   "level": 3,
+   "lesson_order": 67
+ },
+ {
+   "id": "N3-068",
+   "grammar": "なんか / なんて",
+   "romaji": "nanka / nante",
+   "meaning_en": "examples; modesty; make light of~",
+   "meaning_bn": "যেমন; ইত্যাদি (তুচ্ছ করে বলা)",
+   "level": 3,
+   "lesson_order": 68
+ },
+ {
+   "id": "N3-069",
+   "grammar": "直す",
+   "romaji": "naosu",
+   "meaning_en": "to do something again; to do over",
+   "meaning_bn": "আবার করা; পুনরায় করা",
+   "level": 3,
+   "lesson_order": 69
+ },
+ {
+   "id": "N3-070",
+   "grammar": "なるべく",
+   "romaji": "naru beku",
+   "meaning_en": "as much as possible",
+   "meaning_bn": "যতটা সম্ভব",
+   "level": 3,
+   "lesson_order": 70
+ },
+ {
+   "id": "N3-071",
+   "grammar": "なぜなら",
+   "romaji": "nazenara",
+   "meaning_en": "because; the reason is",
+   "meaning_bn": "কারণ হলো...",
+   "level": 3,
+   "lesson_order": 71
+ },
+ {
+   "id": "N3-072",
+   "grammar": "んだって",
+   "romaji": "ndatte",
+   "meaning_en": "I hear that; heard that~",
+   "meaning_bn": "শুনলাম যে...",
+   "level": 3,
+   "lesson_order": 72
+ },
+ {
+   "id": "N3-073",
+   "grammar": "に違いない",
+   "romaji": "ni chigai nai",
+   "meaning_en": "I’m sure/ certain; no doubt that",
+   "meaning_bn": "নিঃসন্দেহে; অবশ্যই",
+   "level": 3,
+   "lesson_order": 73
+ },
+ {
+   "id": "N3-074",
+   "grammar": "に反して",
+   "romaji": "ni hanshite",
+   "meaning_en": "against; contrary to; in contrast to",
+   "meaning_bn": "এর বিপরীতে; বিরুদ্ধে",
+   "level": 3,
+   "lesson_order": 74
+ },
+ {
+   "id": "N3-075",
+   "grammar": "にかけて",
+   "romaji": "ni kakete",
+   "meaning_en": "over (a period); concerning; regarding~",
+   "meaning_bn": "জুড়ে; ধরে; সম্পর্কে",
+   "level": 3,
+   "lesson_order": 75
+ },
+ {
+   "id": "N3-076",
+   "grammar": "に関する",
+   "romaji": "ni kan suru",
+   "meaning_en": "about; regarding; related to",
+   "meaning_bn": "সম্পর্কে; সংক্রান্ত",
+   "level": 3,
+   "lesson_order": 76
+ },
+ {
+   "id": "N3-077",
+   "grammar": "にかわって",
+   "romaji": "ni kawatte",
+   "meaning_en": "instead of~; replacing~; on behalf of~",
+   "meaning_bn": "পরিবর্তে; এর হয়ে",
+   "level": 3,
+   "lesson_order": 77
+ },
+ {
+   "id": "N3-078",
+   "grammar": "に比べて",
+   "romaji": "ni kurabete",
+   "meaning_en": "compared to~; in comparison to~",
+   "meaning_bn": "এর তুলনায়",
+   "level": 3,
+   "lesson_order": 78
+ },
+ {
+   "id": "N3-079",
+   "grammar": "に慣れる",
+   "romaji": "ni nareru",
+   "meaning_en": "to be used to something",
+   "meaning_bn": "অভ্যস্ত হওয়া",
+   "level": 3,
+   "lesson_order": 79
+ },
+ {
+   "id": "N3-080",
+   "grammar": "において",
+   "romaji": "ni oite",
+   "meaning_en": "in; at (place); regarding~; as for~",
+   "meaning_bn": "-তে; -এ (স্থান/বিষয়)",
+   "level": 3,
+   "lesson_order": 80
+ },
+ {
+   "id": "N3-081",
+   "grammar": "にしたがって",
+   "romaji": "ni shitagatte",
+   "meaning_en": "as; therefore; in accordance with",
+   "meaning_bn": "অনুসারে; সাথে সাথে",
+   "level": 3,
+   "lesson_order": 81
+ },
+ {
+   "id": "N3-082",
+   "grammar": "にしても",
+   "romaji": "ni shite mo",
+   "meaning_en": "even if; even though; regardless of",
+   "meaning_bn": "এমনকি যদি...ও হয়",
+   "level": 3,
+   "lesson_order": 82
+ },
+ {
+   "id": "N3-083",
+   "grammar": "にしては",
+   "romaji": "ni shite wa",
+   "meaning_en": "for; considering it’s",
+   "meaning_bn": "হিসেবে; তুলনায়",
+   "level": 3,
+   "lesson_order": 83
+ },
+ {
+   "id": "N3-084",
+   "grammar": "に対して",
+   "romaji": "ni taishite",
+   "meaning_en": "towards; against; regarding~",
+   "meaning_bn": "এর প্রতি; সম্পর্কে",
+   "level": 3,
+   "lesson_order": 84
+ },
+ {
+   "id": "N3-085",
+   "grammar": "にとって",
+   "romaji": "ni totte",
+   "meaning_en": "to; for; concerning; regarding~",
+   "meaning_bn": "এর জন্য; এর কাছে",
+   "level": 3,
+   "lesson_order": 85
+ },
+ {
+   "id": "N3-086",
+   "grammar": "について",
+   "romaji": "ni tsuite",
+   "meaning_en": "concerning; regarding; about; on",
+   "meaning_bn": "সম্পর্কে; বিষয়ে",
+   "level": 3,
+   "lesson_order": 86
+ },
+ {
+   "id": "N3-087",
+   "grammar": "につれて",
+   "romaji": "ni tsurete",
+   "meaning_en": "as; in proportion to; with; as… then…",
+   "meaning_bn": "সাথে সাথে; অনুসারে",
+   "level": 3,
+   "lesson_order": 87
+ },
+ {
+   "id": "N3-088",
+   "grammar": "には",
+   "romaji": "ni wa",
+   "meaning_en": "for the purpose of; in order to~",
+   "meaning_bn": "করার জন্য; উদ্দেশ্যে",
+   "level": 3,
+   "lesson_order": 88
+ },
+ {
+   "id": "N3-089",
+   "grammar": "によると /によれば",
+   "romaji": "ni yoru to/ni yoreba",
+   "meaning_en": "according to~",
+   "meaning_bn": "...এর মতে; ...এর কথা অনুযায়ী",
+   "level": 3,
+   "lesson_order": 89
+ },
+ {
+   "id": "N3-090",
+   "grammar": "によって / による",
+   "romaji": "ni yotte / ni yoru",
+   "meaning_en": "by means of; due to; because of~",
+   "meaning_bn": "দ্বারা; কারণে; মাধ্যমে",
+   "level": 3,
+   "lesson_order": 90
+ },
+ {
+   "id": "N3-091",
+   "grammar": "のでしょうか",
+   "romaji": "no deshou ka",
+   "meaning_en": "ask a question in a polite way",
+   "meaning_bn": "...হবে কি? (নম্র প্রশ্ন)",
+   "level": 3,
+   "lesson_order": 91
+ },
+ {
+   "id": "N3-092",
+   "grammar": "を中心に",
+   "romaji": "o chuushin ni",
+   "meaning_en": "focused on; centered on",
+   "meaning_bn": "...কে কেন্দ্র করে",
+   "level": 3,
+   "lesson_order": 92
+ },
+ {
+   "id": "N3-093",
+   "grammar": "をはじめ",
+   "romaji": "o hajime",
+   "meaning_en": "for example; starting with",
+   "meaning_bn": "...শুরু করে; যেমন",
+   "level": 3,
+   "lesson_order": 93
+ },
+ {
+   "id": "N3-094",
+   "grammar": "を込めて",
+   "romaji": "o komete",
+   "meaning_en": "filled with; full of",
+   "meaning_bn": "পূর্ণ করে; নিয়ে",
+   "level": 3,
+   "lesson_order": 94
+ },
+ {
+   "id": "N3-095",
+   "grammar": "を通じて /を通して",
+   "romaji": "o tsuujite /o tooshite",
+   "meaning_en": "through; via; throughout; by",
+   "meaning_bn": "মাধ্যমে; দ্বারা",
+   "level": 3,
+   "lesson_order": 95
+ },
+ {
+   "id": "N3-096",
+   "grammar": "おかげで",
+   "romaji": "okage de",
+   "meaning_en": "thanks to ...; owing to ...; because of ...",
+   "meaning_bn": "...এর কল্যাণে; ...এর কারণে",
+   "level": 3,
+   "lesson_order": 96
+ },
+ {
+   "id": "N3-097",
+   "grammar": "っぱなし",
+   "romaji": "ppanashi",
+   "meaning_en": "leaving (something) on / still in use",
+   "meaning_bn": "চালু রেখে দেওয়া; খোলা রেখে দেওয়া",
+   "level": 3,
+   "lesson_order": 97
+ },
+ {
+   "id": "N3-098",
+   "grammar": "っぽい",
+   "romaji": "ppoi",
+   "meaning_en": "seems; somewhat; -ish; easily does~;",
+   "meaning_bn": "-এর মতো; ভাব",
+   "level": 3,
+   "lesson_order": 98
+ },
+ {
+   "id": "N3-099",
+   "grammar": "さえ",
+   "romaji": "sae",
+   "meaning_en": "even; so much as; not even",
+   "meaning_bn": "এমনকি; -ও",
+   "level": 3,
+   "lesson_order": 99
+ },
+ {
+   "id": "N3-100",
+   "grammar": "さえ～ば",
+   "romaji": "sae~ba",
+   "meaning_en": "if only; as long as",
+   "meaning_bn": "শুধুমাত্র... করলেই",
+   "level": 3,
+   "lesson_order": 100
+ },
+ {
+   "id": "N3-101",
+   "grammar": "際に",
+   "romaji": "sai ni",
+   "meaning_en": "when; at the time of; in the case of",
+   "meaning_bn": "সময়; ক্ষেত্রে",
+   "level": 3,
+   "lesson_order": 101
+ },
+ {
+   "id": "N3-102",
+   "grammar": "最中に",
+   "romaji": "saichuu ni",
+   "meaning_en": "while; during; in the middle of",
+   "meaning_bn": "ঠিক মাঝখানে; করার সময়",
+   "level": 3,
+   "lesson_order": 102
+ },
+ {
+   "id": "N3-103",
+   "grammar": "さらに",
+   "romaji": "sara ni",
+   "meaning_en": "furthermore; again; more and more",
+   "meaning_bn": "আরও; এছাড়াও",
+   "level": 3,
+   "lesson_order": 103
+ },
+ {
+   "id": "N3-104",
+   "grammar": "さて",
+   "romaji": "sate",
+   "meaning_en": "conjunction: well; now; then",
+   "meaning_bn": "আচ্ছা; এখন",
+   "level": 3,
+   "lesson_order": 104
+ },
+ {
+   "id": "N3-105",
+   "grammar": "せいで",
+   "romaji": "sei de",
+   "meaning_en": "because of; due to; as a result of~",
+   "meaning_bn": "...এর দোষে; ...এর কারণে",
+   "level": 3,
+   "lesson_order": 105
+ },
+ {
+   "id": "N3-106",
+   "grammar": "せいぜい",
+   "romaji": "seizei",
+   "meaning_en": "at the most; at best; to the utmost",
+   "meaning_bn": "সর্বোচ্চ; বড়জোর",
+   "level": 3,
+   "lesson_order": 106
+ },
+ {
+   "id": "N3-107",
+   "grammar": "しばらく",
+   "romaji": "shibaraku",
+   "meaning_en": "for a moment; for a while",
+   "meaning_bn": "কিছুক্ষণ; কিছু সময়",
+   "level": 3,
+   "lesson_order": 107
+ },
+ {
+   "id": "N3-108",
+   "grammar": "しかない",
+   "romaji": "shikanai",
+   "meaning_en": "have no choice but~",
+   "meaning_bn": "নেই... ছাড়া; করতেই হবে",
+   "level": 3,
+   "lesson_order": 108
+ },
+ {
+   "id": "N3-109",
+   "grammar": "そのために",
+   "romaji": "sono tame ni",
+   "meaning_en": "hence; for that reason; because of~",
+   "meaning_bn": "এজন্য; একারণে",
+   "level": 3,
+   "lesson_order": 109
+ },
+ {
+   "id": "N3-110",
+   "grammar": "それとも",
+   "romaji": "soretomo",
+   "meaning_en": "or; or else",
+   "meaning_bn": "নাকি; অথবা",
+   "level": 3,
+   "lesson_order": 110
+ },
+ {
+   "id": "N3-111",
+   "grammar": "そうもない",
+   "romaji": "sou mo nai",
+   "meaning_en": "very unlikely to~; showing no signs of~",
+   "meaning_bn": "হওয়ার সম্ভাবনা কম",
+   "level": 3,
+   "lesson_order": 111
+ },
+ {
+   "id": "N3-112",
+   "grammar": "すでに",
+   "romaji": "sude ni",
+   "meaning_en": "something has already been done",
+   "meaning_bn": "ইতিমধ্যেই; আগে থেকেই",
+   "level": 3,
+   "lesson_order": 112
+ },
+ {
+   "id": "N3-113",
+   "grammar": "すなわち",
+   "romaji": "sunawachi",
+   "meaning_en": "in other words; namely",
+   "meaning_bn": "অর্থাৎ; অন্য কথায়",
+   "level": 3,
+   "lesson_order": 113
+ },
+ {
+   "id": "N3-114",
+   "grammar": "数量 + は",
+   "romaji": "suuryou + wa",
+   "meaning_en": "at least",
+   "meaning_bn": "অন্তত; কমপক্ষে",
+   "level": 3,
+   "lesson_order": 114
+ },
+ {
+   "id": "N3-115",
+   "grammar": "たものだ",
+   "romaji": "ta mono da",
+   "meaning_en": "used to do; would often do",
+   "meaning_bn": "করতাম (স্মৃতিচারণ)",
+   "level": 3,
+   "lesson_order": 115
+ },
+ {
+   "id": "N3-116",
+   "grammar": "たとたん",
+   "romaji": "ta totan",
+   "meaning_en": "as soon as; just as",
+   "meaning_bn": "করার সাথে সাথেই",
+   "level": 3,
+   "lesson_order": 116
+ },
+ {
+   "id": "N3-117",
+   "grammar": "たびに",
+   "romaji": "tabi ni",
+   "meaning_en": "whenever; every time",
+   "meaning_bn": "যখনই; প্রত্যেকবার",
+   "level": 3,
+   "lesson_order": 117
+ },
+ {
+   "id": "N3-118",
+   "grammar": "ために",
+   "romaji": "tame ni",
+   "meaning_en": "for; in order to; for the benefit of",
+   "meaning_bn": "জন্য; উদ্দেশ্যে",
+   "level": 3,
+   "lesson_order": 118
+ },
+ {
+   "id": "N3-119",
+   "grammar": "確かに",
+   "romaji": "tashika ni",
+   "meaning_en": "surely, certainly",
+   "meaning_bn": "নিশ্চিতভাবে; অবশ্যই",
+   "level": 3,
+   "lesson_order": 119
+ },
+ {
+   "id": "N3-120",
+   "grammar": "たて",
+   "romaji": "tate",
+   "meaning_en": "just done; freshly done; newly done",
+   "meaning_bn": "এইমাত্র করা; তাজা",
+   "level": 3,
+   "lesson_order": 120
+ },
+ {
+   "id": "N3-121",
+   "grammar": "たとえ～ても",
+   "romaji": "tatoe~temo",
+   "meaning_en": "even if… is the case",
+   "meaning_bn": "এমনকি যদি...ও হয়",
+   "level": 3,
+   "lesson_order": 121
+ },
+ {
+   "id": "N3-122",
+   "grammar": "例えば",
+   "romaji": "tatoeba",
+   "meaning_en": "for example",
+   "meaning_bn": "উদাহরণস্বরূপ",
+   "level": 3,
+   "lesson_order": 122
+ },
+ {
+   "id": "N3-123",
+   "grammar": "たって",
+   "romaji": "tatte",
+   "meaning_en": "even if; even though; no matter how",
+   "meaning_bn": "যদিও; এমনকি যদি",
+   "level": 3,
+   "lesson_order": 123
+ },
+ {
+   "id": "N3-124",
+   "grammar": "てばかりいる",
+   "romaji": "te bakari iru",
+   "meaning_en": "only; nothing but~",
+   "meaning_bn": "শুধু... করতেই থাকা",
+   "level": 3,
+   "lesson_order": 124
+ },
+ {
+   "id": "N3-125",
+   "grammar": "てごらん",
+   "romaji": "te goran",
+   "meaning_en": "(please) try to; (please) look",
+   "meaning_bn": "একবার করে দেখো",
+   "level": 3,
+   "lesson_order": 125
+ },
+ {
+   "id": "N3-126",
+   "grammar": "てはじめて",
+   "romaji": "te hajimete",
+   "meaning_en": "not until; only after [x] did I",
+   "meaning_bn": "করার পরেই প্রথম...",
+   "level": 3,
+   "lesson_order": 126
+ },
+ {
+   "id": "N3-127",
+   "grammar": "てからでないと",
+   "romaji": "te kara de nai to",
+   "meaning_en": "must first do; cannot do without~",
+   "meaning_bn": "আগে... না করলে... না",
+   "level": 3,
+   "lesson_order": 127
+ },
+ {
+   "id": "N3-128",
+   "grammar": "てしょうがない",
+   "romaji": "te shou ga nai",
+   "meaning_en": "can't help but~; very; extremely",
+   "meaning_bn": "না করে থাকতে পারি না; খুব...",
+   "level": 3,
+   "lesson_order": 128
+ },
+ {
+   "id": "N3-129",
+   "grammar": "て済む",
+   "romaji": "te sumu",
+   "meaning_en": "sufficient by; resolve by~",
+   "meaning_bn": "করেই সমাধান করা",
+   "level": 3,
+   "lesson_order": 129
+ },
+ {
+   "id": "N3-130",
+   "grammar": "てはいけないから",
+   "romaji": "te wa ikenai kara",
+   "meaning_en": "in order to not~",
+   "meaning_bn": "যাতে... না হয়",
+   "level": 3,
+   "lesson_order": 130
+ },
+ {
+   "id": "N3-131",
+   "grammar": "ている場合じゃない",
+   "romaji": "teiru baai janai",
+   "meaning_en": "this is no time to be doing~",
+   "meaning_bn": "করার সময় এখন না",
+   "level": 3,
+   "lesson_order": 131
+ },
+ {
+   "id": "N3-132",
+   "grammar": "的",
+   "romaji": "teki",
+   "meaning_en": "change noun into na-adjective",
+   "meaning_bn": "-ীয়; -সম্বন্ধীয় (বিশেষণ বানাতে)",
+   "level": 3,
+   "lesson_order": 132
+ },
+ {
+   "id": "N3-133",
+   "grammar": "ても始まらない",
+   "romaji": "temo hajimaranai",
+   "meaning_en": "even if you... it’s no use;",
+   "meaning_bn": "করলেও লাভ নেই",
+   "level": 3,
+   "lesson_order": 133
+ },
+ {
+   "id": "N3-134",
+   "grammar": "てもかまわない",
+   "romaji": "temo kamawanai",
+   "meaning_en": "it doesn't matter if ~",
+   "meaning_bn": "করলেও সমস্যা নেই",
+   "level": 3,
+   "lesson_order": 134
+ },
+ {
+   "id": "N3-135",
+   "grammar": "てもしょうがない",
+   "romaji": "temo shou ga nai",
+   "meaning_en": "there's no point to~; it's no use to~",
+   "meaning_bn": "করলেও লাভ নেই",
+   "level": 3,
+   "lesson_order": 135
+ },
+ {
+   "id": "N3-136",
+   "grammar": "と言えば",
+   "romaji": "to ieba",
+   "meaning_en": "speaking of; when you talk of~",
+   "meaning_bn": "বলতে গেলে; এর কথা বললে",
+   "level": 3,
+   "lesson_order": 136
+ },
+ {
+   "id": "N3-137",
+   "grammar": "といい / たらいい",
+   "romaji": "to ii / tara ii",
+   "meaning_en": "it would be nice if; should; I hope~",
+   "meaning_bn": "করলে ভালো হতো; করলে ভালো হয়",
+   "level": 3,
+   "lesson_order": 137
+ },
+ {
+   "id": "N3-138",
+   "grammar": "といっても",
+   "romaji": "to ittemo",
+   "meaning_en": "although I say; although one might say~",
+   "meaning_bn": "বললেও; যদিও বলি",
+   "level": 3,
+   "lesson_order": 138
+ },
+ {
+   "id": "N3-139",
+   "grammar": "ということだ",
+   "romaji": "to iu koto da",
+   "meaning_en": "I heard; it means~; in other words~",
+   "meaning_bn": "শোনা যায়; এর মানে হলো",
+   "level": 3,
+   "lesson_order": 139
+ },
+ {
+   "id": "N3-140",
+   "grammar": "というのは",
+   "romaji": "to iu nowa",
+   "meaning_en": "this means~; because~; that is to say",
+   "meaning_bn": "এর মানে হলো...; কারণ...",
+   "level": 3,
+   "lesson_order": 140
+ },
+ {
+   "id": "N3-141",
+   "grammar": "と言うと",
+   "romaji": "to iu to",
+   "meaning_en": "speaking of; when you say~",
+   "meaning_bn": "বলতে গেলে; এর কথা বললে",
+   "level": 3,
+   "lesson_order": 141
+ },
+ {
+   "id": "N3-142",
+   "grammar": "というより",
+   "romaji": "to iu yori",
+   "meaning_en": "rather than~",
+   "meaning_bn": "এর চেয়ে বরং...",
+   "level": 3,
+   "lesson_order": 142
+ },
+ {
+   "id": "N3-143",
+   "grammar": "とみえる / とみえて",
+   "romaji": "to mieru / to miete",
+   "meaning_en": "it seems that~",
+   "meaning_bn": "দেখে মনে হয়",
+   "level": 3,
+   "lesson_order": 143
+ },
+ {
+   "id": "N3-144",
+   "grammar": "とすれば",
+   "romaji": "to sureba",
+   "meaning_en": "in the case of~; assuming~; if A then B",
+   "meaning_bn": "যদি... হয়; ধরলে",
+   "level": 3,
+   "lesson_order": 144
+ },
+ {
+   "id": "N3-145",
+   "grammar": "と共に",
+   "romaji": "to tomo ni",
+   "meaning_en": "together with; at the same time as",
+   "meaning_bn": "সাথে; একই সময়ে",
+   "level": 3,
+   "lesson_order": 145
+ },
+ {
+   "id": "N3-146",
+   "grammar": "途中で",
+   "romaji": "tochuu de",
+   "meaning_en": "on the way; in the middle of~",
+   "meaning_bn": "মাঝপথে;途中",
+   "level": 3,
+   "lesson_order": 146
+ },
+ {
+   "id": "N3-147",
+   "grammar": "ところで",
+   "romaji": "tokoro de",
+   "meaning_en": "by the way~",
+   "meaning_bn": "যাই হোক; প্রসঙ্গত",
+   "level": 3,
+   "lesson_order": 147
+ },
+ {
+   "id": "N3-148",
+   "grammar": "ところが",
+   "romaji": "tokoro ga",
+   "meaning_en": "even so; however; even though~",
+   "meaning_bn": "কিন্তু; অথচ",
+   "level": 3,
+   "lesson_order": 148
+ },
+ {
+   "id": "N3-149",
+   "grammar": "とおりに",
+   "romaji": "toori ni",
+   "meaning_en": "in the same way as; in the way; as~",
+   "meaning_bn": "মতো করে; অনুযায়ী",
+   "level": 3,
+   "lesson_order": 149
+ },
+ {
+   "id": "N3-150",
+   "grammar": "通す",
+   "romaji": "toosu",
+   "meaning_en": "to do until the end; to continually do",
+   "meaning_bn": "শেষ পর্যন্ত করা; চালিয়ে যাওয়া",
+   "level": 3,
+   "lesson_order": 150
+ },
+ {
+   "id": "N3-151",
+   "grammar": "として",
+   "romaji": "toshite",
+   "meaning_en": "as~; in the role of~",
+   "meaning_bn": "হিসেবে; ভূমিকায়",
+   "level": 3,
+   "lesson_order": 151
+ },
+ {
+   "id": "N3-152",
+   "grammar": "とても～ない",
+   "romaji": "totemo~nai",
+   "meaning_en": "cannot possibly be; hardly~",
+   "meaning_bn": "কিছুতেই... না; কোনোভাবেই না",
+   "level": 3,
+   "lesson_order": 152
+ },
+ {
+   "id": "N3-153",
+   "grammar": "とは限らない",
+   "romaji": "towa kagiranai",
+   "meaning_en": "not necessarily so; is not always true",
+   "meaning_bn": "সবসময়... এমন নয়",
+   "level": 3,
+   "lesson_order": 153
+ },
+ {
+   "id": "N3-154",
+   "grammar": "つい",
+   "romaji": "tsui",
+   "meaning_en": "accidentally; unintentionally",
+   "meaning_bn": "অনিচ্ছাকৃতভাবে; নিজের অজান্তেই",
+   "level": 3,
+   "lesson_order": 154
+ },
+ {
+   "id": "N3-155",
+   "grammar": "ついに",
+   "romaji": "tsui ni",
+   "meaning_en": "finally ~; at last ~; in the end",
+   "meaning_bn": "অবশেষে; শেষ পর্যন্ত",
+   "level": 3,
+   "lesson_order": 155
+ },
+ {
+   "id": "N3-156",
+   "grammar": "ついでに",
+   "romaji": "tsuide ni",
+   "meaning_en": "while, incidentally, at the same time",
+   "meaning_bn": "একই সাথে; সুযোগে",
+   "level": 3,
+   "lesson_order": 156
+ },
+ {
+   "id": "N3-157",
+   "grammar": "つまり",
+   "romaji": "tsumari",
+   "meaning_en": "in other words; in summary; in short",
+   "meaning_bn": "অর্থাৎ; সংক্ষেপে",
+   "level": 3,
+   "lesson_order": 157
+ },
+ {
+   "id": "N3-158",
+   "grammar": "つもりだった",
+   "romaji": "tsumori datta",
+   "meaning_en": "I thought I~; I believe I did~",
+   "meaning_bn": "করার ইচ্ছা ছিল",
+   "level": 3,
+   "lesson_order": 158
+ },
+ {
+   "id": "N3-159",
+   "grammar": "つもりで",
+   "romaji": "tsumori de",
+   "meaning_en": "with the intention of doing~",
+   "meaning_bn": "করার ইচ্ছায়",
+   "level": 3,
+   "lesson_order": 159
+ },
+ {
+   "id": "N3-160",
+   "grammar": "うちに",
+   "romaji": "uchi ni",
+   "meaning_en": "while; before~",
+   "meaning_bn": "মধ্যে; করার আগেই",
+   "level": 3,
+   "lesson_order": 160
+ },
+ {
+   "id": "N3-161",
+   "grammar": "上で",
+   "romaji": "ue de",
+   "meaning_en": "upon; after; when; for; in order to",
+   "meaning_bn": "করার পর; এর উপর ভিত্তি করে",
+   "level": 3,
+   "lesson_order": 161
+ },
+ {
+   "id": "N3-162",
+   "grammar": "上に",
+   "romaji": "ue ni",
+   "meaning_en": "as well; not only… but also",
+   "meaning_bn": "ছাড়াও; উপরে",
+   "level": 3,
+   "lesson_order": 162
+ },
+ {
+   "id": "N3-163",
+   "grammar": "は別として",
+   "romaji": "wa betsu toshite",
+   "meaning_en": "aside from; whether or not~",
+   "meaning_bn": "বাদ দিয়ে; ছাড়া",
+   "level": 3,
+   "lesson_order": 163
+ },
+ {
+   "id": "N3-164",
+   "grammar": "はもちろん",
+   "romaji": "wa mochiron",
+   "meaning_en": "not to mention; not only; but also~",
+   "meaning_bn": "তো বটেই; এছাড়াও",
+   "level": 3,
+   "lesson_order": 164
+ },
+ {
+   "id": "N3-165",
+   "grammar": "は～で有名",
+   "romaji": "wa~de yuumei",
+   "meaning_en": "famous for~",
+   "meaning_bn": "...এর জন্য বিখ্যাত",
+   "level": 3,
+   "lesson_order": 165
+ },
+ {
+   "id": "N3-166",
+   "grammar": "わけだ",
+   "romaji": "wake da",
+   "meaning_en": "for that reason; no wonder",
+   "meaning_bn": "এটাই কারণ; তাই তো...",
+   "level": 3,
+   "lesson_order": 166
+ },
+ {
+   "id": "N3-167",
+   "grammar": "わけではない",
+   "romaji": "wake dewa nai",
+   "meaning_en": "it doesn’t mean that~",
+   "meaning_bn": "এমন না যে...",
+   "level": 3,
+   "lesson_order": 167
+ },
+ {
+   "id": "N3-168",
+   "grammar": "わけがない",
+   "romaji": "wake ga nai",
+   "meaning_en": "there is no way that~",
+   "meaning_bn": "কোনোভাবেই সম্ভব না",
+   "level": 3,
+   "lesson_order": 168
+ },
+ {
+   "id": "N3-169",
+   "grammar": "わけにはいかない",
+   "romaji": "wake niwa ikanai",
+   "meaning_en": "must not; cannot afford to; must~",
+   "meaning_bn": "না করে থাকা যায় না; করতেই হবে",
+   "level": 3,
+   "lesson_order": 169
+ },
+ {
+   "id": "N3-170",
+   "grammar": "割に",
+   "romaji": "wari ni",
+   "meaning_en": "considering; relatively; unexpectedly",
+   "meaning_bn": "তুলনায়; হিসাবে",
+   "level": 3,
+   "lesson_order": 170
+ },
+ {
+   "id": "N3-171",
+   "grammar": "わざと",
+   "romaji": "wazato",
+   "meaning_en": "on purpose; intentionally~",
+   "meaning_bn": "ইচ্ছাকৃতভাবে",
+   "level": 3,
+   "lesson_order": 171
+ },
+ {
+   "id": "N3-172",
+   "grammar": "わざわざ",
+   "romaji": "wazawaza",
+   "meaning_en": "to go to the trouble of",
+   "meaning_bn": "কষ্ট করে;わざわざ",
+   "level": 3,
+   "lesson_order": 172
+ },
+ {
+   "id": "N3-173",
+   "grammar": "よりも",
+   "romaji": "yorimo",
+   "meaning_en": "rather than~; more than~",
+   "meaning_bn": "চেয়ে; থেকে",
+   "level": 3,
+   "lesson_order": 173
+ },
+ {
+   "id": "N3-174",
+   "grammar": "ようがない",
+   "romaji": "you ga nai",
+   "meaning_en": "there is no way to; it’s impossible to~",
+   "meaning_bn": "করার কোনো উপায় নেই",
+   "level": 3,
+   "lesson_order": 174
+ },
+ {
+   "id": "N3-175",
+   "grammar": "ような気がする",
+   "romaji": "you na ki ga suru",
+   "meaning_en": "have a feeling that; feels like; seems like",
+   "meaning_bn": "এমন অনুভূতি হচ্ছে যে...",
+   "level": 3,
+   "lesson_order": 175
+ },
+ {
+   "id": "N3-176",
+   "grammar": "ように",
+   "romaji": "you ni",
+   "meaning_en": "in order to, so that~",
+   "meaning_bn": "যাতে; জন্য",
+   "level": 3,
+   "lesson_order": 176
+ },
+ {
+   "id": "N3-177",
+   "grammar": "ように見える",
+   "romaji": "you ni mieru",
+   "meaning_en": "to look; to seem; to appear~",
+   "meaning_bn": "দেখে মনে হয়",
+   "level": 3,
+   "lesson_order": 177
+ },
+ {
+   "id": "N3-178",
+   "grammar": "ようとしない",
+   "romaji": "you to shinai",
+   "meaning_en": "not try to; not make an effort to~",
+   "meaning_bn": "করার চেষ্টা না করা",
+   "level": 3,
+   "lesson_order": 178
+ },
+ {
+   "id": "N3-179",
+   "grammar": "ようとする",
+   "romaji": "you to suru",
+   "meaning_en": "try to; attempt to; be about to~",
+   "meaning_bn": "করার চেষ্টা করা; করতে উদ্যত হওয়া",
+   "level": 3,
+   "lesson_order": 179
+ },
+ {
+   "id": "N3-180",
+   "grammar": "ずに",
+   "romaji": "zuni",
+   "meaning_en": "without doing~",
+   "meaning_bn": "না করে",
+   "level": 3,
+   "lesson_order": 180
+ },
+ {
+   "id": "N3-181",
+   "grammar": "ずにはいられない",
+   "romaji": "zuni wa irarenai",
+   "meaning_en": "can’t help but feel; can’t help but do",
+   "meaning_bn": "না করে থাকতে পারি না",
+   "level": 3,
+   "lesson_order": 181
+ },
+ {
+   "id": "N3-182",
+   "grammar": "ずつ",
+   "romaji": "zutsu",
+   "meaning_en": "apiece; each; at a time",
+   "meaning_bn": "করে; প্রতিটি",
+   "level": 3,
+   "lesson_order": 182
+ },
+ {
+   "id": "N2-001",
+   "grammar": "あげく",
+   "romaji": "ageku",
+   "meaning_en": "to end up; in the end; finally; after all",
+   "meaning_bn": "শেষে; পরিণামে",
+   "level": 2,
+   "lesson_order": 1
+ },
+ {
+   "id": "N2-002",
+   "grammar": "あるいは",
+   "romaji": "aruiwa",
+   "meaning_en": "or; either; maybe; perhaps; possibly",
+   "meaning_bn": "অথবা; কিংবা",
+   "level": 2,
+   "lesson_order": 2
+ },
+ {
+   "id": "N2-003",
+   "grammar": "ばかり",
+   "romaji": "bakari",
+   "meaning_en": "about, approximately",
+   "meaning_bn": "প্রায়; আনুমানিক",
+   "level": 2,
+   "lesson_order": 3
+ },
+ {
+   "id": "N2-004",
+   "grammar": "ばかりだ",
+   "romaji": "bakari da",
+   "meaning_en": "continue to (go in negative direction)",
+   "meaning_bn": "শুধু... হতে থাকা (নেতিবাচক)",
+   "level": 2,
+   "lesson_order": 4
+ },
+ {
+   "id": "N2-005",
+   "grammar": "ばかりか",
+   "romaji": "bakari ka",
+   "meaning_en": "not only.. but also; as well as",
+   "meaning_bn": "শুধু... নয়, ...ও",
+   "level": 2,
+   "lesson_order": 5
+ },
+ {
+   "id": "N2-006",
+   "grammar": "ばかりに",
+   "romaji": "bakari ni",
+   "meaning_en": "simply because; on account of",
+   "meaning_bn": "শুধু... এই কারণে",
+   "level": 2,
+   "lesson_order": 6
+ },
+ {
+   "id": "N2-007",
+   "grammar": "ちなみに",
+   "romaji": "chinamini",
+   "meaning_en": "by the way; incidentally",
+   "meaning_bn": "যাইহোক; প্রসঙ্গত",
+   "level": 2,
+   "lesson_order": 7
+ },
+ {
+   "id": "N2-008",
+   "grammar": "ちっとも～ない",
+   "romaji": "chitto mo~nai",
+   "meaning_en": "(not) at all; (not) in the least",
+   "meaning_bn": "একটুও না",
+   "level": 2,
+   "lesson_order": 8
+ },
+ {
+   "id": "N2-009",
+   "grammar": "だけあって",
+   "romaji": "dake atte",
+   "meaning_en": "being the case; precisely because",
+   "meaning_bn": "যেহেতু... সেহেতু; স্বাভাবিকভাবেই",
+   "level": 2,
+   "lesson_order": 9
+ },
+ {
+   "id": "N2-010",
+   "grammar": "だけましだ",
+   "romaji": "dake mashi da",
+   "meaning_en": "it’s better than; should feel grateful for",
+   "meaning_bn": "এর চেয়ে ভালো; অন্তত এটা ভালো",
+   "level": 2,
+   "lesson_order": 10
+ },
+ {
+   "id": "N2-011",
+   "grammar": "だけに",
+   "romaji": "dake ni",
+   "meaning_en": "being the case; precisely because",
+   "meaning_bn": "যেহেতু; এই কারণে",
+   "level": 2,
+   "lesson_order": 11
+ },
+ {
+   "id": "N2-012",
+   "grammar": "だけのことはある",
+   "romaji": "dake no koto wa aru",
+   "meaning_en": "as expected of; not for nothing",
+   "meaning_bn": "এটাই স্বাভাবিক যে...",
+   "level": 2,
+   "lesson_order": 12
+ },
+ {
+   "id": "N2-013",
+   "grammar": "だけは",
+   "romaji": "dake wa",
+   "meaning_en": "to do all that one can",
+   "meaning_bn": "সবটুকু করা",
+   "level": 2,
+   "lesson_order": 13
+ },
+ {
+   "id": "N2-014",
+   "grammar": "だって",
+   "romaji": "datte",
+   "meaning_en": "because; but; after all; even; too",
+   "meaning_bn": "কারণ; কিন্তু; এমনকি",
+   "level": 2,
+   "lesson_order": 14
+ },
+ {
+   "id": "N2-015",
+   "grammar": "でしかない",
+   "romaji": "de shika nai",
+   "meaning_en": "merely; nothing but; no more than",
+   "meaning_bn": "শুধুমাত্র; কেবল",
+   "level": 2,
+   "lesson_order": 15
+ },
+ {
+   "id": "N2-016",
+   "grammar": "どころではない",
+   "romaji": "dokoro dewa nai",
+   "meaning_en": "not the time for; far from",
+   "meaning_bn": "করার সময় বা অবস্থা নেই",
+   "level": 2,
+   "lesson_order": 16
+ },
+ {
+   "id": "N2-017",
+   "grammar": "どころか",
+   "romaji": "dokoro ka",
+   "meaning_en": "far from; anything but; let alone",
+   "meaning_bn": "তো দূরের কথা; মোটেই না",
+   "level": 2,
+   "lesson_order": 17
+ },
+ {
+   "id": "N2-018",
+   "grammar": "どうやら",
+   "romaji": "dou yara",
+   "meaning_en": "apparently; seems like; somehow",
+   "meaning_bn": "মনে হচ্ছে; সম্ভবত",
+   "level": 2,
+   "lesson_order": 18
+ },
+ {
+   "id": "N2-019",
+   "grammar": "どうせ",
+   "romaji": "douse",
+   "meaning_en": "anyhow; in any case; at any rate",
+   "meaning_bn": "যাই হোক; যেভাবেই হোক",
+   "level": 2,
+   "lesson_order": 19
+ },
+ {
+   "id": "N2-020",
+   "grammar": "得ない",
+   "romaji": "enai",
+   "meaning_en": "unable to; cannot; it is not possible to~",
+   "meaning_bn": "করতে অক্ষম; সম্ভব না",
+   "level": 2,
+   "lesson_order": 20
+ },
+ {
+   "id": "N2-021",
+   "grammar": "得る",
+   "romaji": "eru / uru",
+   "meaning_en": "can; to be able to; is possible to~",
+   "meaning_bn": "পারা; সক্ষম হওয়া",
+   "level": 2,
+   "lesson_order": 21
+ },
+ {
+   "id": "N2-022",
+   "grammar": "再び",
+   "romaji": "futatabi",
+   "meaning_en": "again; once more",
+   "meaning_bn": "পুনরায়; আবার",
+   "level": 2,
+   "lesson_order": 22
+ },
+ {
+   "id": "N2-023",
+   "grammar": "ふうに",
+   "romaji": "fuu ni",
+   "meaning_en": "this way; that way; in such a way; how",
+   "meaning_bn": "এইভাবে; ঐভাবে; এমনভাবে",
+   "level": 2,
+   "lesson_order": 23
+ },
+ {
+   "id": "N2-024",
+   "grammar": "がきっかけで",
+   "romaji": "ga kikkake de",
+   "meaning_en": "as a result of; taking advantage of",
+   "meaning_bn": "...এর ফলস্বরূপ; ...এর সুযোগে",
+   "level": 2,
+   "lesson_order": 24
+ },
+ {
+   "id": "N2-025",
+   "grammar": "げ",
+   "romaji": "ge",
+   "meaning_en": "looks like; seems like; appears to",
+   "meaning_bn": "দেখে মনে হচ্ছে; ভাব",
+   "level": 2,
+   "lesson_order": 25
+ },
+ {
+   "id": "N2-026",
+   "grammar": "逆に",
+   "romaji": "gyaku ni",
+   "meaning_en": "conversely; on the contrary",
+   "meaning_bn": "উল্টোদিকে; বিপরীতভাবে",
+   "level": 2,
+   "lesson_order": 26
+ },
+ {
+   "id": "N2-027",
+   "grammar": "反面",
+   "romaji": "hanmen",
+   "meaning_en": "while, although; on the other hand",
+   "meaning_bn": "অন্যদিকে; যদিও",
+   "level": 2,
+   "lesson_order": 27
+ },
+ {
+   "id": "N2-028",
+   "grammar": "果たして",
+   "romaji": "hatashite",
+   "meaning_en": "as was expected; sure enough; really",
+   "meaning_bn": "সত্যিই কি; যেমনটা আশা করা হয়েছিল",
+   "level": 2,
+   "lesson_order": 28
+ },
+ {
+   "id": "N2-029",
+   "grammar": "一応",
+   "romaji": "ichiou",
+   "meaning_en": "more or less; pretty much; roughly",
+   "meaning_bn": "এক প্রকার; মোটামুটি",
+   "level": 2,
+   "lesson_order": 29
+ },
+ {
+   "id": "N2-030",
+   "grammar": "以外",
+   "romaji": "igai",
+   "meaning_en": "with the exception of; excepting",
+   "meaning_bn": "ছাড়া; ব্যতীত",
+   "level": 2,
+   "lesson_order": 30
+ },
+ {
+   "id": "N2-031",
+   "grammar": "以上に",
+   "romaji": "ijou ni",
+   "meaning_en": "more than; not less than; beyond",
+   "meaning_bn": "এর চেয়ে বেশি; এর উপরে",
+   "level": 2,
+   "lesson_order": 31
+ },
+ {
+   "id": "N2-032",
+   "grammar": "以上は",
+   "romaji": "ijou wa",
+   "meaning_en": "because; since; seeing that",
+   "meaning_bn": "যেহেতু; একারণে",
+   "level": 2,
+   "lesson_order": 32
+ },
+ {
+   "id": "N2-033",
+   "grammar": "いきなり",
+   "romaji": "ikinari",
+   "meaning_en": "abruptly; suddenly; all of a sudden",
+   "meaning_bn": "হঠাৎ; আকস্মিকভাবে",
+   "level": 2,
+   "lesson_order": 33
+ },
+ {
+   "id": "N2-034",
+   "grammar": "一気に",
+   "romaji": "ikki ni",
+   "meaning_en": "in one go; without stopping; all at once",
+   "meaning_bn": "একবারে; একদমে",
+   "level": 2,
+   "lesson_order": 34
+ },
+ {
+   "id": "N2-035",
+   "grammar": "一方で",
+   "romaji": "ippou de",
+   "meaning_en": "on one hand, on the other hand",
+   "meaning_bn": "একদিকে... অন্যদিকে",
+   "level": 2,
+   "lesson_order": 35
+ },
+ {
+   "id": "N2-036",
+   "grammar": "いわゆる",
+   "romaji": "iwayuru",
+   "meaning_en": "what is called; as it is called; so-called",
+   "meaning_bn": "তথাকথিত; যাকে বলে",
+   "level": 2,
+   "lesson_order": 36
+ },
+ {
+   "id": "N2-037",
+   "grammar": "いよいよ",
+   "romaji": "iyoiyo",
+   "meaning_en": "at last; finally; beyond doubt",
+   "meaning_bn": "অবশেষে; পরিশেষে",
+   "level": 2,
+   "lesson_order": 37
+ },
+ {
+   "id": "N2-038",
+   "grammar": "上",
+   "romaji": "jou",
+   "meaning_en": "for the sake of; from the standpoint of",
+   "meaning_bn": "এর দৃষ্টিকোণ থেকে; স্বার্থে",
+   "level": 2,
+   "lesson_order": 38
+ },
+ {
+   "id": "N2-039",
+   "grammar": "かのように",
+   "romaji": "ka no you ni",
+   "meaning_en": "as if; just like",
+   "meaning_bn": "যেন; এমনভাবে যেন",
+   "level": 2,
+   "lesson_order": 39
+ },
+ {
+   "id": "N2-040",
+   "grammar": "かと思ったら",
+   "romaji": "ka to omottara",
+   "meaning_en": "just when; no sooner than",
+   "meaning_bn": "ভাবতে না ভাবতেই; করার সাথে সাথেই",
+   "level": 2,
+   "lesson_order": 40
+ },
+ {
+   "id": "N2-041",
+   "grammar": "か～ないかのうちに",
+   "romaji": "ka~nai ka no uchi ni",
+   "meaning_en": "just as; right after; as soon as",
+   "meaning_bn": "করতে না করতেই",
+   "level": 2,
+   "lesson_order": 41
+ },
+ {
+   "id": "N2-042",
+   "grammar": "かえって",
+   "romaji": "kaette",
+   "meaning_en": "on the contrary; rather; all the more",
+   "meaning_bn": "উল্টো; বরং; আরও বেশি",
+   "level": 2,
+   "lesson_order": 42
+ },
+ {
+   "id": "N2-043",
+   "grammar": "限り",
+   "romaji": "kagiri",
+   "meaning_en": "as long as; while… is the case; as far as",
+   "meaning_bn": "যতক্ষণ পর্যন্ত; যতক্ষণ",
+   "level": 2,
+   "lesson_order": 43
+ },
+ {
+   "id": "N2-044",
+   "grammar": "甲斐がある",
+   "romaji": "kai ga aru",
+   "meaning_en": "it’s worth one’s efforts to do something",
+   "meaning_bn": "কষ্ট সার্থক হওয়া; করার মূল্য আছে",
+   "level": 2,
+   "lesson_order": 44
+ },
+ {
+   "id": "N2-045",
+   "grammar": "かねない",
+   "romaji": "kanenai",
+   "meaning_en": "(someone) might do something",
+   "meaning_bn": "(খারাপ কিছু) করে ফেলতে পারে",
+   "level": 2,
+   "lesson_order": 45
+ },
+ {
+   "id": "N2-046",
+   "grammar": "かねる",
+   "romaji": "kaneru",
+   "meaning_en": "unable to do something; can’t do~",
+   "meaning_bn": "করতে অপারগ; করতে পারি না",
+   "level": 2,
+   "lesson_order": 46
+ },
+ {
+   "id": "N2-047",
+   "grammar": "から言うと",
+   "romaji": "kara iu to",
+   "meaning_en": "in terms of; from the point of view of",
+   "meaning_bn": "এর দৃষ্টিকোণ থেকে",
+   "level": 2,
+   "lesson_order": 47
+ },
+ {
+   "id": "N2-048",
+   "grammar": "からこそ",
+   "romaji": "kara koso",
+   "meaning_en": "precisely because",
+   "meaning_bn": "ঠিক এই কারণেই",
+   "level": 2,
+   "lesson_order": 48
+ },
+ {
+   "id": "N2-049",
+   "grammar": "から見ると",
+   "romaji": "kara miru to",
+   "meaning_en": "from the point of view of; judging from",
+   "meaning_bn": "এর দৃষ্টিকোণ থেকে দেখলে",
+   "level": 2,
+   "lesson_order": 49
+ },
+ {
+   "id": "N2-050",
+   "grammar": "からには",
+   "romaji": "kara niwa",
+   "meaning_en": "now that; since; so long as; because",
+   "meaning_bn": "যেহেতু; যখন... তখন",
+   "level": 2,
+   "lesson_order": 50
+ },
+ {
+   "id": "N2-051",
+   "grammar": "からして",
+   "romaji": "kara shite",
+   "meaning_en": "judging from; based on; since; from",
+   "meaning_bn": "বিবেচনায়; থেকে বিচার করলে",
+   "level": 2,
+   "lesson_order": 51
+ },
+ {
+   "id": "N2-052",
+   "grammar": "からすると",
+   "romaji": "kara suru to",
+   "meaning_en": "judging from; considering",
+   "meaning_bn": "এর দৃষ্টিকোণ থেকে; বিবেচনা করলে",
+   "level": 2,
+   "lesson_order": 52
+ },
+ {
+   "id": "N2-053",
+   "grammar": "からと言って",
+   "romaji": "kara to itte",
+   "meaning_en": "just because; even if; even though~",
+   "meaning_bn": "শুধুমাত্র... এই কারণে",
+   "level": 2,
+   "lesson_order": 53
+ },
+ {
+   "id": "N2-054",
+   "grammar": "っこない",
+   "romaji": "kkonai",
+   "meaning_en": "no chance of; definitely not possible",
+   "meaning_bn": "কোনোভাবেই সম্ভব না",
+   "level": 2,
+   "lesson_order": 54
+ },
+ {
+   "id": "N2-055",
+   "grammar": "ことだ",
+   "romaji": "koto da",
+   "meaning_en": "should do~ (suggestions or advice)",
+   "meaning_bn": "করা উচিত (পরামর্শ)",
+   "level": 2,
+   "lesson_order": 55
+ },
+ {
+   "id": "N2-056",
+   "grammar": "ことだから",
+   "romaji": "koto dakara",
+   "meaning_en": "because; since~",
+   "meaning_bn": "যেহেতু... তাই; তার মতো মানুষ...",
+   "level": 2,
+   "lesson_order": 56
+ },
+ {
+   "id": "N2-057",
+   "grammar": "ことか",
+   "romaji": "koto ka",
+   "meaning_en": "how…!; what…!",
+   "meaning_bn": "কতই না...! (আবেগ প্রকাশ)",
+   "level": 2,
+   "lesson_order": 57
+ },
+ {
+   "id": "N2-058",
+   "grammar": "ことなく",
+   "romaji": "koto naku",
+   "meaning_en": "without doing something even once",
+   "meaning_bn": "একবারও না করে",
+   "level": 2,
+   "lesson_order": 58
+ },
+ {
+   "id": "N2-059",
+   "grammar": "ことに",
+   "romaji": "koto ni",
+   "meaning_en": "emphasize speaker's feelings",
+   "meaning_bn": "(আবেগ প্রকাশে) বিশেষভাবে",
+   "level": 2,
+   "lesson_order": 59
+ },
+ {
+   "id": "N2-060",
+   "grammar": "ことにはならない",
+   "romaji": "koto niwa naranai",
+   "meaning_en": "just because… doesn’t mean~",
+   "meaning_bn": "শুধু... করলেই... হয় না",
+   "level": 2,
+   "lesson_order": 60
+ },
+ {
+   "id": "N2-061",
+   "grammar": "くせして",
+   "romaji": "kuse shite",
+   "meaning_en": "although~; despite the fact that~",
+   "meaning_bn": "অভ্যাস থাকা সত্ত্বেও (নেতিবাচক)",
+   "level": 2,
+   "lesson_order": 61
+ },
+ {
+   "id": "N2-062",
+   "grammar": "まだしも",
+   "romaji": "madashimo",
+   "meaning_en": "rather; better",
+   "meaning_bn": "বরং ভালো; এর চেয়ে ভালো",
+   "level": 2,
+   "lesson_order": 62
+ },
+ {
+   "id": "N2-063",
+   "grammar": "まい",
+   "romaji": "mai",
+   "meaning_en": "will not; intend not to",
+   "meaning_bn": "করব না (দৃঢ় ইচ্ছা)",
+   "level": 2,
+   "lesson_order": 63
+ },
+ {
+   "id": "N2-064",
+   "grammar": "ままに",
+   "romaji": "mama ni",
+   "meaning_en": "as, to do as~",
+   "meaning_bn": "যেমন আছে তেমনভাবেই",
+   "level": 2,
+   "lesson_order": 64
+ },
+ {
+   "id": "N2-065",
+   "grammar": "全く～ない",
+   "romaji": "mattaku~nai",
+   "meaning_en": "not at all~",
+   "meaning_bn": "একদমই না",
+   "level": 2,
+   "lesson_order": 65
+ },
+ {
+   "id": "N2-066",
+   "grammar": "もかまわず",
+   "romaji": "mo kamawazu",
+   "meaning_en": "without caring; without worrying",
+   "meaning_bn": "কোনো কিছুর তোয়াক্কা না করে",
+   "level": 2,
+   "lesson_order": 66
+ },
+ {
+   "id": "N2-067",
+   "grammar": "も当然だ",
+   "romaji": "mo touzen da",
+   "meaning_en": "it’s only natural; no wonder",
+   "meaning_bn": "হওয়াই স্বাভাবিক",
+   "level": 2,
+   "lesson_order": 67
+ },
+ {
+   "id": "N2-068",
+   "grammar": "もの / もん",
+   "romaji": "mono / mon",
+   "meaning_en": "because; reason/ excuse/dissatisfaction",
+   "meaning_bn": "কারণ (অজুহাত বা অসন্তুষ্টি)",
+   "level": 2,
+   "lesson_order": 68
+ },
+ {
+   "id": "N2-069",
+   "grammar": "ものだ",
+   "romaji": "mono da",
+   "meaning_en": "describe feeling; express memories",
+   "meaning_bn": "(আবেগ বা স্মৃতি প্রকাশে) এমনই হয়",
+   "level": 2,
+   "lesson_order": 69
+ },
+ {
+   "id": "N2-070",
+   "grammar": "ものだから",
+   "romaji": "mono dakara",
+   "meaning_en": "so; therefore; the reason for something",
+   "meaning_bn": "একারণেই; তাই তো",
+   "level": 2,
+   "lesson_order": 70
+ },
+ {
+   "id": "N2-071",
+   "grammar": "ものではない",
+   "romaji": "mono dewa nai",
+   "meaning_en": "shouldn’t do something; it’s impossible",
+   "meaning_bn": "করা উচিত নয়; করা অসম্ভব",
+   "level": 2,
+   "lesson_order": 71
+ },
+ {
+   "id": "N2-072",
+   "grammar": "ものがある",
+   "romaji": "mono ga aru",
+   "meaning_en": "there is such a thing; to be the case",
+   "meaning_bn": "করার মতো কিছু আছে; সত্যিই...",
+   "level": 2,
+   "lesson_order": 72
+ },
+ {
+   "id": "N2-073",
+   "grammar": "ものか / もんか",
+   "romaji": "mono ka / mon ka",
+   "meaning_en": "as if; there's no way~",
+   "meaning_bn": "কোনোভাবেই না; প্রশ্নই ওঠে না",
+   "level": 2,
+   "lesson_order": 73
+ },
+ {
+   "id": "N2-074",
+   "grammar": "ものなら",
+   "romaji": "mono nara",
+   "meaning_en": "if [A] is possible, then [B]",
+   "meaning_bn": "যদি করা সম্ভব হয়",
+   "level": 2,
+   "lesson_order": 74
+ },
+ {
+   "id": "N2-075",
+   "grammar": "ものの",
+   "romaji": "monono",
+   "meaning_en": "but; although; even though~",
+   "meaning_bn": "যদিও; সত্ত্বেও",
+   "level": 2,
+   "lesson_order": 75
+ },
+ {
+   "id": "N2-076",
+   "grammar": "もっとも",
+   "romaji": "motto mo",
+   "meaning_en": "but then; although; though~",
+   "meaning_bn": "তবে; কিন্তু",
+   "level": 2,
+   "lesson_order": 76
+ },
+ {
+   "id": "N2-077",
+   "grammar": "もう少しで",
+   "romaji": "mou sukoshi de",
+   "meaning_en": "almost; nearly, close to~",
+   "meaning_bn": "আর একটু হলেই; প্রায়",
+   "level": 2,
+   "lesson_order": 77
+ },
+ {
+   "id": "N2-078",
+   "grammar": "ないではいられない",
+   "romaji": "nai dewa irarenai",
+   "meaning_en": "can’t help but feel; can’t help but do",
+   "meaning_bn": "না করে থাকতে পারি না",
+   "level": 2,
+   "lesson_order": 78
+ },
+ {
+   "id": "N2-079",
+   "grammar": "ないことには～ない",
+   "romaji": "nai koto niwa~nai",
+   "meaning_en": "unless you~",
+   "meaning_bn": "না করলে... হয় না",
+   "level": 2,
+   "lesson_order": 79
+ },
+ {
+   "id": "N2-080",
+   "grammar": "中を /中では",
+   "romaji": "naka o /naka dewa",
+   "meaning_en": "in; on; in the midst of; when; while~",
+   "meaning_bn": "মাঝে; মধ্যে; অবস্থায়",
+   "level": 2,
+   "lesson_order": 80
+ },
+ {
+   "id": "N2-081",
+   "grammar": "なくはない",
+   "romaji": "naku wa nai",
+   "meaning_en": "it’s not that; I may (double negative)",
+   "meaning_bn": "এমন না যে... না; করতে পারি",
+   "level": 2,
+   "lesson_order": 81
+ },
+ {
+   "id": "N2-082",
+   "grammar": "なくて済む",
+   "romaji": "nakute sumu",
+   "meaning_en": "get by without doing~",
+   "meaning_bn": "না করে পার পাওয়া",
+   "level": 2,
+   "lesson_order": 82
+ },
+ {
+   "id": "N2-083",
+   "grammar": "何も～ない",
+   "romaji": "nani mo~nai",
+   "meaning_en": "nothing; (not) ~ at all",
+   "meaning_bn": "কিছুই... না",
+   "level": 2,
+   "lesson_order": 83
+ },
+ {
+   "id": "N2-084",
+   "grammar": "なお",
+   "romaji": "nao",
+   "meaning_en": "still; yet; furthermore; in addition~",
+   "meaning_bn": "আরও; এছাড়াও",
+   "level": 2,
+   "lesson_order": 84
+ },
+ {
+   "id": "N2-085",
+   "grammar": "ねばならない",
+   "romaji": "neba naranai",
+   "meaning_en": "have to do; must; should~",
+   "meaning_bn": "অবশ্যই করতে হবে",
+   "level": 2,
+   "lesson_order": 85
+ },
+ {
+   "id": "N2-086",
+   "grammar": "にあたって",
+   "romaji": "ni atatte",
+   "meaning_en": "at the time; on the occasion of~",
+   "meaning_bn": "উপলক্ষে; করার সময়",
+   "level": 2,
+   "lesson_order": 86
+ },
+ {
+   "id": "N2-087",
+   "grammar": "にほかならない",
+   "romaji": "ni hoka naranai",
+   "meaning_en": "nothing but; none other than~",
+   "meaning_bn": "কিছুই না... ছাড়া; এটাই",
+   "level": 2,
+   "lesson_order": 87
+ },
+ {
+   "id": "N2-088",
+   "grammar": "に限らず",
+   "romaji": "ni kagirazu",
+   "meaning_en": "not just; not only.. but also~",
+   "meaning_bn": "শুধু... নয়",
+   "level": 2,
+   "lesson_order": 88
+ },
+ {
+   "id": "N2-089",
+   "grammar": "に限る",
+   "romaji": "ni kagiru",
+   "meaning_en": "is best; nothing is better than~",
+   "meaning_bn": "এটাই সেরা; এর চেয়ে ভালো কিছু নেই",
+   "level": 2,
+   "lesson_order": 89
+ },
+ {
+   "id": "N2-090",
+   "grammar": "に限って",
+   "romaji": "ni kagitte",
+   "meaning_en": "only; in particular~",
+   "meaning_bn": "বিশেষ করে; শুধু... ক্ষেত্রেই",
+   "level": 2,
+   "lesson_order": 90
+ },
+ {
+   "id": "N2-091",
+   "grammar": "に関わらず",
+   "romaji": "ni kakawarazu",
+   "meaning_en": "in spite of; regardless of~",
+   "meaning_bn": "সত্ত্বেও; নির্বিশেষে",
+   "level": 2,
+   "lesson_order": 91
+ },
+ {
+   "id": "N2-092",
+   "grammar": "に関わる",
+   "romaji": "ni kakawaru",
+   "meaning_en": "to relate to; to have to do with",
+   "meaning_bn": "সম্পর্কিত; জড়িত",
+   "level": 2,
+   "lesson_order": 92
+ },
+ {
+   "id": "N2-093",
+   "grammar": "に決まっている",
+   "romaji": "ni kimatte iru",
+   "meaning_en": "certainly; I’m sure/certain that",
+   "meaning_bn": "নিশ্চিতভাবে; অবশ্যই হবে",
+   "level": 2,
+   "lesson_order": 93
+ },
+ {
+   "id": "N2-094",
+   "grammar": "に越したことはない",
+   "romaji": "ni koshita koto wa nai",
+   "meaning_en": "it’s best that, nothing better than",
+   "meaning_bn": "এর চেয়ে ভালো কিছু নেই",
+   "level": 2,
+   "lesson_order": 94
+ },
+ {
+   "id": "N2-095",
+   "grammar": "に応えて",
+   "romaji": "ni kotaete",
+   "meaning_en": "in response to",
+   "meaning_bn": "এর জবাবে; এর উত্তরে",
+   "level": 2,
+   "lesson_order": 95
+ },
+ {
+   "id": "N2-096",
+   "grammar": "に加えて",
+   "romaji": "ni kuwaete",
+   "meaning_en": "in addition",
+   "meaning_bn": "এর সাথে; এছাড়াও",
+   "level": 2,
+   "lesson_order": 96
+ },
+ {
+   "id": "N2-097",
+   "grammar": "に基づいて",
+   "romaji": "ni motozuite",
+   "meaning_en": "based on; on the basis of",
+   "meaning_bn": "এর উপর ভিত্তি করে",
+   "level": 2,
+   "lesson_order": 97
+ },
+ {
+   "id": "N2-098",
+   "grammar": "に向かって",
+   "romaji": "ni mukatte",
+   "meaning_en": "to face; to go towards; to head to",
+   "meaning_bn": "এর দিকে; এর উদ্দেশ্যে",
+   "level": 2,
+   "lesson_order": 98
+ },
+ {
+   "id": "N2-099",
+   "grammar": "に応じて",
+   "romaji": "ni oujite",
+   "meaning_en": "depending on; in accordance with",
+   "meaning_bn": "অনুযায়ী; অনুসারে",
+   "level": 2,
+   "lesson_order": 99
+ },
+ {
+   "id": "N2-100",
+   "grammar": "に際して",
+   "romaji": "ni saishite",
+   "meaning_en": "on the occasion of; at the time of",
+   "meaning_bn": "উপলক্ষে; করার সময়",
+   "level": 2,
+   "lesson_order": 100
+ },
+ {
+   "id": "N2-101",
+   "grammar": "に先立ち",
+   "romaji": "ni sakidachi",
+   "meaning_en": "before; prior to",
+   "meaning_bn": "আগে; পূর্বে",
+   "level": 2,
+   "lesson_order": 101
+ },
+ {
+   "id": "N2-102",
+   "grammar": "にせよ/ にしろ",
+   "romaji": "ni seyo/ ni shiro",
+   "meaning_en": "even if; regardless; whether... or",
+   "meaning_bn": "হোক বা না হোক; যাই হোক না কেন",
+   "level": 2,
+   "lesson_order": 102
+ },
+ {
+   "id": "N2-103",
+   "grammar": "にしろ～にしろ",
+   "romaji": "ni shiro~ni shiro",
+   "meaning_en": "whether… or~",
+   "meaning_bn": "হোক... বা... হোক",
+   "level": 2,
+   "lesson_order": 103
+ },
+ {
+   "id": "N2-104",
+   "grammar": "にしたら",
+   "romaji": "ni shitara",
+   "meaning_en": "from one’s perspective",
+   "meaning_bn": "তার দৃষ্টিকোণ থেকে",
+   "level": 2,
+   "lesson_order": 104
+ },
+ {
+   "id": "N2-105",
+   "grammar": "にしても",
+   "romaji": "ni shitemo",
+   "meaning_en": "regardless of whether",
+   "meaning_bn": "যাই হোক না কেন",
+   "level": 2,
+   "lesson_order": 105
+ },
+ {
+   "id": "N2-106",
+   "grammar": "に沿って",
+   "romaji": "ni sotte",
+   "meaning_en": "along with; in accordance with",
+   "meaning_bn": "অনুসরণ করে; অনুযায়ী",
+   "level": 2,
+   "lesson_order": 106
+ },
+ {
+   "id": "N2-107",
+   "grammar": "に相違ない",
+   "romaji": "ni soui nai",
+   "meaning_en": "without a doubt; certain; sure",
+   "meaning_bn": "নিঃসন্দেহে; নিশ্চিতভাবেই",
+   "level": 2,
+   "lesson_order": 107
+ },
+ {
+   "id": "N2-108",
+   "grammar": "に過ぎない",
+   "romaji": "ni suginai",
+   "meaning_en": "no more than; just; merely; only~",
+   "meaning_bn": "এর বেশি কিছু নয়; শুধুমাত্র",
+   "level": 2,
+   "lesson_order": 108
+ },
+ {
+   "id": "N2-109",
+   "grammar": "に伴って",
+   "romaji": "ni tomonatte",
+   "meaning_en": "as; due to; with; along with; following",
+   "meaning_bn": "এর সাথে সাথে; অনুসারে",
+   "level": 2,
+   "lesson_order": 109
+ },
+ {
+   "id": "N2-110",
+   "grammar": "につけ",
+   "romaji": "ni tsuke",
+   "meaning_en": "every time; whenever; as; whether",
+   "meaning_bn": "যখনই; প্রত্যেকবার",
+   "level": 2,
+   "lesson_order": 110
+ },
+ {
+   "id": "N2-111",
+   "grammar": "につき",
+   "romaji": "ni tsuki",
+   "meaning_en": "due to; because of; per; each",
+   "meaning_bn": "প্রতি; কারণে",
+   "level": 2,
+   "lesson_order": 111
+ },
+ {
+   "id": "N2-112",
+   "grammar": "にわたって",
+   "romaji": "ni watatte",
+   "meaning_en": "throughout; over a period of",
+   "meaning_bn": "জুড়ে; ধরে",
+   "level": 2,
+   "lesson_order": 112
+ },
+ {
+   "id": "N2-113",
+   "grammar": "にも関わらず",
+   "romaji": "nimo kakawarazu",
+   "meaning_en": "despite; in spite of; nevertheless",
+   "meaning_bn": "সত্ত্বেও; তা সত্ত্বেও",
+   "level": 2,
+   "lesson_order": 113
+ },
+ {
+   "id": "N2-114",
+   "grammar": "にて",
+   "romaji": "nite",
+   "meaning_en": "in, at, with, by (formal particle)",
+   "meaning_bn": "-তে; -এ (আনুষ্ঠানিক)",
+   "level": 2,
+   "lesson_order": 114
+ },
+ {
+   "id": "N2-115",
+   "grammar": "のももっともだ",
+   "romaji": "no mo motto mo da",
+   "meaning_en": "no wonder; …is only natural",
+   "meaning_bn": "হওয়াই স্বাভাবিক",
+   "level": 2,
+   "lesson_order": 115
+ },
+ {
+   "id": "N2-116",
+   "grammar": "の下で",
+   "romaji": "no moto de",
+   "meaning_en": "under; with~",
+   "meaning_bn": "এর অধীনে; এর সাথে",
+   "level": 2,
+   "lesson_order": 116
+ },
+ {
+   "id": "N2-117",
+   "grammar": "の上では",
+   "romaji": "no ue de wa",
+   "meaning_en": "according to; from the viewpoint of~",
+   "meaning_bn": "অনুযায়ী; দৃষ্টিকোণ থেকে",
+   "level": 2,
+   "lesson_order": 117
+ },
+ {
+   "id": "N2-118",
+   "grammar": "のみならず",
+   "romaji": "nominarazu",
+   "meaning_en": "not only; besides; as well as~",
+   "meaning_bn": "শুধু... নয়",
+   "level": 2,
+   "lesson_order": 118
+ },
+ {
+   "id": "N2-119",
+   "grammar": "ぬ",
+   "romaji": "nu",
+   "meaning_en": "negative verb conjugation (traditional)",
+   "meaning_bn": "না (ঐতিহ্যবাহী ক্রিয়ারূপ)",
+   "level": 2,
+   "lesson_order": 119
+ },
+ {
+   "id": "N2-120",
+   "grammar": "抜きにして",
+   "romaji": "nuki ni shite",
+   "meaning_en": "without; leaving out; cutting out~",
+   "meaning_bn": "ছাড়া; বাদ দিয়ে",
+   "level": 2,
+   "lesson_order": 120
+ },
+ {
+   "id": "N2-121",
+   "grammar": "抜く",
+   "romaji": "nuku",
+   "meaning_en": "from beginning to end; completely",
+   "meaning_bn": "শেষ পর্যন্ত করা; সম্পূর্ণ করা",
+   "level": 2,
+   "lesson_order": 121
+ },
+ {
+   "id": "N2-122",
+   "grammar": "を契機に",
+   "romaji": "o keiki ni",
+   "meaning_en": "as a good opportunity/chance to",
+   "meaning_bn": "সুযোগে; উপলক্ষ্যে",
+   "level": 2,
+   "lesson_order": 122
+ },
+ {
+   "id": "N2-123",
+   "grammar": "をめぐって",
+   "romaji": "o megutte",
+   "meaning_en": "concerning; in regard to~",
+   "meaning_bn": "সম্পর্কে; ঘিরে",
+   "level": 2,
+   "lesson_order": 123
+ },
+ {
+   "id": "N2-124",
+   "grammar": "をもとに",
+   "romaji": "o moto ni",
+   "meaning_en": "based on; derived from; building on",
+   "meaning_bn": "উপর ভিত্তি করে",
+   "level": 2,
+   "lesson_order": 124
+ },
+ {
+   "id": "N2-125",
+   "grammar": "を除いて",
+   "romaji": "o nozoite",
+   "meaning_en": "except; with the exception of",
+   "meaning_bn": "বাদে; ছাড়া",
+   "level": 2,
+   "lesson_order": 125
+ },
+ {
+   "id": "N2-126",
+   "grammar": "を問わず",
+   "romaji": "o towazu",
+   "meaning_en": "regardless of; irrespective of; no matter",
+   "meaning_bn": "নির্বিশেষে; независимо",
+   "level": 2,
+   "lesson_order": 126
+ },
+ {
+   "id": "N2-127",
+   "grammar": "お～願う",
+   "romaji": "o~negau",
+   "meaning_en": "please do; could you please~",
+   "meaning_bn": "দয়া করে করুন",
+   "level": 2,
+   "lesson_order": 127
+ },
+ {
+   "id": "N2-128",
+   "grammar": "おまけに",
+   "romaji": "omake ni",
+   "meaning_en": "to make matters worse; what's more",
+   "meaning_bn": "অধিকন্তু; উপরন্তু",
+   "level": 2,
+   "lesson_order": 128
+ },
+ {
+   "id": "N2-129",
+   "grammar": "恐らく",
+   "romaji": "osoraku",
+   "meaning_en": "perhaps; likely; probably; I dare say~",
+   "meaning_bn": "সম্ভবত; সম্ভবত",
+   "level": 2,
+   "lesson_order": 129
+ },
+ {
+   "id": "N2-130",
+   "grammar": "恐れがある",
+   "romaji": "osore ga aru",
+   "meaning_en": "it is feared that; to be in danger of",
+   "meaning_bn": "আশঙ্কা আছে; खतरा",
+   "level": 2,
+   "lesson_order": 130
+ },
+ {
+   "id": "N2-131",
+   "grammar": "及び",
+   "romaji": "oyobi",
+   "meaning_en": "and; as well as~",
+   "meaning_bn": "এবং; ও",
+   "level": 2,
+   "lesson_order": 131
+ },
+ {
+   "id": "N2-132",
+   "grammar": "ろくに～ない",
+   "romaji": "roku ni~nai",
+   "meaning_en": "not well; not enough; improperly",
+   "meaning_bn": "ঠিকমতো... না; যথেষ্ট না",
+   "level": 2,
+   "lesson_order": 132
+ },
+ {
+   "id": "N2-133",
+   "grammar": "幸いなことに",
+   "romaji": "saiwai na koto ni",
+   "meaning_en": "fortunately; luckily; thankfully~",
+   "meaning_bn": "সৌভাগ্যবশত; ভাগ্যক্রমে",
+   "level": 2,
+   "lesson_order": 133
+ },
+ {
+   "id": "N2-134",
+   "grammar": "せいか",
+   "romaji": "sei ka",
+   "meaning_en": "perhaps because~",
+   "meaning_bn": "হয়তো... এই কারণে",
+   "level": 2,
+   "lesson_order": 134
+ },
+ {
+   "id": "N2-135",
+   "grammar": "せっかく",
+   "romaji": "sekkaku",
+   "meaning_en": "especially; (thank you for) troubling to",
+   "meaning_bn": "বিশেষভাবে; কষ্ট করে",
+   "level": 2,
+   "lesson_order": 135
+ },
+ {
+   "id": "N2-136",
+   "grammar": "せめて",
+   "romaji": "semete",
+   "meaning_en": "at least; at most~",
+   "meaning_bn": "অন্তত; কমপক্ষে",
+   "level": 2,
+   "lesson_order": 136
+ },
+ {
+   "id": "N2-137",
+   "grammar": "次第",
+   "romaji": "shidai",
+   "meaning_en": "as soon as, dependent upon",
+   "meaning_bn": "করার সাথে সাথেই; নির্ভর করে",
+   "level": 2,
+   "lesson_order": 137
+ },
+ {
+   "id": "N2-138",
+   "grammar": "次第で",
+   "romaji": "shidai de",
+   "meaning_en": "depending on; so~",
+   "meaning_bn": "নির্ভর করে; অনুসারে",
+   "level": 2,
+   "lesson_order": 138
+ },
+ {
+   "id": "N2-139",
+   "grammar": "次第に",
+   "romaji": "shidai ni",
+   "meaning_en": "gradually; in sequence; in order",
+   "meaning_bn": "ধীরে ধীরে; ক্রমান্বয়ে",
+   "level": 2,
+   "lesson_order": 139
+ },
+ {
+   "id": "N2-140",
+   "grammar": "しかも",
+   "romaji": "shikamo",
+   "meaning_en": "moreover; furthermore; what’s more~",
+   "meaning_bn": "অধিকন্তু; এছাড়াও",
+   "level": 2,
+   "lesson_order": 140
+ },
+ {
+   "id": "N2-141",
+   "grammar": "その上",
+   "romaji": "sono ue",
+   "meaning_en": "besides; in addition; furthermore~",
+   "meaning_bn": "এছাড়াও; উপরন্তু",
+   "level": 2,
+   "lesson_order": 141
+ },
+ {
+   "id": "N2-142",
+   "grammar": "それなのに",
+   "romaji": "sore na noni",
+   "meaning_en": "and yet; despite this; but even so~",
+   "meaning_bn": "তা সত্ত্বেও; তবুও",
+   "level": 2,
+   "lesson_order": 142
+ },
+ {
+   "id": "N2-143",
+   "grammar": "それなら",
+   "romaji": "sore nara",
+   "meaning_en": "if that’s the case; if so~",
+   "meaning_bn": "তাহলে; সেক্ষেত্রে",
+   "level": 2,
+   "lesson_order": 143
+ },
+ {
+   "id": "N2-144",
+   "grammar": "それにしても",
+   "romaji": "sore ni shitemo",
+   "meaning_en": "nevertheless; at any rate; even so",
+   "meaning_bn": "তা সত্ত্বেও; যাই হোক",
+   "level": 2,
+   "lesson_order": 144
+ },
+ {
+   "id": "N2-145",
+   "grammar": "そう言えば",
+   "romaji": "sou ieba",
+   "meaning_en": "come to think of it~",
+   "meaning_bn": "কথা প্রসঙ্গে; বলতে গেলে",
+   "level": 2,
+   "lesson_order": 145
+ },
+ {
+   "id": "N2-146",
+   "grammar": "そうすると",
+   "romaji": "sou suru to",
+   "meaning_en": "having done that; if that is done",
+   "meaning_bn": "তাহলে; তেমনটা করলে",
+   "level": 2,
+   "lesson_order": 146
+ },
+ {
+   "id": "N2-147",
+   "grammar": "末に",
+   "romaji": "sue ni",
+   "meaning_en": "finally; after; following; at the end",
+   "meaning_bn": "শেষে; পরিণামে",
+   "level": 2,
+   "lesson_order": 147
+ },
+ {
+   "id": "N2-148",
+   "grammar": "少しも～ない",
+   "romaji": "sukoshi mo~nai",
+   "meaning_en": "not one bit; not even a little~",
+   "meaning_bn": "একটুও না",
+   "level": 2,
+   "lesson_order": 148
+ },
+ {
+   "id": "N2-149",
+   "grammar": "少なくとも",
+   "romaji": "sukunaku tomo",
+   "meaning_en": "at least~",
+   "meaning_bn": "অন্তত",
+   "level": 2,
+   "lesson_order": 149
+ },
+ {
+   "id": "N2-150",
+   "grammar": "直ちに",
+   "romaji": "tadachi ni",
+   "meaning_en": "at once; immediately; directly",
+   "meaning_bn": "তৎক্ষণাৎ; সঙ্গে সঙ্গে",
+   "level": 2,
+   "lesson_order": 150
+ },
+ {
+   "id": "N2-151",
+   "grammar": "たまえ",
+   "romaji": "tamae",
+   "meaning_en": "do~; order somebody to do something",
+   "meaning_bn": "করো (আদেশ)",
+   "level": 2,
+   "lesson_order": 151
+ },
+ {
+   "id": "N2-152",
+   "grammar": "てばかりはいられない",
+   "romaji": "te bakari wa irarenai",
+   "meaning_en": "can’t keep doing~",
+   "meaning_bn": "শুধু... করতে থাকা যায় না",
+   "level": 2,
+   "lesson_order": 152
+ },
+ {
+   "id": "N2-153",
+   "grammar": "てでも",
+   "romaji": "te demo",
+   "meaning_en": "even if I have to; by all means~",
+   "meaning_bn": "এমনকি যদি... করতেও হয়",
+   "level": 2,
+   "lesson_order": 153
+ },
+ {
+   "id": "N2-154",
+   "grammar": "て以来",
+   "romaji": "te irai",
+   "meaning_en": "since; henceforth~",
+   "meaning_bn": "করার পর থেকে",
+   "level": 2,
+   "lesson_order": 154
+ },
+ {
+   "id": "N2-155",
+   "grammar": "ていては",
+   "romaji": "te ite wa",
+   "meaning_en": "if one keeps doing~",
+   "meaning_bn": "করতে থাকলে...",
+   "level": 2,
+   "lesson_order": 155
+ },
+ {
+   "id": "N2-156",
+   "grammar": "てこそ",
+   "romaji": "te koso",
+   "meaning_en": "now that; since (something happened)",
+   "meaning_bn": "করার পরই (গুরুত্ব আরোপ)",
+   "level": 2,
+   "lesson_order": 156
+ },
+ {
+   "id": "N2-157",
+   "grammar": "てまで",
+   "romaji": "te made",
+   "meaning_en": "even; will go far so as to~",
+   "meaning_bn": "এমনকি... করেও",
+   "level": 2,
+   "lesson_order": 157
+ },
+ {
+   "id": "N2-158",
+   "grammar": "てならない",
+   "romaji": "te naranai",
+   "meaning_en": "can't help but; dying to; extremely~",
+   "meaning_bn": "না করে থাকতে পারি না; খুব...",
+   "level": 2,
+   "lesson_order": 158
+ },
+ {
+   "id": "N2-159",
+   "grammar": "てたまらない",
+   "romaji": "te tamaranai",
+   "meaning_en": "can't help but; dying to; extremely~",
+   "meaning_bn": "সহ্য করতে পারি না; খুব...",
+   "level": 2,
+   "lesson_order": 159
+ },
+ {
+   "id": "N2-160",
+   "grammar": "て当然だ",
+   "romaji": "te touzen da",
+   "meaning_en": "natural; as a matter of course",
+   "meaning_bn": "করাই স্বাভাবিক",
+   "level": 2,
+   "lesson_order": 160
+ },
+ {
+   "id": "N2-161",
+   "grammar": "ては / では",
+   "romaji": "tewa / dewa",
+   "meaning_en": "whenever; if; when~; repetitive action",
+   "meaning_bn": "করলে; যখন (পুনরাবৃত্তি)",
+   "level": 2,
+   "lesson_order": 161
+ },
+ {
+   "id": "N2-162",
+   "grammar": "てはいられない",
+   "romaji": "tewa irarenai",
+   "meaning_en": "can’t afford to; unable to~",
+   "meaning_bn": "করতে থাকা যায় না",
+   "level": 2,
+   "lesson_order": 162
+ },
+ {
+   "id": "N2-163",
+   "grammar": "てはならない",
+   "romaji": "tewa naranai",
+   "meaning_en": "must not; cannot; should not~",
+   "meaning_bn": "করা উচিত নয়; করা যাবে না",
+   "level": 2,
+   "lesson_order": 163
+ },
+ {
+   "id": "N2-164",
+   "grammar": "ては～ては",
+   "romaji": "tewa~tewa",
+   "meaning_en": "repetitive situations/actions",
+   "meaning_bn": "কখনো... করা, কখনো... করা",
+   "level": 2,
+   "lesson_order": 164
+ },
+ {
+   "id": "N2-165",
+   "grammar": "と同時に",
+   "romaji": "to douji ni",
+   "meaning_en": "at the same time as; while",
+   "meaning_bn": "একই সাথে; করার সাথে সাথেই",
+   "level": 2,
+   "lesson_order": 165
+ },
+ {
+   "id": "N2-166",
+   "grammar": "といった",
+   "romaji": "to itta",
+   "meaning_en": "like; such as~",
+   "meaning_bn": "মত; যেমন",
+   "level": 2,
+   "lesson_order": 166
+ },
+ {
+   "id": "N2-167",
+   "grammar": "というふうに",
+   "romaji": "to iu fuu ni",
+   "meaning_en": "in such a way that~",
+   "meaning_bn": "এমনভাবে যে...",
+   "level": 2,
+   "lesson_order": 167
+ },
+ {
+   "id": "N2-168",
+   "grammar": "ということは",
+   "romaji": "to iu koto wa",
+   "meaning_en": "that is to say; in other words~",
+   "meaning_bn": "এর মানে হলো...",
+   "level": 2,
+   "lesson_order": 168
+ },
+ {
+   "id": "N2-169",
+   "grammar": "というものだ",
+   "romaji": "to iu mono da",
+   "meaning_en": "something like; something called~",
+   "meaning_bn": "এমন একটা জিনিস যা...",
+   "level": 2,
+   "lesson_order": 169
+ },
+ {
+   "id": "N2-170",
+   "grammar": "というものではない",
+   "romaji": "to iu mono dewa nai",
+   "meaning_en": "there is no guarantee that~",
+   "meaning_bn": "এমন কিছু নয় যে...",
+   "level": 2,
+   "lesson_order": 170
+ },
+ {
+   "id": "N2-171",
+   "grammar": "と考えられる",
+   "romaji": "to kangaerareru",
+   "meaning_en": "one can think that; it is conceivable that",
+   "meaning_bn": "মনে করা যেতে পারে যে...",
+   "level": 2,
+   "lesson_order": 171
+ },
+ {
+   "id": "N2-172",
+   "grammar": "とか（で）",
+   "romaji": "toka (de)",
+   "meaning_en": "I heard that~",
+   "meaning_bn": "শুনলাম যে... (কথ্য)",
+   "level": 2,
+   "lesson_order": 172
+ },
+ {
+   "id": "N2-173",
+   "grammar": "とっくに",
+   "romaji": "tokku ni",
+   "meaning_en": "long ago; already; a long time ago",
+   "meaning_bn": "অনেক আগেই",
+   "level": 2,
+   "lesson_order": 173
+ },
+ {
+   "id": "N2-174",
+   "grammar": "ところだった",
+   "romaji": "tokoro datta",
+   "meaning_en": "was just about to do something",
+   "meaning_bn": "করতে যাচ্ছিলাম",
+   "level": 2,
+   "lesson_order": 174
+ },
+ {
+   "id": "N2-175",
+   "grammar": "ところに",
+   "romaji": "tokoro ni",
+   "meaning_en": "at the time; just as I was~",
+   "meaning_bn": "করার সময়েই",
+   "level": 2,
+   "lesson_order": 175
+ },
+ {
+   "id": "N2-176",
+   "grammar": "ところを見ると",
+   "romaji": "tokoro o miru to",
+   "meaning_en": "judging from; seeing that~",
+   "meaning_bn": "দেখে মনে হচ্ছে; অবস্থা দেখে",
+   "level": 2,
+   "lesson_order": 176
+ },
+ {
+   "id": "N2-177",
+   "grammar": "とも",
+   "romaji": "tomo",
+   "meaning_en": "even if; no matter; though~",
+   "meaning_bn": "এমনকি; যদিও",
+   "level": 2,
+   "lesson_order": 177
+ },
+ {
+   "id": "N2-178",
+   "grammar": "としても",
+   "romaji": "toshitemo",
+   "meaning_en": "assuming; even if~",
+   "meaning_bn": "ধরলেও; যদিও",
+   "level": 2,
+   "lesson_order": 178
+ },
+ {
+   "id": "N2-179",
+   "grammar": "つつ",
+   "romaji": "tsutsu",
+   "meaning_en": "while; even though; despite~",
+   "meaning_bn": "করতে করতে; যদিও",
+   "level": 2,
+   "lesson_order": 179
+ },
+ {
+   "id": "N2-180",
+   "grammar": "つつある",
+   "romaji": "tsutsu aru",
+   "meaning_en": "to be doing; in the process of doing~",
+   "meaning_bn": "করতে থাকা; প্রক্রিয়ার মধ্যে",
+   "level": 2,
+   "lesson_order": 180
+ },
+ {
+   "id": "N2-181",
+   "grammar": "上は",
+   "romaji": "ue wa",
+   "meaning_en": "now that; since; as long as~",
+   "meaning_bn": "যেহেতু; যখন",
+   "level": 2,
+   "lesson_order": 181
+ },
+ {
+   "id": "N2-182",
+   "grammar": "はもとより",
+   "romaji": "wa moto yori",
+   "meaning_en": "also; let alone; from the beginning",
+   "meaning_bn": "তো বটেই; এছাড়াও",
+   "level": 2,
+   "lesson_order": 182
+ },
+ {
+   "id": "N2-183",
+   "grammar": "はともかく",
+   "romaji": "wa tomokaku",
+   "meaning_en": "anyhow; anyway; regardless",
+   "meaning_bn": "সে যাই হোক; বাদ দিয়ে",
+   "level": 2,
+   "lesson_order": 183
+ },
+ {
+   "id": "N2-184",
+   "grammar": "わずかに",
+   "romaji": "wazuka ni",
+   "meaning_en": "slightly; only; barely; narrowly~",
+   "meaning_bn": "সামান্য; অল্প",
+   "level": 2,
+   "lesson_order": 184
+ },
+ {
+   "id": "N2-185",
+   "grammar": "やがて",
+   "romaji": "yagate",
+   "meaning_en": "before long; soon; almost; eventually~",
+   "meaning_bn": "শীঘ্রই; অবশেষে",
+   "level": 2,
+   "lesson_order": 185
+ },
+ {
+   "id": "N2-186",
+   "grammar": "やら～やら",
+   "romaji": "yara~yara",
+   "meaning_en": "such things as A and B; and so on~",
+   "meaning_bn": "ইত্যাদি; এইসব",
+   "level": 2,
+   "lesson_order": 186
+ },
+ {
+   "id": "N2-187",
+   "grammar": "よほど / よっぽど",
+   "romaji": "yohodo / yoppodo",
+   "meaning_en": "very; greatly; much; to a large extent",
+   "meaning_bn": "খুব; অনেক",
+   "level": 2,
+   "lesson_order": 187
+ },
+ {
+   "id": "N2-188",
+   "grammar": "より [2]",
+   "romaji": "yori",
+   "meaning_en": "from~ (a time, place, or person)",
+   "meaning_bn": "থেকে (সময়, স্থান, ব্যক্তি)",
+   "level": 2,
+   "lesson_order": 188
+ },
+ {
+   "id": "N2-189",
+   "grammar": "よりほかない",
+   "romaji": "yori hoka nai",
+   "meaning_en": "to have no choice but~",
+   "meaning_bn": "করা ছাড়া উপায় নেই",
+   "level": 2,
+   "lesson_order": 189
+ },
+ {
+   "id": "N2-190",
+   "grammar": "ようでは",
+   "romaji": "you dewa",
+   "meaning_en": "if~ (bad result)",
+   "meaning_bn": "যদি... হয় (খারাপ ফলাফল)",
+   "level": 2,
+   "lesson_order": 190
+ },
+ {
+   "id": "N2-191",
+   "grammar": "ようではないか",
+   "romaji": "you dewa nai ka",
+   "meaning_en": "let’s do (something); why don’t we~",
+   "meaning_bn": "চলো করি; করি না কেন?",
+   "level": 2,
+   "lesson_order": 191
+ },
+ {
+   "id": "N2-192",
+   "grammar": "ようか～まいか",
+   "romaji": "you ka~mai ka",
+   "meaning_en": "whether or not; considering options",
+   "meaning_bn": "করব কি করব না",
+   "level": 2,
+   "lesson_order": 192
+ },
+ {
+   "id": "N2-193",
+   "grammar": "要するに",
+   "romaji": "you suru ni",
+   "meaning_en": "in short; in a word; to sum up",
+   "meaning_bn": "সংক্ষেপে; মোট কথা",
+   "level": 2,
+   "lesson_order": 193
+ },
+ {
+   "id": "N2-194",
+   "grammar": "ざるを得ない",
+   "romaji": "zaru o enai",
+   "meaning_en": "cannot help (doing); have no choice but",
+   "meaning_bn": "না করে উপায় নেই",
+   "level": 2,
+   "lesson_order": 194
+ },
+ {
+   "id": "N2-195",
+   "grammar": "ずに済む",
+   "romaji": "zu ni sumu",
+   "meaning_en": "get by without doing~",
+   "meaning_bn": "না করেই পার পাওয়া",
+   "level": 2,
+   "lesson_order": 195
+ },
+ {
+   "id": "N1-001",
+   "grammar": "敢えて",
+   "romaji": "aete",
+   "meaning_en": "dare to; deliberately; purposely ~",
+   "meaning_bn": "জেনেশুনে; ইচ্ছাকৃতভাবে",
+   "level": 1,
+   "lesson_order": 1
+ },
+ {
+   "id": "N1-002",
+   "grammar": "あくまでも",
+   "romaji": "akumade mo",
+   "meaning_en": "to the end; persistently; is still very ~",
+   "meaning_bn": "সর্বোপরি; শেষ পর্যন্ত; একান্তই",
+   "level": 1,
+   "lesson_order": 2
+ },
+ {
+   "id": "N1-003",
+   "grammar": "案の定",
+   "romaji": "an no jou",
+   "meaning_en": "just as one thought; sure enough",
+   "meaning_bn": "যেমনটা ভাবা হয়েছিল; ঠিক তাই",
+   "level": 1,
+   "lesson_order": 3
+ },
+ {
+   "id": "N1-004",
+   "grammar": "あらかじめ",
+   "romaji": "arakajime",
+   "meaning_en": "beforehand; in advance; previously",
+   "meaning_bn": "আগে থেকেই; পূর্বেই",
+   "level": 1,
+   "lesson_order": 4
+ },
+ {
+   "id": "N1-005",
+   "grammar": "あっての",
+   "romaji": "atte no",
+   "meaning_en": "which can exist solely due to",
+   "meaning_bn": "...এর কারণেই সম্ভব; ...থাকাতেই",
+   "level": 1,
+   "lesson_order": 5
+ },
+ {
+   "id": "N1-006",
+   "grammar": "ばこそ",
+   "romaji": "ba koso",
+   "meaning_en": "only because ~",
+   "meaning_bn": "শুধুমাত্র ...এর কারণেই",
+   "level": 1,
+   "lesson_order": 6
+ },
+ {
+   "id": "N1-007",
+   "grammar": "ばそれまでだ /たらそれまでだ",
+   "romaji": "ba sore made da / tara sore made da",
+   "meaning_en": "if… then it’s over",
+   "meaning_bn": "যদি... তাহলেই সব শেষ",
+   "level": 1,
+   "lesson_order": 7
+ },
+ {
+   "id": "N1-008",
+   "grammar": "べからず / べからざる",
+   "romaji": "bekarazu/ bekarazaru",
+   "meaning_en": "must not; should not; do not ~",
+   "meaning_bn": "করা নিষেধ; করা অনুচিত (আনুষ্ঠানিক)",
+   "level": 1,
+   "lesson_order": 8
+ },
+ {
+   "id": "N1-009",
+   "grammar": "べく",
+   "romaji": "beku",
+   "meaning_en": "in order to; for the purpose of ~",
+   "meaning_bn": "করার উদ্দেশ্যে; জন্য",
+   "level": 1,
+   "lesson_order": 9
+ },
+ {
+   "id": "N1-010",
+   "grammar": "べくもない",
+   "romaji": "beku mo nai",
+   "meaning_en": "cannot possibly be ~",
+   "meaning_bn": "কোনোভাবেই সম্ভব না",
+   "level": 1,
+   "lesson_order": 10
+ },
+ {
+   "id": "N1-011",
+   "grammar": "べくして",
+   "romaji": "beku shite",
+   "meaning_en": "as it is bound to (happen)",
+   "meaning_bn": "যা হওয়ার তাই হয়েছে; যা হওয়ার কথা",
+   "level": 1,
+   "lesson_order": 11
+ },
+ {
+   "id": "N1-012",
+   "grammar": "びる / びて / びた",
+   "romaji": "biru / bite / bita",
+   "meaning_en": "to seem to be; to appear; to behave as ~",
+   "meaning_bn": "ভাব দেখানো; ...এর মতো আচরণ করা",
+   "level": 1,
+   "lesson_order": 12
+ },
+ {
+   "id": "N1-013",
+   "grammar": "ぶり / っぷり",
+   "romaji": "buri / ppuri",
+   "meaning_en": "style; manner; way",
+   "meaning_bn": "ভঙ্গি; ধরন; পদ্ধতি",
+   "level": 1,
+   "lesson_order": 13
+ },
+ {
+   "id": "N1-014",
+   "grammar": "ぶる / ぶって / ぶった",
+   "romaji": "buru / butte / butta",
+   "meaning_en": "behaving like; to pretend / act like ~",
+   "meaning_bn": "ভান করা; ...এর মতো আচরণ করা",
+   "level": 1,
+   "lesson_order": 14
+ },
+ {
+   "id": "N1-015",
+   "grammar": "だに / だにしない",
+   "romaji": "dani / dani shinai",
+   "meaning_en": "even; not even ~",
+   "meaning_bn": "এমনকি...ও না",
+   "level": 1,
+   "lesson_order": 15
+ },
+ {
+   "id": "N1-016",
+   "grammar": "だの〜だの",
+   "romaji": "dano~dano",
+   "meaning_en": "and; and the like; and so forth ~",
+   "meaning_bn": "ইত্যাদি ইত্যাদি (অভিযোগ বা অসন্তোষের সুরে)",
+   "level": 1,
+   "lesson_order": 16
+ },
+ {
+   "id": "N1-017",
+   "grammar": "だろうに",
+   "romaji": "darou ni",
+   "meaning_en": "(1) surely..., but ~ (2) should have ~",
+   "meaning_bn": "(১) নিশ্চিতভাবেই..., কিন্তু (২) করলেই পারতো",
+   "level": 1,
+   "lesson_order": 17
+ },
+ {
+   "id": "N1-018",
+   "grammar": "であれ / であろうと",
+   "romaji": "de are / de arou to",
+   "meaning_en": "whoever; whatever; however; even ~",
+   "meaning_bn": "যেই হোক; যাই হোক; যেমনই হোক",
+   "level": 1,
+   "lesson_order": 18
+ },
+ {
+   "id": "N1-019",
+   "grammar": "であれ〜であれ",
+   "romaji": "de are~de are",
+   "meaning_en": "whether [A] or [B]",
+   "meaning_bn": "হোক... বা... হোক",
+   "level": 1,
+   "lesson_order": 19
+ },
+ {
+   "id": "N1-020",
+   "grammar": "でもあり〜でもある",
+   "romaji": "demo ari~demo aru",
+   "meaning_en": "to also be; both… and ~",
+   "meaning_bn": "...ও বটে, ...ও বটে",
+   "level": 1,
+   "lesson_order": 20
+ },
+ {
+   "id": "N1-021",
+   "grammar": "でも何でもない /くも何ともない",
+   "romaji": "demo nan demo nai / kumo nan tomo nai",
+   "meaning_en": "not in the least; nothing like that",
+   "meaning_bn": "মোটেও না; তেমন কিছুই না",
+   "level": 1,
+   "lesson_order": 21
+ },
+ {
+   "id": "N1-022",
+   "grammar": "でなくてなんだろう",
+   "romaji": "denakute nan darou",
+   "meaning_en": "must be; is definitely ~",
+   "meaning_bn": "এটাই তো...; ...ছাড়া আর কী!",
+   "level": 1,
+   "lesson_order": 22
+ },
+ {
+   "id": "N1-023",
+   "grammar": "ではあるまいか",
+   "romaji": "dewa arumai ka",
+   "meaning_en": "isn't it; I wonder if it’s not ~",
+   "meaning_bn": "তাই নয় কি?; হবে হয়তো (আনুষ্ঠানিক)",
+   "level": 1,
+   "lesson_order": 23
+ },
+ {
+   "id": "N1-024",
+   "grammar": "ではあるまいし",
+   "romaji": "dewa arumai shi",
+   "meaning_en": "it’s not like; it isn’t as if ~",
+   "meaning_bn": "এমন তো নয় যে...",
+   "level": 1,
+   "lesson_order": 24
+ },
+ {
+   "id": "N1-025",
+   "grammar": "では済まない",
+   "romaji": "dewa sumanai",
+   "meaning_en": "it doesn’t end with just ~",
+   "meaning_bn": "শুধু... করলেই শেষ হবে না",
+   "level": 1,
+   "lesson_order": 25
+ },
+ {
+   "id": "N1-026",
+   "grammar": "どうにも〜ない",
+   "romaji": "dou nimo~nai",
+   "meaning_en": "not … by any means",
+   "meaning_bn": "কোনোভাবেই... না",
+   "level": 1,
+   "lesson_order": 26
+ },
+ {
+   "id": "N1-027",
+   "grammar": "が早いか",
+   "romaji": "ga hayai ka",
+   "meaning_en": "no sooner than; as soon as ~",
+   "meaning_bn": "করতে না করতেই; হওয়ার সাথে সাথেই",
+   "level": 1,
+   "lesson_order": 27
+ },
+ {
+   "id": "N1-028",
+   "grammar": "が/も〜なら、〜も〜だ",
+   "romaji": "ga/mo~nara, ~mo~da",
+   "meaning_en": "negative connection/comparison",
+   "meaning_bn": "এ-ও যেমন..., ও-ও তেমন (সাধারণত নেতিবাচক)",
+   "level": 1,
+   "lesson_order": 28
+ },
+ {
+   "id": "N1-029",
+   "grammar": "がましい",
+   "romaji": "gamashii",
+   "meaning_en": "look like; sound like; somewhat like ~",
+   "meaning_bn": "...এর মতো; ভাব (যেমন:言い訳がましい)",
+   "level": 1,
+   "lesson_order": 29
+ },
+ {
+   "id": "N1-030",
+   "grammar": "がてら",
+   "romaji": "gatera",
+   "meaning_en": "while; at the same time; coincidentally",
+   "meaning_bn": "করার সাথে সাথে; একই সঙ্গে",
+   "level": 1,
+   "lesson_order": 30
+ },
+ {
+   "id": "N1-031",
+   "grammar": "ごとき/ごとく/ごとし",
+   "romaji": "gotoki/gotoku/gotoshi",
+   "meaning_en": "like; as if; the same as ~",
+   "meaning_bn": "মতো; ন্যায়; যেন (আনুষ্ঠানGLISH/সাহিত্যিক)",
+   "level": 1,
+   "lesson_order": 31
+ },
+ {
+   "id": "N1-032",
+   "grammar": "ぐるみ",
+   "romaji": "gurumi",
+   "meaning_en": "together (with); -wide",
+   "meaning_bn": "সপরিবারে; সমেত",
+   "level": 1,
+   "lesson_order": 32
+ },
+ {
+   "id": "N1-033",
+   "grammar": "羽目になる",
+   "romaji": "hame ni naru",
+   "meaning_en": "to get stuck with (unpleasant)",
+   "meaning_bn": "বাজে পরিস্থিতিতে পড়া; ফেঁসে যাওয়া",
+   "level": 1,
+   "lesson_order": 33
+ },
+ {
+   "id": "N1-034",
+   "grammar": "ほどのことではない",
+   "romaji": "hodo no koto dewa nai",
+   "meaning_en": "it's not worth; no need to ~",
+   "meaning_bn": "তেমন কিছু না; করার মতো কিছু না",
+   "level": 1,
+   "lesson_order": 34
+ },
+ {
+   "id": "N1-035",
+   "grammar": "ほうがましだ",
+   "romaji": "hou ga mashi da",
+   "meaning_en": "better than; would rather ~",
+   "meaning_bn": "এর চেয়ে ভালো",
+   "level": 1,
+   "lesson_order": 35
+ },
+ {
+   "id": "N1-036",
+   "grammar": "放題",
+   "romaji": "houdai",
+   "meaning_en": "doing as one pleases; uncontrolled",
+   "meaning_bn": "ইচ্ছামতো করা; যথেচ্ছ",
+   "level": 1,
+   "lesson_order": 36
+ },
+ {
+   "id": "N1-037",
+   "grammar": "いかんだ / いかんでは/ いかんによっては",
+   "romaji": "ikan da / ikan dewa / ikan ni yotte wa",
+   "meaning_en": "in accordance with; depending on ~",
+   "meaning_bn": "এর উপর নির্ভর করে; অনুযায়ী",
+   "level": 1,
+   "lesson_order": 37
+ },
+ {
+   "id": "N1-038",
+   "grammar": "いかんにかかわらず /いかんによらず /いかんをとわず",
+   "romaji": "ikan ni kakawarazu / ikan ni yorazu /ikan o towazu",
+   "meaning_en": "regardless of; whether or not ~",
+   "meaning_bn": "নির্বিশেষে; যাই হোক না কেন",
+   "level": 1,
+   "lesson_order": 38
+ },
+ {
+   "id": "N1-039",
+   "grammar": "いかなる",
+   "romaji": "ikanaru",
+   "meaning_en": "any kind of; every; whatever",
+   "meaning_bn": "যেকোনো ধরনের; যে কোনো",
+   "level": 1,
+   "lesson_order": 39
+ },
+ {
+   "id": "N1-040",
+   "grammar": "いかに",
+   "romaji": "ikani",
+   "meaning_en": "how; in what way; to what extent",
+   "meaning_bn": "কিভাবে; কতটা; কেমন করে",
+   "level": 1,
+   "lesson_order": 40
+ },
+ {
+   "id": "N1-041",
+   "grammar": "いかにも",
+   "romaji": "ikani mo",
+   "meaning_en": "indeed; really; just (like); very ~",
+   "meaning_bn": "সত্যিই; আসলেই; একেবারে",
+   "level": 1,
+   "lesson_order": 41
+ },
+ {
+   "id": "N1-042",
+   "grammar": "いずれにしても / いずれにしろ / いずれにせよ",
+   "romaji": "izure ni shitemo / izure ni shiro / izure ni seyo",
+   "meaning_en": "anyhow; anyway; in any case ~",
+   "meaning_bn": "যাই হোক না কেন; যেভাবেই হোক",
+   "level": 1,
+   "lesson_order": 42
+ },
+ {
+   "id": "N1-043",
+   "grammar": "じみた",
+   "romaji": "jimita",
+   "meaning_en": "to become; to appear like; to look like ~",
+   "meaning_bn": "...এর মতো ভাব; ...সুলভ",
+   "level": 1,
+   "lesson_order": 43
+ },
+ {
+   "id": "N1-044",
+   "grammar": "か否か",
+   "romaji": "ka ina ka",
+   "meaning_en": "whether or not ~",
+   "meaning_bn": "হ্যাঁ কি না; হবে কি না",
+   "level": 1,
+   "lesson_order": 44
+ },
+ {
+   "id": "N1-045",
+   "grammar": "かと思いきや",
+   "romaji": "ka to omoikiya",
+   "meaning_en": "contrary to expectations",
+   "meaning_bn": "ভেবেছিলাম..., কিন্তু উল্টোটা হলো",
+   "level": 1,
+   "lesson_order": 45
+ },
+ {
+   "id": "N1-046",
+   "grammar": "限りだ",
+   "romaji": "kagiri da",
+   "meaning_en": "to feel strongly",
+   "meaning_bn": "অত্যন্ত; খুবই (আবেগ প্রকাশে)",
+   "level": 1,
+   "lesson_order": 46
+ },
+ {
+   "id": "N1-047",
+   "grammar": "甲斐もなく",
+   "romaji": "kai mo naku",
+   "meaning_en": "despite; even though ~",
+   "meaning_bn": "কষ্ট বৃথা যাওয়া; সত্ত্বেও",
+   "level": 1,
+   "lesson_order": 47
+ },
+ {
+   "id": "N1-048",
+   "grammar": "可能性がある",
+   "romaji": "kanousei ga aru",
+   "meaning_en": "may/might; there’s a possibility that ~",
+   "meaning_bn": "সম্ভাবনা আছে",
+   "level": 1,
+   "lesson_order": 48
+ },
+ {
+   "id": "N1-049",
+   "grammar": "からある / からする/ からの",
+   "romaji": "kara aru / kara suru / kara no",
+   "meaning_en": "at least; as much as; as many as ~",
+   "meaning_bn": "অন্তত; কমপক্ষে (পরিমাণ বোঝাতে)",
+   "level": 1,
+   "lesson_order": 49
+ },
+ {
+   "id": "N1-050",
+   "grammar": "かれ〜かれ",
+   "romaji": "kare~kare",
+   "meaning_en": "sooner or later; more or less",
+   "meaning_bn": "শীঘ্রই হোক বা দেরিতে হোক; কমবেশি",
+   "level": 1,
+   "lesson_order": 50
+ },
+ {
+   "id": "N1-051",
+   "grammar": "かたがた",
+   "romaji": "katagata",
+   "meaning_en": "while; at the same time; incidentally ~",
+   "meaning_bn": "একই সাথে; প্রসঙ্গক্রমে (আনুষ্ঠানিক)",
+   "level": 1,
+   "lesson_order": 51
+ },
+ {
+   "id": "N1-052",
+   "grammar": "かたわら",
+   "romaji": "katawara",
+   "meaning_en": "while; at the same time; in addition",
+   "meaning_bn": "এর পাশাপাশি; একই সাথে",
+   "level": 1,
+   "lesson_order": 52
+ },
+ {
+   "id": "N1-053",
+   "grammar": "かつて",
+   "romaji": "katsute",
+   "meaning_en": "once; before; formerly; former; ex-",
+   "meaning_bn": "একসময়; পূর্বে",
+   "level": 1,
+   "lesson_order": 53
+ },
+ {
+   "id": "N1-054",
+   "grammar": "嫌いがある",
+   "romaji": "kirai ga aru",
+   "meaning_en": "bad habit; to have a tendency to ~",
+   "meaning_bn": "খারাপ প্রবণতা আছে; ঝোঁক আছে",
+   "level": 1,
+   "lesson_order": 54
+ },
+ {
+   "id": "N1-055",
+   "grammar": "切りがない",
+   "romaji": "kiri ga nai",
+   "meaning_en": "endless; boundless; there’s no end to ~",
+   "meaning_bn": "কোনো শেষ নেই",
+   "level": 1,
+   "lesson_order": 55
+ },
+ {
+   "id": "N1-056",
+   "grammar": "きっての",
+   "romaji": "kitte no",
+   "meaning_en": "the most / greatest … of all",
+   "meaning_bn": "সবচেয়ে সেরা; শ্রেষ্ঠ",
+   "level": 1,
+   "lesson_order": 56
+ },
+ {
+   "id": "N1-057",
+   "grammar": "極まる / 極まりない",
+   "romaji": "kiwamaru/ kiwamarinai",
+   "meaning_en": "extremely; very ~",
+   "meaning_bn": "অত্যন্ত; চরম",
+   "level": 1,
+   "lesson_order": 57
+ },
+ {
+   "id": "N1-058",
+   "grammar": "こそあれ",
+   "romaji": "koso are",
+   "meaning_en": "although; even though ~",
+   "meaning_bn": "যদিও আছে; তা সত্ত্বেও",
+   "level": 1,
+   "lesson_order": 58
+ },
+ {
+   "id": "N1-059",
+   "grammar": "こそすれ",
+   "romaji": "koso sure",
+   "meaning_en": "and; although; but ~",
+   "meaning_bn": "বরং; যদিও",
+   "level": 1,
+   "lesson_order": 59
+ },
+ {
+   "id": "N1-060",
+   "grammar": "こそ「〜が・けれど」",
+   "romaji": "koso~ga/keredo",
+   "meaning_en": "but; although (emphasis)",
+   "meaning_bn": "যদিও... কিন্তু (জোর দিতে)",
+   "level": 1,
+   "lesson_order": 60
+ },
+ {
+   "id": "N1-061",
+   "grammar": "ことごとく",
+   "romaji": "koto gotoku",
+   "meaning_en": "altogether; entirely; completely ~",
+   "meaning_bn": "পুরোপুরি; সম্পূর্ণভাবে",
+   "level": 1,
+   "lesson_order": 61
+ },
+ {
+   "id": "N1-062",
+   "grammar": "ことこの上ない / この上ない / この上なく",
+   "romaji": "koto kono ue nai / kono ue nai / kono ue naku",
+   "meaning_en": "the most of all; the best; nothing is more ... than ~",
+   "meaning_bn": "এর চেয়ে বেশি... আর হয় না; সর্বোচ্চ",
+   "level": 1,
+   "lesson_order": 62
+ },
+ {
+   "id": "N1-063",
+   "grammar": "こともあって",
+   "romaji": "koto mo atte",
+   "meaning_en": "partly because; also because of ~",
+   "meaning_bn": "একটা কারণ হলো...; ...এর কারণেও",
+   "level": 1,
+   "lesson_order": 63
+ },
+ {
+   "id": "N1-064",
+   "grammar": "ことなしに",
+   "romaji": "koto nashi ni",
+   "meaning_en": "without doing something",
+   "meaning_bn": "না করে",
+   "level": 1,
+   "lesson_order": 64
+ },
+ {
+   "id": "N1-065",
+   "grammar": "ことのないように",
+   "romaji": "koto no nai you ni",
+   "meaning_en": "so as not to; to not ~",
+   "meaning_bn": "যাতে... না হয়",
+   "level": 1,
+   "lesson_order": 65
+ },
+ {
+   "id": "N1-066",
+   "grammar": "こととて",
+   "romaji": "koto tote",
+   "meaning_en": "because; since ~",
+   "meaning_bn": "যেহেতু; কারণে (প্রাচীন/আনুষ্ঠানিক)",
+   "level": 1,
+   "lesson_order": 66
+ },
+ {
+   "id": "N1-067",
+   "grammar": "くらいなら",
+   "romaji": "kurai nara",
+   "meaning_en": "rather than (do ...)",
+   "meaning_bn": "করার চেয়ে বরং...",
+   "level": 1,
+   "lesson_order": 67
+ },
+ {
+   "id": "N1-068",
+   "grammar": "くらいのものだ",
+   "romaji": "kurai no mono da",
+   "meaning_en": "only (emphasis)",
+   "meaning_bn": "শুধুমাত্র; কেবল (জোর দিতে)",
+   "level": 1,
+   "lesson_order": 68
+ },
+ {
+   "id": "N1-069",
+   "grammar": "までだ / までのことだ",
+   "romaji": "made da/no koto da",
+   "meaning_en": "only; just; nothing else",
+   "meaning_bn": "শুধুমাত্র; এর বেশি কিছু না",
+   "level": 1,
+   "lesson_order": 69
+ },
+ {
+   "id": "N1-070",
+   "grammar": "までもない / までもなく",
+   "romaji": "made mo nai/naku",
+   "meaning_en": "there's no need to; not necessary to ~",
+   "meaning_bn": "করার দরকার নেই",
+   "level": 1,
+   "lesson_order": 70
+ },
+ {
+   "id": "N1-071",
+   "grammar": "まじき",
+   "romaji": "majiki",
+   "meaning_en": "should not; must not ~",
+   "meaning_bn": "করা অনুচিত; যা করা যায় না",
+   "level": 1,
+   "lesson_order": 71
+ },
+ {
+   "id": "N1-072",
+   "grammar": "まくる",
+   "romaji": "makuru",
+   "meaning_en": "to do over and over again",
+   "meaning_bn": "বারবার করা; প্রচুর পরিমাণে করা",
+   "level": 1,
+   "lesson_order": 72
+ },
+ {
+   "id": "N1-073",
+   "grammar": "まみれ",
+   "romaji": "mamire",
+   "meaning_en": "covered with; stained; smeared with ~",
+   "meaning_bn": "মাখামাখি; ভরা (সাধারণত তরল/গুঁড়া)",
+   "level": 1,
+   "lesson_order": 73
+ },
+ {
+   "id": "N1-074",
+   "grammar": "まるっきり",
+   "romaji": "marukkiri",
+   "meaning_en": "completely; totally; (not) at all ~",
+   "meaning_bn": "সম্পূর্ণভাবে; একেবারে",
+   "level": 1,
+   "lesson_order": 74
+ },
+ {
+   "id": "N1-075",
+   "grammar": "めく",
+   "romaji": "meku",
+   "meaning_en": "seems; show signs of ~",
+   "meaning_bn": "ভাব; ...এর মতো মনে হওয়া (যেমন:春めく)",
+   "level": 1,
+   "lesson_order": 75
+ },
+ {
+   "id": "N1-076",
+   "grammar": "も同然だ",
+   "romaji": "mo douzen da",
+   "meaning_en": "just like; same as~",
+   "meaning_bn": "প্রায় সমান; একই রকম",
+   "level": 1,
+   "lesson_order": 76
+ },
+ {
+   "id": "N1-077",
+   "grammar": "もさることながら",
+   "romaji": "mo saru koto nagara",
+   "meaning_en": "not only... but also ~",
+   "meaning_bn": "তো বটেই, ...ও",
+   "level": 1,
+   "lesson_order": 77
+ },
+ {
+   "id": "N1-078",
+   "grammar": "もしないで",
+   "romaji": "mo shinai de",
+   "meaning_en": "without even doing ~",
+   "meaning_bn": "এমনকি না করে",
+   "level": 1,
+   "lesson_order": 78
+ },
+ {
+   "id": "N1-079",
+   "grammar": "もはや",
+   "romaji": "mohaya",
+   "meaning_en": "already; now; no longer; not anymore",
+   "meaning_bn": "এখন আর... না; ইতিমধ্যেই",
+   "level": 1,
+   "lesson_order": 79
+ },
+ {
+   "id": "N1-080",
+   "grammar": "もので",
+   "romaji": "mono de",
+   "meaning_en": "because; for that reason",
+   "meaning_bn": "কারণ; একারণে (কথ্য)",
+   "level": 1,
+   "lesson_order": 80
+ },
+ {
+   "id": "N1-081",
+   "grammar": "ものを",
+   "romaji": "mono o",
+   "meaning_en": "if only (regret)",
+   "meaning_bn": "করলেই পারতাম (আক্ষেপ)",
+   "level": 1,
+   "lesson_order": 81
+ },
+ {
+   "id": "N1-082",
+   "grammar": "ものと思われる /ものと見られる",
+   "romaji": "mono to omowareru/ mirareru",
+   "meaning_en": "to think; to suppose; it is believed/expected that ~",
+   "meaning_bn": "মনে করা হচ্ছে; ধারণা করা হচ্ছে",
+   "level": 1,
+   "lesson_order": 82
+ },
+ {
+   "id": "N1-083",
+   "grammar": "ものとする",
+   "romaji": "mono to suru",
+   "meaning_en": "shall; to assume; understood as ~",
+   "meaning_bn": "ধরে নেওয়া হবে; করতে হবে (নিয়ম/চুক্তি)",
+   "level": 1,
+   "lesson_order": 83
+ },
+ {
+   "id": "N1-084",
+   "grammar": "ものとして",
+   "romaji": "mono toshite",
+   "meaning_en": "to assume; to suppose ~",
+   "meaning_bn": "ধরে নিয়ে; বিবেচনা করে",
+   "level": 1,
+   "lesson_order": 84
+ },
+ {
+   "id": "N1-085",
+   "grammar": "もしくは",
+   "romaji": "moshikuwa",
+   "meaning_en": "or; otherwise",
+   "meaning_bn": "অথবা; কিংবা (আনুষ্ঠানিক)",
+   "level": 1,
+   "lesson_order": 85
+ },
+ {
+   "id": "N1-086",
+   "grammar": "んばかりに",
+   "romaji": "n bakari ni",
+   "meaning_en": "as if; as though ~",
+   "meaning_bn": "এমনভাবে যেন...; করার মতো করে",
+   "level": 1,
+   "lesson_order": 86
+ },
+ {
+   "id": "N1-087",
+   "grammar": "んがために",
+   "romaji": "n ga tame ni",
+   "meaning_en": "in order to ~",
+   "meaning_bn": "করার জন্য; উদ্দেশ্যে (সাহিত্যিক)",
+   "level": 1,
+   "lesson_order": 87
+ },
+ {
+   "id": "N1-088",
+   "grammar": "ながらに / ながらの",
+   "romaji": "nagara ni/no",
+   "meaning_en": "while; without change",
+   "meaning_bn": "অবস্থাতেই; থাকা অবস্থাতেই",
+   "level": 1,
+   "lesson_order": 88
+ },
+ {
+   "id": "N1-089",
+   "grammar": "ないまでも",
+   "romaji": "nai made mo",
+   "meaning_en": "not to say; does not reach the level of~",
+   "meaning_bn": "না হলেও; অন্তত... না হলেও",
+   "level": 1,
+   "lesson_order": 89
+ },
+ {
+   "id": "N1-090",
+   "grammar": "ないものでもない",
+   "romaji": "nai mono demo nai",
+   "meaning_en": "is not entirely impossible",
+   "meaning_bn": "একেবারে অসম্ভব নয়",
+   "level": 1,
+   "lesson_order": 90
+ },
+ {
+   "id": "N1-091",
+   "grammar": "ないものか /ないものだろうか",
+   "romaji": "nai mono ka / nai mono darou ka",
+   "meaning_en": "isn't there; can’t we…?; can’t I…?",
+   "meaning_bn": "করা যায় না কি?; কোনো উপায় নেই কি?",
+   "level": 1,
+   "lesson_order": 91
+ },
+ {
+   "id": "N1-092",
+   "grammar": "ないとも限らない",
+   "romaji": "nai tomo kagiranai",
+   "meaning_en": "not necessarily; maybe; might ~",
+   "meaning_bn": "এমন নাও হতে পারে; সম্ভাবনা আছে",
+   "level": 1,
+   "lesson_order": 92
+ },
+ {
+   "id": "N1-093",
+   "grammar": "なくしては",
+   "romaji": "nakushite wa",
+   "meaning_en": "cannot do without ~",
+   "meaning_bn": "ছাড়া সম্ভব নয়",
+   "level": 1,
+   "lesson_order": 93
+ },
+ {
+   "id": "N1-094",
+   "grammar": "並み",
+   "romaji": "nami",
+   "meaning_en": "average; equal to; on par with ~",
+   "meaning_bn": "সমতুল্য; মতো",
+   "level": 1,
+   "lesson_order": 94
+ },
+ {
+   "id": "N1-095",
+   "grammar": "なんという / なんと/ なんて",
+   "romaji": "nan to iu / nanto / nante",
+   "meaning_en": "how (beautiful, etc.); what a ~",
+   "meaning_bn": "কী যে...!; কতই না...! (আবেগ)",
+   "level": 1,
+   "lesson_order": 95
+ },
+ {
+   "id": "N1-096",
+   "grammar": "何しろ",
+   "romaji": "nani shiro",
+   "meaning_en": "anyway; because; as you know ~",
+   "meaning_bn": "যাই হোক; কারণ হলো",
+   "level": 1,
+   "lesson_order": 96
+ },
+ {
+   "id": "N1-097",
+   "grammar": "ならでは",
+   "romaji": "nara dewa",
+   "meaning_en": "distinctive of; uniquely applying to ~",
+   "meaning_bn": "...এর নিজস্ব; ...ছাড়া আর কোথাও নয়",
+   "level": 1,
+   "lesson_order": 97
+ },
+ {
+   "id": "N1-098",
+   "grammar": "ならいざしらず /はいざしらず",
+   "romaji": "nara iza shirazu / wa iza shirazu",
+   "meaning_en": "I don't know about ... but ~",
+   "meaning_bn": "...এর কথা জানি না, কিন্তু...",
+   "level": 1,
+   "lesson_order": 98
+ },
+ {
+   "id": "N1-099",
+   "grammar": "なり",
+   "romaji": "nari",
+   "meaning_en": "as soon as; right after ~",
+   "meaning_bn": "করার সাথে সাথেই",
+   "level": 1,
+   "lesson_order": 99
+ },
+ {
+   "id": "N1-100",
+   "grammar": "なりに / なりの",
+   "romaji": "nari ni / nari no",
+   "meaning_en": "suitable; in one's own way/style",
+   "meaning_bn": "নিজের মতো করে; নিজস্ব শৈলীতে",
+   "level": 1,
+   "lesson_order": 100
+ },
+ {
+   "id": "N1-101",
+   "grammar": "なりとも",
+   "romaji": "nari tomo",
+   "meaning_en": "at least; even just a little",
+   "meaning_bn": "অন্তত; এমনকি সামান্যও",
+   "level": 1,
+   "lesson_order": 101
+ },
+ {
+   "id": "N1-102",
+   "grammar": "なり〜なり",
+   "romaji": "nari~nari",
+   "meaning_en": "[A] or [B] or something; for instance ~",
+   "meaning_bn": "...বা... বা অন্য কিছু",
+   "level": 1,
+   "lesson_order": 102
+ },
+ {
+   "id": "N1-103",
+   "grammar": "なしに / なしで",
+   "romaji": "nashi ni / nashi de",
+   "meaning_en": "without; without doing ~",
+   "meaning_bn": "ছাড়া; না করে",
+   "level": 1,
+   "lesson_order": 103
+ },
+ {
+   "id": "N1-104",
+   "grammar": "に",
+   "romaji": "ni",
+   "meaning_en": "and; in addition to",
+   "meaning_bn": "এবং; আরও (তালিকা)",
+   "level": 1,
+   "lesson_order": 104
+ },
+ {
+   "id": "N1-105",
+   "grammar": "に値する",
+   "romaji": "ni atai suru",
+   "meaning_en": "to be worth; to be worthy of ~",
+   "meaning_bn": "যোগ্য; এর মূল্য আছে",
+   "level": 1,
+   "lesson_order": 105
+ },
+ {
+   "id": "N1-106",
+   "grammar": "にあって",
+   "romaji": "ni atte",
+   "meaning_en": "at; on; during; in the condition of ~",
+   "meaning_bn": "অবস্থায়; পরিস্থিতিতে",
+   "level": 1,
+   "lesson_order": 106
+ },
+ {
+   "id": "N1-107",
+   "grammar": "に引き換え",
+   "romaji": "ni hikikae",
+   "meaning_en": "compared to; in contrast to; unlike ~",
+   "meaning_bn": "এর বিপরীতে; তুলনায়",
+   "level": 1,
+   "lesson_order": 107
+ },
+ {
+   "id": "N1-108",
+   "grammar": "に至る / に至った",
+   "romaji": "ni itaru / ni itatta",
+   "meaning_en": "leads to; come to a conclusion",
+   "meaning_bn": "...এ গিয়ে পৌঁছানো; ...তে পরিণত হওয়া",
+   "level": 1,
+   "lesson_order": 108
+ },
+ {
+   "id": "N1-109",
+   "grammar": "に至るまで",
+   "romaji": "ni itaru made",
+   "meaning_en": "as far as; everything from ... to ~",
+   "meaning_bn": "থেকে... পর্যন্ত সবকিছু",
+   "level": 1,
+   "lesson_order": 109
+ },
+ {
+   "id": "N1-110",
+   "grammar": "に至っても",
+   "romaji": "ni itattemo",
+   "meaning_en": "even if; although something ~",
+   "meaning_bn": "এমনকি... হলেও",
+   "level": 1,
+   "lesson_order": 110
+ },
+ {
+   "id": "N1-111",
+   "grammar": "に至っては",
+   "romaji": "ni ittate wa",
+   "meaning_en": "when it comes to; as for ~",
+   "meaning_bn": "যখন... এর কথা আসে",
+   "level": 1,
+   "lesson_order": 111
+ },
+ {
+   "id": "N1-112",
+   "grammar": "に言わせれば",
+   "romaji": "ni iwasereba",
+   "meaning_en": "if you ask; if one may say ~",
+   "meaning_bn": "যদি তাকে বলতে দেওয়া হয়",
+   "level": 1,
+   "lesson_order": 112
+ },
+ {
+   "id": "N1-113",
+   "grammar": "に限ったことではない",
+   "romaji": "ni kagitta koto dewa nai",
+   "meaning_en": "not limited to only ~",
+   "meaning_bn": "শুধু... এর মধ্যেই সীমাবদ্ধ নয়",
+   "level": 1,
+   "lesson_order": 113
+ },
+ {
+   "id": "N1-114",
+   "grammar": "にかかっては /にかかったら / にかかると / かかれば",
+   "romaji": "ni kakatte wa / ni kakattara / ni kakaru to / kakareba",
+   "meaning_en": "when handled by (N), becomes a different result",
+   "meaning_bn": "এর হাতে পড়লে; এর দ্বারা হলে",
+   "level": 1,
+   "lesson_order": 114
+ },
+ {
+   "id": "N1-115",
+   "grammar": "にかかっている",
+   "romaji": "ni kakatteiru",
+   "meaning_en": "depending on ~",
+   "meaning_bn": "এর উপর নির্ভর করে",
+   "level": 1,
+   "lesson_order": 115
+ },
+ {
+   "id": "N1-116",
+   "grammar": "にかこつけて",
+   "romaji": "ni kako tsukete",
+   "meaning_en": "to use as a pretext; to use as an excuse",
+   "meaning_bn": "অজুহাতে; ছুতোয়",
+   "level": 1,
+   "lesson_order": 116
+ },
+ {
+   "id": "N1-117",
+   "grammar": "にかまけて",
+   "romaji": "ni kamakete",
+   "meaning_en": "to be too busy; to focus only on ~",
+   "meaning_bn": "ব্যস্ত থাকায়; একদিকে মনোযোগ দেওয়ায়",
+   "level": 1,
+   "lesson_order": 117
+ },
+ {
+   "id": "N1-118",
+   "grammar": "に難くない",
+   "romaji": "ni katakunai",
+   "meaning_en": "easy to do; it’s not hard to ~",
+   "meaning_bn": "সহজেই... করা যায়; করা কঠিন নয়",
+   "level": 1,
+   "lesson_order": 118
+ },
+ {
+   "id": "N1-119",
+   "grammar": "にまつわる",
+   "romaji": "ni matsuwaru",
+   "meaning_en": "to be related to; to concern with ~",
+   "meaning_bn": "সম্পর্কিত; সংক্রান্ত",
+   "level": 1,
+   "lesson_order": 119
+ },
+ {
+   "id": "N1-120",
+   "grammar": "に則って",
+   "romaji": "ni nottotte",
+   "meaning_en": "based on; according to ~",
+   "meaning_bn": "অনুসারে; ভিত্তি করে (নিয়ম/আইন)",
+   "level": 1,
+   "lesson_order": 120
+ },
+ {
+   "id": "N1-121",
+   "grammar": "に先駆けて",
+   "romaji": "ni sakigakete",
+   "meaning_en": "prior to; being ahead of ~",
+   "meaning_bn": "এর আগেই; এর চেয়ে এগিয়ে",
+   "level": 1,
+   "lesson_order": 121
+ },
+ {
+   "id": "N1-122",
+   "grammar": "に忍びない",
+   "romaji": "ni shinobinai",
+   "meaning_en": "cannot bring oneself (to do)",
+   "meaning_bn": "করতে মন চায় না; করতে কষ্ট হয়",
+   "level": 1,
+   "lesson_order": 122
+ },
+ {
+   "id": "N1-123",
+   "grammar": "にしたところで /としたところで",
+   "romaji": "ni shita tokoro de / to shita tokoro de",
+   "meaning_en": "even if; even supposing that ~",
+   "meaning_bn": "এমনকি যদি...ও হয়",
+   "level": 1,
+   "lesson_order": 123
+ },
+ {
+   "id": "N1-124",
+   "grammar": "にして",
+   "romaji": "ni shite",
+   "meaning_en": "at/on/under conditions (time, position)",
+   "meaning_bn": "অবস্থায়; সময়ে; পদে থেকে",
+   "level": 1,
+   "lesson_order": 124
+ },
+ {
+   "id": "N1-125",
+   "grammar": "に即して",
+   "romaji": "ni sokushite",
+   "meaning_en": "according to; to be based on ~",
+   "meaning_bn": "অনুযায়ী; অনুসারে (বাস্তব পরিস্থিতি)",
+   "level": 1,
+   "lesson_order": 125
+ },
+ {
+   "id": "N1-126",
+   "grammar": "に耐える / に耐えない",
+   "romaji": "ni taeru / ni taenai",
+   "meaning_en": "worth doing; cannot bear doing ~",
+   "meaning_bn": "করার যোগ্য; করার অযোগ্য",
+   "level": 1,
+   "lesson_order": 126
+ },
+ {
+   "id": "N1-127",
+   "grammar": "に足らない/に足りない",
+   "romaji": "ni taranai/tarinai",
+   "meaning_en": "cannot; not worthy; not worth doing ~",
+   "meaning_bn": "করার যোগ্য নয়; তুচ্ছ",
+   "level": 1,
+   "lesson_order": 127
+ },
+ {
+   "id": "N1-128",
+   "grammar": "に足る / に足りる",
+   "romaji": "ni taru/tariru",
+   "meaning_en": "can do; worthy; worth doing",
+   "meaning_bn": "করার যোগ্য; যথেষ্ট",
+   "level": 1,
+   "lesson_order": 128
+ },
+ {
+   "id": "N1-129",
+   "grammar": "に照らして",
+   "romaji": "ni terashite",
+   "meaning_en": "according to; in view of; in light of ~",
+   "meaning_bn": "এর আলোকে; অনুসারে",
+   "level": 1,
+   "lesson_order": 129
+ },
+ {
+   "id": "N1-130",
+   "grammar": "にとどまらず",
+   "romaji": "ni todomarazu",
+   "meaning_en": "not limited to; not only… but also ~",
+   "meaning_bn": "শুধু...তেই সীমাবদ্ধ নয়",
+   "level": 1,
+   "lesson_order": 130
+ },
+ {
+   "id": "N1-131",
+   "grammar": "には無理がある",
+   "romaji": "ni wa muri ga aru",
+   "meaning_en": "difficult to do; is unreasonable",
+   "meaning_bn": "করা অসম্ভব; অযৌক্তিক",
+   "level": 1,
+   "lesson_order": 131
+ },
+ {
+   "id": "N1-132",
+   "grammar": "によらず",
+   "romaji": "ni yorazu",
+   "meaning_en": "regardless of ~",
+   "meaning_bn": "নির্বিশেষে",
+   "level": 1,
+   "lesson_order": 132
+ },
+ {
+   "id": "N1-133",
+   "grammar": "に〜を重ねて",
+   "romaji": "ni~o kasanete",
+   "meaning_en": "success after continuous (effort)",
+   "meaning_bn": "বারবার... করার পর",
+   "level": 1,
+   "lesson_order": 133
+ },
+ {
+   "id": "N1-134",
+   "grammar": "にもほどがある",
+   "romaji": "nimo hodo ga aru",
+   "meaning_en": "to go too far",
+   "meaning_bn": "খুব বেশি; বাড়াবাড়ি করা",
+   "level": 1,
+   "lesson_order": 134
+ },
+ {
+   "id": "N1-135",
+   "grammar": "にも増して",
+   "romaji": "nimo mashite",
+   "meaning_en": "more than…; above ~",
+   "meaning_bn": "এর চেয়েও বেশি",
+   "level": 1,
+   "lesson_order": 135
+ },
+ {
+   "id": "N1-136",
+   "grammar": "には当たらない",
+   "romaji": "niwa ataranai",
+   "meaning_en": "it’s not worth; there’s no need to ~",
+   "meaning_bn": "করার মতো কিছু না; করার দরকার নেই",
+   "level": 1,
+   "lesson_order": 136
+ },
+ {
+   "id": "N1-137",
+   "grammar": "には及ばない",
+   "romaji": "niwa oyobanai",
+   "meaning_en": "there is no need to; no match for ~",
+   "meaning_bn": "করার দরকার নেই; এর সমকক্ষ নয়",
+   "level": 1,
+   "lesson_order": 137
+ },
+ {
+   "id": "N1-138",
+   "grammar": "の至り",
+   "romaji": "no itari",
+   "meaning_en": "utmost; extremely ~",
+   "meaning_bn": "অত্যন্ত; পরম (আনন্দ/দুঃখ)",
+   "level": 1,
+   "lesson_order": 138
+ },
+ {
+   "id": "N1-139",
+   "grammar": "の極み",
+   "romaji": "no kiwami",
+   "meaning_en": "utmost; extremely ~",
+   "meaning_bn": "চরম; অত্যন্ত",
+   "level": 1,
+   "lesson_order": 139
+ },
+ {
+   "id": "N1-140",
+   "grammar": "のなんのって",
+   "romaji": "no nan notte",
+   "meaning_en": "extremely ~ (cannot express in words)",
+   "meaning_bn": "অত্যন্ত; ভাষায় প্রকাশ করার মতো না",
+   "level": 1,
+   "lesson_order": 140
+ },
+ {
+   "id": "N1-141",
+   "grammar": "のやら / ものやら /ことやら",
+   "romaji": "no yara / mono yara/ koto yara",
+   "meaning_en": "I wonder..; unsure; I don’t know ~",
+   "meaning_bn": "জানি না; হবে হয়তো (অনিশ্চয়তা)",
+   "level": 1,
+   "lesson_order": 141
+ },
+ {
+   "id": "N1-142",
+   "grammar": "のやら〜のやら",
+   "romaji": "no yara~no yara",
+   "meaning_en": "or ~ (I don't know)",
+   "meaning_bn": "জানি না... নাকি...",
+   "level": 1,
+   "lesson_order": 142
+ },
+ {
+   "id": "N1-143",
+   "grammar": "を踏まえて",
+   "romaji": "o fumaete",
+   "meaning_en": "to be based on; to take into account ~",
+   "meaning_bn": "ভিত্তি করে; বিবেচনা করে",
+   "level": 1,
+   "lesson_order": 143
+ },
+ {
+   "id": "N1-144",
+   "grammar": "を経て",
+   "romaji": "o hete",
+   "meaning_en": "through; by way of; after; via ~",
+   "meaning_bn": "মাধ্যমে; হয়ে; পর",
+   "level": 1,
+   "lesson_order": 144
+ },
+ {
+   "id": "N1-145",
+   "grammar": "を控えて",
+   "romaji": "o hikaete",
+   "meaning_en": "to be soon; the time has come to ~",
+   "meaning_bn": "সামনে রেখে; শীঘ্রই",
+   "level": 1,
+   "lesson_order": 145
+ },
+ {
+   "id": "N1-146",
+   "grammar": "をいいことに",
+   "romaji": "o ii koto ni",
+   "meaning_en": "to take advantage of ~",
+   "meaning_bn": "সুযোগ নিয়ে",
+   "level": 1,
+   "lesson_order": 146
+ },
+ {
+   "id": "N1-147",
+   "grammar": "を顧みず / も顧みず",
+   "romaji": "o/mo kaerimizu",
+   "meaning_en": "despite; regardless of ~",
+   "meaning_bn": "তোয়াক্কা না করে; উপেক্ষা করে",
+   "level": 1,
+   "lesson_order": 147
+ },
+ {
+   "id": "N1-148",
+   "grammar": "を限りに",
+   "romaji": "o kagiri ni",
+   "meaning_en": "starting from; the last time",
+   "meaning_bn": "এই পর্যন্তই; শেষবারের মতো",
+   "level": 1,
+   "lesson_order": 148
+ },
+ {
+   "id": "N1-149",
+   "grammar": "を兼ねて",
+   "romaji": "o kanete",
+   "meaning_en": "also for the purpose of ~",
+   "meaning_bn": "একই সাথে... এর উদ্দেশ্যেও",
+   "level": 1,
+   "lesson_order": 149
+ },
+ {
+   "id": "N1-150",
+   "grammar": "を皮切りに",
+   "romaji": "o kawakiri ni",
+   "meaning_en": "one after another; starting with ~",
+   "meaning_bn": "...কে শুরু করে; একের পর এক",
+   "level": 1,
+   "lesson_order": 150
+ },
+ {
+   "id": "N1-151",
+   "grammar": "を機に",
+   "romaji": "o ki ni",
+   "meaning_en": "as an opportunity/chance to ~",
+   "meaning_bn": "...কে সুযোগ হিসেবে নিয়ে",
+   "level": 1,
+   "lesson_order": 151
+ },
+ {
+   "id": "N1-152",
+   "grammar": "を禁じ得ない",
+   "romaji": "o kinji enai",
+   "meaning_en": "can’t help but; can’t refrain from ~",
+   "meaning_bn": "...না করে থাকতে পারি না (আবেগ)",
+   "level": 1,
+   "lesson_order": 152
+ },
+ {
+   "id": "N1-153",
+   "grammar": "をものともせずに",
+   "romaji": "o mono tomo sezuni",
+   "meaning_en": "in defiance; not losing to/worrying about ~",
+   "meaning_bn": "কোনো কিছুকে তোয়াক্কা না করে",
+   "level": 1,
+   "lesson_order": 153
+ },
+ {
+   "id": "N1-154",
+   "grammar": "をもって /をもちまして",
+   "romaji": "o motte /o mochimashite",
+   "meaning_en": "by means of; with; on / at / as of (time)",
+   "meaning_bn": "দ্বারা; দিয়ে; থেকে (আনুষ্ঠানিক)",
+   "level": 1,
+   "lesson_order": 154
+ },
+ {
+   "id": "N1-155",
+   "grammar": "をおいて〜ない",
+   "romaji": "o oite~nai",
+   "meaning_en": "can only be; no alternative, only ~",
+   "meaning_bn": "...ছাড়া আর কেউ নেই",
+   "level": 1,
+   "lesson_order": 155
+ },
+ {
+   "id": "N1-156",
+   "grammar": "を押して /を押し切って",
+   "romaji": "o oshite /o oshikitte",
+   "meaning_en": "to overcome (opposition)",
+   "meaning_bn": "বাধা সত্ত্বেও; উপেক্ষা করে",
+   "level": 1,
+   "lesson_order": 156
+ },
+ {
+   "id": "N1-157",
+   "grammar": "を境に",
+   "romaji": "o sakai ni",
+   "meaning_en": "since ~ (indicates large change)",
+   "meaning_bn": "...এর পর থেকে (বড় পরিবর্তন)",
+   "level": 1,
+   "lesson_order": 157
+ },
+ {
+   "id": "N1-158",
+   "grammar": "を余儀なくされる",
+   "romaji": "o yogi naku sareru",
+   "meaning_en": "forced to do something (no choice)",
+   "meaning_bn": "করতে বাধ্য হওয়া",
+   "level": 1,
+   "lesson_order": 158
+ },
+ {
+   "id": "N1-159",
+   "grammar": "をよそに",
+   "romaji": "o yoso ni",
+   "meaning_en": "despite; without regards to ~",
+   "meaning_bn": "তোয়াক্কা না করে; উপেক্ষা করে",
+   "level": 1,
+   "lesson_order": 159
+ },
+ {
+   "id": "N1-160",
+   "grammar": "を前提として",
+   "romaji": "o zentei toshite",
+   "meaning_en": "with the intention to; on the condition",
+   "meaning_bn": "এই শর্তে যে...; পূর্বশর্ত হিসেবে",
+   "level": 1,
+   "lesson_order": 160
+ },
+ {
+   "id": "N1-161",
+   "grammar": "思いをする",
+   "romaji": "omoi o suru",
+   "meaning_en": "to think; to feel ~",
+   "meaning_bn": "এমন অনুভূতি হওয়া; এমন অভিজ্ঞতা হওয়া",
+   "level": 1,
+   "lesson_order": 161
+ },
+ {
+   "id": "N1-162",
+   "grammar": "折に",
+   "romaji": "ori ni",
+   "meaning_en": "when; at the time; on the occasion ~",
+   "meaning_bn": "সময়; উপলক্ষে",
+   "level": 1,
+   "lesson_order": 162
+ },
+ {
+   "id": "N1-163",
+   "grammar": "およそ",
+   "romaji": "oyoso",
+   "meaning_en": "about; roughly; generally; completely ~",
+   "meaning_bn": "প্রায়; মোটামুটি",
+   "level": 1,
+   "lesson_order": 163
+ },
+ {
+   "id": "N1-164",
+   "grammar": "さ",
+   "romaji": "sa",
+   "meaning_en": "ending particle; indicates assertion",
+   "meaning_bn": "(পুরুষালী কথায় জোর দিতে ব্যবহৃত)",
+   "level": 1,
+   "lesson_order": 164
+ },
+ {
+   "id": "N1-165",
+   "grammar": "さも",
+   "romaji": "samo",
+   "meaning_en": "really (seem, appear, etc.); truly; as if ~",
+   "meaning_bn": "যেন; ঠিক যেন",
+   "level": 1,
+   "lesson_order": 165
+ },
+ {
+   "id": "N1-166",
+   "grammar": "さもないと",
+   "romaji": "samonaito",
+   "meaning_en": "otherwise; or else; if not ~",
+   "meaning_bn": "নতুবা; নইলে",
+   "level": 1,
+   "lesson_order": 166
+ },
+ {
+   "id": "N1-167",
+   "grammar": "さぞ",
+   "romaji": "sazo",
+   "meaning_en": "surely; certainly; no doubt; indeed ~",
+   "meaning_bn": "নিশ্চয়ই; অবশ্যই (সহানুভূতি)",
+   "level": 1,
+   "lesson_order": 167
+ },
+ {
+   "id": "N1-168",
+   "grammar": "始末だ",
+   "romaji": "shimatsu da",
+   "meaning_en": "in the end; as a result (negative)",
+   "meaning_bn": "শেষমেশ এই দশা; এই পরিণতি",
+   "level": 1,
+   "lesson_order": 168
+ },
+ {
+   "id": "N1-169",
+   "grammar": "そばから",
+   "romaji": "soba kara",
+   "meaning_en": "as soon as; right after ~",
+   "meaning_bn": "করার সাথে সাথেই (আবার একই ঘটনা ঘটে)",
+   "level": 1,
+   "lesson_order": 169
+ },
+ {
+   "id": "N1-170",
+   "grammar": "そびれる",
+   "romaji": "sobireru",
+   "meaning_en": "to miss a chance; to fail to do ~",
+   "meaning_bn": "সুযোগ হারানো; করতে না পারা",
+   "level": 1,
+   "lesson_order": 170
+ },
+ {
+   "id": "N1-171",
+   "grammar": "損なう / 損ねる /損じる",
+   "romaji": "sokonau / sokoneru/ sonjiru",
+   "meaning_en": "to fail to; miss a chance",
+   "meaning_bn": "করতে ব্যর্থ হওয়া; সুযোগ হারানো",
+   "level": 1,
+   "lesson_order": 171
+ },
+ {
+   "id": "N1-172",
+   "grammar": "術がない",
+   "romaji": "sube ga nai",
+   "meaning_en": "there is no way / means; cannot do ~",
+   "meaning_bn": "কোনো উপায় নেই",
+   "level": 1,
+   "lesson_order": 172
+ },
+ {
+   "id": "N1-173",
+   "grammar": "すら / ですら",
+   "romaji": "sura / de sura",
+   "meaning_en": "even ~ (with emphasis)",
+   "meaning_bn": "এমনকি...ও",
+   "level": 1,
+   "lesson_order": 173
+ },
+ {
+   "id": "N1-174",
+   "grammar": "た弾みに /た拍子に",
+   "romaji": "ta hazumi ni / ta hyoushi ni",
+   "meaning_en": "the moment [A], unintentionally caused something to happen",
+   "meaning_bn": "করার মুহূর্তে; ধাক্কায় (অনিচ্ছাকৃত)",
+   "level": 1,
+   "lesson_order": 174
+ },
+ {
+   "id": "N1-175",
+   "grammar": "たことにする /たことになる",
+   "romaji": "ta koto ni suru / ta koto ni naru",
+   "meaning_en": "pretend to; contrary to the truth ~",
+   "meaning_bn": "এমন ভাব করা যেন...; এমন হয়ে যাওয়া",
+   "level": 1,
+   "lesson_order": 175
+ },
+ {
+   "id": "N1-176",
+   "grammar": "たところで",
+   "romaji": "ta tokoro de",
+   "meaning_en": "even if; no matter (who, what, when...)",
+   "meaning_bn": "করলেও; তা সত্ত্বেও (লাভ নেই)",
+   "level": 1,
+   "lesson_order": 176
+ },
+ {
+   "id": "N1-177",
+   "grammar": "たつもりはない",
+   "romaji": "ta tsumori wa nai",
+   "meaning_en": "have no intention to / didn't mean to ~",
+   "meaning_bn": "করার কোনো ইচ্ছা ছিল না",
+   "level": 1,
+   "lesson_order": 177
+ },
+ {
+   "id": "N1-178",
+   "grammar": "ただ〜のみだ",
+   "romaji": "tada~nomi da",
+   "meaning_en": "can do nothing but; only ~",
+   "meaning_bn": "শুধুমাত্র... করা ছাড়া উপায় নেই",
+   "level": 1,
+   "lesson_order": 178
+ },
+ {
+   "id": "N1-179",
+   "grammar": "ためしがない",
+   "romaji": "tameshi ga nai",
+   "meaning_en": "is never the case; have never heard of ~",
+   "meaning_bn": "এমন ঘটনা কখনো ঘটেনি",
+   "level": 1,
+   "lesson_order": 179
+ },
+ {
+   "id": "N1-180",
+   "grammar": "たら最後 / たが最後",
+   "romaji": "tara saigo / taga saigo",
+   "meaning_en": "if you do... negative result",
+   "meaning_bn": "একবার... করলে আর রক্ষা নেই",
+   "level": 1,
+   "lesson_order": 180
+ },
+ {
+   "id": "N1-181",
+   "grammar": "たら〜たで",
+   "romaji": "tara~tade",
+   "meaning_en": "if / in the case... of course / should ~",
+   "meaning_bn": "হলে... সেটারও অন্য সমস্যা আছে",
+   "level": 1,
+   "lesson_order": 181
+ },
+ {
+   "id": "N1-182",
+   "grammar": "たら〜ところだ",
+   "romaji": "tara~tokoro da",
+   "meaning_en": "if... (counterfactual), then would be ~",
+   "meaning_bn": "যদি... করতাম, তাহলে... হতো",
+   "level": 1,
+   "lesson_order": 182
+ },
+ {
+   "id": "N1-183",
+   "grammar": "たりとも",
+   "romaji": "tari tomo",
+   "meaning_en": "not even; not any ~",
+   "meaning_bn": "একবিন্দুও না; একটুও না",
+   "level": 1,
+   "lesson_order": 183
+ },
+ {
+   "id": "N1-184",
+   "grammar": "たるもの / たる",
+   "romaji": "taru mono / taru",
+   "meaning_en": "(that) which is; in capacity of ... should",
+   "meaning_bn": "হিসেবে; এই পদে থেকে",
+   "level": 1,
+   "lesson_order": 184
+ },
+ {
+   "id": "N1-185",
+   "grammar": "て敵わない",
+   "romaji": "te kanawanai",
+   "meaning_en": "can't bear to; unable to; troublesome to",
+   "meaning_bn": "অসহ্য; সহ্য করা কঠিন",
+   "level": 1,
+   "lesson_order": 185
+ },
+ {
+   "id": "N1-186",
+   "grammar": "てからというもの",
+   "romaji": "te kara to iu mono",
+   "meaning_en": "ever since ~",
+   "meaning_bn": "করার পর থেকে (বড় পরিবর্তন)",
+   "level": 1,
+   "lesson_order": 186
+ },
+ {
+   "id": "N1-187",
+   "grammar": "てみせる",
+   "romaji": "te miseru",
+   "meaning_en": "I’ll do my best; I'll show you ~",
+   "meaning_bn": "করে দেখাবো",
+   "level": 1,
+   "lesson_order": 187
+ },
+ {
+   "id": "N1-188",
+   "grammar": "てしかるべきだ",
+   "romaji": "te shikaru beki da",
+   "meaning_en": "should; appropriate; natural to do ~",
+   "meaning_bn": "করাই উচিত; হওয়াই স্বাভাবিক",
+   "level": 1,
+   "lesson_order": 188
+ },
+ {
+   "id": "N1-189",
+   "grammar": "て済むことではない",
+   "romaji": "te sumu koto dewa nai",
+   "meaning_en": "~ is not enough to solve the problem",
+   "meaning_bn": "শুধু... করলেই সমাধান হবে না",
+   "level": 1,
+   "lesson_order": 189
+ },
+ {
+   "id": "N1-190",
+   "grammar": "てやまない",
+   "romaji": "te yamanai",
+   "meaning_en": "always; never stop; can’t help but ~",
+   "meaning_bn": "সবসময়... করি; মন থেকে... করা",
+   "level": 1,
+   "lesson_order": 190
+ },
+ {
+   "id": "N1-191",
+   "grammar": "手前",
+   "romaji": "temae",
+   "meaning_en": "considering; before; one’s standpoint",
+   "meaning_bn": "অবস্থা বিবেচনায়; সম্মানের খাতিরে",
+   "level": 1,
+   "lesson_order": 191
+ },
+ {
+   "id": "N1-192",
+   "grammar": "てもどうにもならない",
+   "romaji": "temo dou ni mo naranai",
+   "meaning_en": "it's no use; can't do anything",
+   "meaning_bn": "করলেও কিছু করার নেই",
+   "level": 1,
+   "lesson_order": 192
+ },
+ {
+   "id": "N1-193",
+   "grammar": "ても差し支えない",
+   "romaji": "temo sashitsukaenai",
+   "meaning_en": "can ~; it’s okay if ~ (compromise)",
+   "meaning_bn": "করলেও সমস্যা নেই",
+   "level": 1,
+   "lesson_order": 193
+ },
+ {
+   "id": "N1-194",
+   "grammar": "ても知らない",
+   "romaji": "temo shiranai",
+   "meaning_en": "if continue... you'll end up / I don't care",
+   "meaning_bn": "করলে... আমার কিছু করার নেই",
+   "level": 1,
+   "lesson_order": 194
+ },
+ {
+   "id": "N1-195",
+   "grammar": "と相まって",
+   "romaji": "to aimatte",
+   "meaning_en": "together with..., more ~",
+   "meaning_bn": "এর সাথে মিলিত হয়ে; সাথে সাথে",
+   "level": 1,
+   "lesson_order": 195
+ },
+ {
+   "id": "N1-196",
+   "grammar": "とあれば",
+   "romaji": "to areba",
+   "meaning_en": "if it is the case that; if ~",
+   "meaning_bn": "যদি... হয়; যদি এমন হয়",
+   "level": 1,
+   "lesson_order": 196
+ },
+ {
+   "id": "N1-197",
+   "grammar": "とあって",
+   "romaji": "to atte",
+   "meaning_en": "due to the fact that; because of ~",
+   "meaning_bn": "একারণে; এই বিশেষ পরিস্থিতিতে",
+   "level": 1,
+   "lesson_order": 197
+ },
+ {
+   "id": "N1-198",
+   "grammar": "とばかりに",
+   "romaji": "to bakari ni",
+   "meaning_en": "as if to say; as though~",
+   "meaning_bn": "এমনভাবে যেন বলতে চায়",
+   "level": 1,
+   "lesson_order": 198
+ },
+ {
+   "id": "N1-199",
+   "grammar": "といえども",
+   "romaji": "to ie domo",
+   "meaning_en": "even if; even though; despite ~",
+   "meaning_bn": "যদিও; সত্ত্বেও (আনুষ্ঠানিক)",
+   "level": 1,
+   "lesson_order": 199
+ },
+ {
+   "id": "N1-200",
+   "grammar": "と言えなくもない",
+   "romaji": "to ienaku mo nai",
+   "meaning_en": "it can also be said that ~",
+   "meaning_bn": "বলা যেতে পারে যে...",
+   "level": 1,
+   "lesson_order": 200
+ },
+ {
+   "id": "N1-201",
+   "grammar": "といい〜といい",
+   "romaji": "to ii~to ii",
+   "meaning_en": "both ... and; whether it be ... or ~",
+   "meaning_bn": "হোক... বা...; ...এবং... দুটোই",
+   "level": 1,
+   "lesson_order": 201
+ },
+ {
+   "id": "N1-202",
+   "grammar": "といったらない",
+   "romaji": "to ittara nai",
+   "meaning_en": "extremely; nothing more ... than this",
+   "meaning_bn": "অত্যন্ত; এর চেয়ে বেশি... আর হয় না",
+   "level": 1,
+   "lesson_order": 202
+ },
+ {
+   "id": "N1-203",
+   "grammar": "という",
+   "romaji": "to iu",
+   "meaning_en": "all; every single ~ (no exceptions)",
+   "meaning_bn": "সব; প্রতিটি (ব্যতিক্রম ছাড়া)",
+   "level": 1,
+   "lesson_order": 203
+ },
+ {
+   "id": "N1-204",
+   "grammar": "というか〜というか",
+   "romaji": "to iu ka~to iu ka",
+   "meaning_en": "or rather; I mean ~",
+   "meaning_bn": "বলতে গেলে; কিংবা",
+   "level": 1,
+   "lesson_order": 204
+ },
+ {
+   "id": "N1-205",
+   "grammar": "というもの",
+   "romaji": "to iu mono",
+   "meaning_en": "during; for; since; over a period of time",
+   "meaning_bn": "সময় ধরে; যাবত",
+   "level": 1,
+   "lesson_order": 205
+ },
+ {
+   "id": "N1-206",
+   "grammar": "というところだ /といったところだ",
+   "romaji": "to iu tokoro da / to itta tokoro da",
+   "meaning_en": "at the most; no more than; roughly ~",
+   "meaning_bn": "বড়জোর; মোটামুটি",
+   "level": 1,
+   "lesson_order": 206
+ },
+ {
+   "id": "N1-207",
+   "grammar": "というわけだ",
+   "romaji": "to iu wake da",
+   "meaning_en": "that's why; no wonder ~",
+   "meaning_bn": "এ কারণেই; তাই তো",
+   "level": 1,
+   "lesson_order": 207
+ },
+ {
+   "id": "N1-208",
+   "grammar": "というわけではない",
+   "romaji": "to iu wake dewa nai",
+   "meaning_en": "it’s not that; it doesn’t mean that ~",
+   "meaning_bn": "এমন না যে...",
+   "level": 1,
+   "lesson_order": 208
+ },
+ {
+   "id": "N1-209",
+   "grammar": "といわず〜といわず",
+   "romaji": "to iwazu~to iwazu",
+   "meaning_en": "both; not only A or B, but (overall) ~",
+   "meaning_bn": "শুধু... নয়, ...ও (সবকিছুই)",
+   "level": 1,
+   "lesson_order": 209
+ },
+ {
+   "id": "N1-210",
+   "grammar": "ときている",
+   "romaji": "to kiteiru",
+   "meaning_en": "because of ~",
+   "meaning_bn": "একারণে; এর মতো মানুষ বলেই",
+   "level": 1,
+   "lesson_order": 210
+ },
+ {
+   "id": "N1-211",
+   "grammar": "とみると",
+   "romaji": "to miru to",
+   "meaning_en": "as soon as one realizes ..., then ~",
+   "meaning_bn": "বুঝতে পেরেই; দেখার সাথে সাথেই",
+   "level": 1,
+   "lesson_order": 211
+ },
+ {
+   "id": "N1-212",
+   "grammar": "と見るや",
+   "romaji": "to miru ya",
+   "meaning_en": "at the sight of; after confirming ~",
+   "meaning_bn": "দেখামাত্রই; নিশ্চিত করার সাথে সাথেই",
+   "level": 1,
+   "lesson_order": 212
+ },
+ {
+   "id": "N1-213",
+   "grammar": "となると / となれば",
+   "romaji": "to naru to / to nareba",
+   "meaning_en": "when it comes to; in such a case",
+   "meaning_bn": "যখন... এর কথা আসে; সেক্ষেত্রে",
+   "level": 1,
+   "lesson_order": 213
+ },
+ {
+   "id": "N1-214",
+   "grammar": "とされる",
+   "romaji": "to sareru",
+   "meaning_en": "is considered to; it is said that ~",
+   "meaning_bn": "বলে মনে করা হয়",
+   "level": 1,
+   "lesson_order": 214
+ },
+ {
+   "id": "N1-215",
+   "grammar": "ときたら",
+   "romaji": "tokitara",
+   "meaning_en": "when it comes to; concerning ~",
+   "meaning_bn": "যখন... এর কথা আসে (সাধারণত সমালোচনা)",
+   "level": 1,
+   "lesson_order": 215
+ },
+ {
+   "id": "N1-216",
+   "grammar": "ところを",
+   "romaji": "tokoro o",
+   "meaning_en": "although (it is a certain time/condition)",
+   "meaning_bn": "অবস্থায়; সময়ে (বাধা সত্ত্বেও)",
+   "level": 1,
+   "lesson_order": 216
+ },
+ {
+   "id": "N1-217",
+   "grammar": "ともあろうものが",
+   "romaji": "tomo arou mono ga",
+   "meaning_en": "of all people... (surprise)",
+   "meaning_bn": "এর মতো মানুষ হয়েও... (আশ্চর্য)",
+   "level": 1,
+   "lesson_order": 217
+ },
+ {
+   "id": "N1-218",
+   "grammar": "ともなく / ともなしに",
+   "romaji": "tomo naku/nashi ni",
+   "meaning_en": "somehow; without knowing/thinking",
+   "meaning_bn": "অজানতেই; আনমনে",
+   "level": 1,
+   "lesson_order": 218
+ },
+ {
+   "id": "N1-219",
+   "grammar": "ともすれば",
+   "romaji": "tomo sureba",
+   "meaning_en": "apt to (do); tend to; liable to; prone to ~",
+   "meaning_bn": "মাঝে মাঝে; প্রায়শই",
+   "level": 1,
+   "lesson_order": 219
+ },
+ {
+   "id": "N1-220",
+   "grammar": "とも〜とも",
+   "romaji": "tomo~tomo",
+   "meaning_en": "unable to draw a conclusion/ judge",
+   "meaning_bn": "কিছুই বলা যায় না; নিশ্চিত না",
+   "level": 1,
+   "lesson_order": 220
+ },
+ {
+   "id": "N1-221",
+   "grammar": "とりわけ",
+   "romaji": "toriwake",
+   "meaning_en": "especially; above all ~",
+   "meaning_bn": "বিশেষ করে; বিশেষভাবে",
+   "level": 1,
+   "lesson_order": 221
+ },
+ {
+   "id": "N1-222",
+   "grammar": "としたことが",
+   "romaji": "toshita koto ga",
+   "meaning_en": "of all people, who would have thought?",
+   "meaning_bn": "এর মতো একজন হয়েও... (অপ্রত্যাশিত ভুল)",
+   "level": 1,
+   "lesson_order": 222
+ },
+ {
+   "id": "N1-223",
+   "grammar": "とっさに",
+   "romaji": "tossa ni",
+   "meaning_en": "at once; right away; promptly",
+   "meaning_bn": "তৎক্ষণাৎ; সাথে সাথে",
+   "level": 1,
+   "lesson_order": 223
+ },
+ {
+   "id": "N1-224",
+   "grammar": "とて",
+   "romaji": "tote",
+   "meaning_en": "even; even if/though ~",
+   "meaning_bn": "এমনকি; যদিও",
+   "level": 1,
+   "lesson_order": 224
+ },
+ {
+   "id": "N1-225",
+   "grammar": "とは",
+   "romaji": "towa",
+   "meaning_en": "I was surprised that; the fact that ~",
+   "meaning_bn": "যে...; এই বিষয়টি",
+   "level": 1,
+   "lesson_order": 225
+ },
+ {
+   "id": "N1-226",
+   "grammar": "とはいえ",
+   "romaji": "towa ie",
+   "meaning_en": "though; although; nonetheless",
+   "meaning_bn": "যদিও; তা সত্ত্বেও",
+   "level": 1,
+   "lesson_order": 226
+ },
+ {
+   "id": "N1-227",
+   "grammar": "とは比べものにならない",
+   "romaji": "towa kurabemono ni naranai",
+   "meaning_en": "can't compare with ~",
+   "meaning_bn": "এর সাথে তুলনাই চলে না",
+   "level": 1,
+   "lesson_order": 227
+ },
+ {
+   "id": "N1-228",
+   "grammar": "とは打って変わって/ とは打って変わり",
+   "romaji": "towa utte kawatte / to wa utte kawari",
+   "meaning_en": "unlike; very different from ~",
+   "meaning_bn": "এর থেকে সম্পূর্ণ ভিন্ন",
+   "level": 1,
+   "lesson_order": 228
+ },
+ {
+   "id": "N1-229",
+   "grammar": "つ〜つ",
+   "romaji": "tsu~tsu",
+   "meaning_en": "and ~ (indicates 2 contrasting actions)",
+   "meaning_bn": "কখনো... করা, কখনো... করা",
+   "level": 1,
+   "lesson_order": 229
+ },
+ {
+   "id": "N1-230",
+   "grammar": "尽くす",
+   "romaji": "tsukusu",
+   "meaning_en": "to use up (completely)",
+   "meaning_bn": "পুরোপুরি ব্যবহার করা; নিঃশেষ করা",
+   "level": 1,
+   "lesson_order": 230
+ },
+ {
+   "id": "N1-231",
+   "grammar": "ってば / ったら",
+   "romaji": "tteba / ttara",
+   "meaning_en": "speaking of; I told you already",
+   "meaning_bn": "বলছি না!; আরে...",
+   "level": 1,
+   "lesson_order": 231
+ },
+ {
+   "id": "N1-232",
+   "grammar": "うちに入らない",
+   "romaji": "uchi ni hairanai",
+   "meaning_en": "not really; can't be regarded as ~",
+   "meaning_bn": "গণনার মধ্যেই পড়ে না; তেমন কিছুই না",
+   "level": 1,
+   "lesson_order": 232
+ },
+ {
+   "id": "N1-233",
+   "grammar": "わ",
+   "romaji": "wa",
+   "meaning_en": "feminine sentence ending particle",
+   "meaning_bn": "(মহিলাদের ব্যবহৃত বাক্যের শেষের কণা)",
+   "level": 1,
+   "lesson_order": 233
+ },
+ {
+   "id": "N1-234",
+   "grammar": "はどうであれ",
+   "romaji": "wa dou de are",
+   "meaning_en": "however; whatever ~",
+   "meaning_bn": "যাই হোক না কেন",
+   "level": 1,
+   "lesson_order": 234
+ },
+ {
+   "id": "N1-235",
+   "grammar": "はおろか",
+   "romaji": "wa oroka",
+   "meaning_en": "let alone; needless to say ~",
+   "meaning_bn": "তো দূরের কথা; বলা বাহুল্য",
+   "level": 1,
+   "lesson_order": 235
+ },
+ {
+   "id": "N1-236",
+   "grammar": "はさておき",
+   "romaji": "wa sateoki",
+   "meaning_en": "setting aside ~",
+   "meaning_bn": "বাদ দিয়ে; পাশে রেখে",
+   "level": 1,
+   "lesson_order": 236
+ },
+ {
+   "id": "N1-237",
+   "grammar": "はそっちのけで /をそっちのけで",
+   "romaji": "wa socchinoke de / o socchinoke de",
+   "meaning_en": "ignoring (one thing) for (another)",
+   "meaning_bn": "একদিকে... অন্যদিকে (উপেক্ষা করে)",
+   "level": 1,
+   "lesson_order": 237
+ },
+ {
+   "id": "N1-238",
+   "grammar": "わ〜わで",
+   "romaji": "wa~wade",
+   "meaning_en": "and (list neg. things happening at same time)",
+   "meaning_bn": "কখনো... আবার কখনো... (নেতিবাচক)",
+   "level": 1,
+   "lesson_order": 238
+ },
+ {
+   "id": "N1-239",
+   "grammar": "や否や",
+   "romaji": "ya ina ya",
+   "meaning_en": "as soon as; the moment ~",
+   "meaning_bn": "করার সাথে সাথেই; হওয়ার সাথে সাথেই",
+   "level": 1,
+   "lesson_order": 239
+ },
+ {
+   "id": "N1-240",
+   "grammar": "やしない",
+   "romaji": "ya shinai",
+   "meaning_en": "should do, but don't; there's no way ~",
+   "meaning_bn": "করার কোনো সম্ভাবনা নেই",
+   "level": 1,
+   "lesson_order": 240
+ },
+ {
+   "id": "N1-241",
+   "grammar": "やれ〜やれ",
+   "romaji": "yare~yare",
+   "meaning_en": "give 2 representative examples (negative)",
+   "meaning_bn": "কখনো... আবার কখনো... (নেতিবাচক উদাহরণ)",
+   "level": 1,
+   "lesson_order": 241
+ },
+ {
+   "id": "N1-242",
+   "grammar": "ようが / ようと",
+   "romaji": "you ga / you to",
+   "meaning_en": "even if; no matter how/what ~",
+   "meaning_bn": "যতই... হোক না কেন",
+   "level": 1,
+   "lesson_order": 242
+ },
+ {
+   "id": "N1-243",
+   "grammar": "ようが〜ようが /ようと〜ようと",
+   "romaji": "you ga~you ga / you to~you to",
+   "meaning_en": "no matter; whether; even if [A] or [B]",
+   "meaning_bn": "হোক... বা... হোক",
+   "level": 1,
+   "lesson_order": 243
+ }
+]
